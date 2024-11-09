@@ -1,0 +1,1754 @@
+﻿Code,Title,Is Replaced By,Removed In
+Ac_15_20_41,Invasive and nuisance animal species survey,Ac_15_20_40 Invasive species surveying,2017-01
+Ac_15_75_28,Geochemical surveying,Ac_15_75_20 Geochemical surveying,2016-10
+Ac_15_75_30,Geoenvironmental exploratory investigating,Ac_15_75_25 Geoenvironmental exploratory investigating,2016-10
+Ac_15_75_32,Geoenvironmental ground investigating,Ac_15_75_30 Geoenvironmental ground investigating,2016-10
+Ac_15_75_34,Geological surveying,Ac_15_75_45 Geological surveying,2016-10
+Ac_15_75_35,Geotechnical bore hole survey,Ac_15_10_10 Borehole surveying,2016-10
+Ac_15_75_36,Geotechnical ground investigating,Ac_15_75_50 Geotechnical investigating,2016-10
+Ac_15_75_38,Geotechnical substructure investigating,Ac_15_75_55 Geotechnical substructure investigating,2016-10
+Ac_20_40,Design activities,Ac_25_20 Design and craft activities,2016-10
+Ac_20_40_04,Art,Ac_25_20_15 Craft activities,2016-10
+Ac_20_40_13,Ceramics,Ac_25_20_13 Ceramics making,2016-10
+Ac_20_40_24,Drawing,Ac_25_20_24 Drawing,2016-10
+Ac_20_40_60,Painting,Ac_25_20_60 Painting,2016-10
+Ac_20_40_88,Technical drawing,Ac_25_20_88 Technical drawing,2016-10
+Ac_20_65_42,Interviewing,Ac_90_20_42 Interviewing,2017-01
+Ac_20_70_28,Evidence storing,Ac_90_50_25 Evidence storing,2018-01
+Ac_35_10_28,Examining,Ac_35_10_61 Patient examining,2017-01
+Ac_35_10_59,Operating,Ac_35_10_85 Surgical operating,2017-01
+Ac_35_10_76,Screening,Ac_35_10_62 Patient screening,2017-01
+Ac_45_10,Residential activities,Ac_45 Residential activities,2018-04
+Ac_45_10_11,Camping,Ac_45_30_11 Camping,2018-04
+Ac_45_10_12,Caravanning,Ac_45_30_12 Caravanning,2018-04
+Ac_45_10_14,Communal socializing,Ac_45_45_14 Communal socializing,2018-04
+Ac_45_10_16,Concierge servicing,Ac_45_70_16 Concierge servicing,2018-04
+Ac_45_10_22,Dining,Ac_45_45_22 Dining,2018-04
+Ac_45_10_33,Gardening,Ac_45_30_33 Gardening,2018-04
+Ac_45_10_79,Sleeping,Ac_45_45_79 Sleeping,2018-04
+Ac_45_10_87,Studying,Ac_25_10_84 Studying,2018-01
+Ac_45_10_93,Utility activities,Ac_45_70_93 Utility activities,2018-04
+Ac_80_05_08,Aircraft storing,Ac_90_50_02 Aircraft storing,2018-01
+Ac_80_35_94,Bridge function,Ac_80_94 Bridge function activities,2016-10
+Ac_80_35_94_60,Passing over a bridge,Ac_80_94_60 Passing over a bridge,2016-10
+Ac_80_35_94_90,Passing under a bridge,Ac_80_94_90 Passing under a bridge,2016-10
+Ac_80_45_13,Car parking - indoor,Ac_80_45_40 Indoor vehicle parking,2017-01
+Ac_80_45_14,Car parking - outdoor,Ac_80_45_59 Outdoor vehicle parking,2017-01
+Co_20_90_77,Sea rescue complexes,Co_20_90_02 Air and sea rescue complexes,2017-01
+Co_25_50_85,Statues,Pr_40_50_05_85 Statuary,2017-01
+Co_30_10_33,Gas extraction complexes,Co_55_05_30 Gas extraction complexes,2017-01
+Co_30_10_59,Oil extraction complexes,Co_55_10_40 Oil extraction complexes,2017-01
+Co_35_50_16,Crèches and nurseries,SL_35_50_17 Crèches and nurseries,2017-01
+Co_45_10_39,Houses,Co_45_10_74 Residential properties,2017-01
+Co_50_20_10,Wastewater collection complexes,Co_50_35 Wastewater collection complexes,2021-01
+Co_50_20_20,Wastewater collection networks,Co_50_35_96 Wastewater collection networks,2021-01
+Co_50_20_60,Drainage collection networks,Co_50_30_25 Drainage collection networks,2021-01
+Co_50_60_40,Wastewater treatment complexes,Co_50_75_90 Wastewater treatment complexes,2021-01
+Co_50_60_80,Drainage disposal networks,Co_50_70_25 Drainage disposal networks,2021-01
+Co_50_75_85,Wastewater storage complexes,En_50_75_96 Wastewater storage entities,2023-01
+Co_50_90,Radioactive waste disposal complexes,Co_30_20 Nuclear and chemical management complexes,2016-10
+Co_55_15_96,Water storage complexes,"En_55_15_80 Raw water storage entities
+En_55_70_89 Treated water storage entities",2023-01
+Co_75_30,Telecommunications complexes,Co_75_10 Communications complexes,2017-04
+Co_75_30_10,Telecommunications complexes,Co_75_10_80 Telecommunications complexes,2017-04
+Co_75_30_20,Telecommunications networks,Co_75_10_90 Telecommunications networks,2017-04
+Co_80_35_07,Bus maintenance depots,En_80_35_07 Bus maintenance depots,2018-08
+Co_80_35_08,Bus parks,En_80_45_08 Bus parks,2017-01
+Co_80_35_09,Bus/ coach station,En_80_35_09 Bus and coach stations,2018-08
+Co_80_35_11,Car garaging complexes,En_80_45_11 Car garaging entities,2018-08
+Co_80_35_17,Coach parks,En_80_45_17 Coach parks,2017-01
+Co_80_35_35,Highway maintenance depots,En_80_35_35 Highway maintenance depots,2018-08
+Co_80_35_55,Multi-storey car parks,En_80_45_55 Multistorey vehicle parks,2017-01
+Co_80_35_73,Road freight depots,En_80_90_73 Road freight depots,2018-08
+Co_80_35_85,Surface car parks,En_80_45_85 Surface vehicle parks,2017-01
+Co_80_35_88,Truck maintenance depots,En_80_35_90 Truck maintenance depots,2018-08
+Co_80_35_89,Truck parks,En_80_45_89 Truck parks,2017-01
+Co_80_40,Highway service and toll complexes,En_80_35 Road entities,2018-08
+Co_80_40_35,Highway service stations,En_80_35_38 Highway service stations,2018-08
+Co_80_40_40,Highway toll stations,En_80_35_88 Tollgates,2018-08
+Co_80_50_51,Main line rail complexes,Co_80_50_35 Heavy rail complexes,2018-08
+Co_80_50_59,Overhead power light rail complexes,Co_80_50_45 Light rail complexes,2018-08
+Co_80_50_70,Rail distribution depots,En_80_50_64 Rail distribution depots,2018-08
+Co_80_50_71,Rail freight complexes,En_80_90_66 Rail freight entities,2018-08
+Co_80_50_72,Rail marshalling complexes,En_80_50_68 Rail marshalling entities,2018-08
+Co_80_50_73,Rail networks,Co_80_50 Railway complexes,2018-08
+Co_80_50_74,Railway stations,En_80_50_74 Railway stations,2018-08
+Co_80_50_75,Rail track maintenance depots,En_80_50_86 Track maintenance depots,2018-08
+Co_80_50_77,Rolling stock depots,En_80_50_78 Rolling stock depots,2018-08
+Co_80_50_88,Third rail light rail complexes,Co_80_50_45 Light rail complexes,2018-08
+Co_80_50_93,Underground rail complexes,Co_80_50_35 Heavy rail complexes,2018-08
+Co_80_50_94,Underground railway stations,En_80_50_94 Underground railway stations,2018-08
+Co_80_70_06,Barge loading terminals,En_80_70_06 Barge loading terminals,2018-08
+Co_80_70_46,Lake passenger terminals,En_80_70_46 Lake passenger terminals,2018-08
+Co_80_70_50,Marinas,En_80_70_50 Marinas,2018-08
+Co_80_70_70,River ferry complexes,Co_80_70_96 Waterway ferry complexes,2019-10
+Co_80_70_71,River passenger terminals,En_80_70_71 River passenger terminals,2018-08
+Co_90_50_24,Dry waste storage complexes,Co_50_80_24 Dry waste storage complexes,2021-01
+Co_90_50_34,Gas storage complexes,Co_55_05_34 Gas storage complexes,2021-01
+Co_90_50_45,Liquid fuel storage complexes,Co_55_10_45 Liquid fuel storage complexes,2021-01
+Co_90_50_95,Wastewater storage complexes,En_50_75_96 Wastewater storage entities,2021-01
+Co_90_50_96,Water storage complexes,"En_55_15_80 Raw water storage entities
+En_55_70_89 Treated water storage entities",2021-01
+EF_15_15,Construction sites,En_90_30_15 Construction sites,2020-10
+EF_15_95,Work areas,En_90_30_95 Work areas,2020-10
+EF_20_20,Beams,Ss_20_20_75 Structural beam systems,2019-07
+EF_20_30,Columns,Ss_20_30_75 Structural column systems,2019-07
+EF_25_60,Dams and levees,En_32_85 Water control and retaining entities,2016-04
+EF_30_70,Bridge decks,EF_20_50_10 Bridge decks,2021-07
+EF_45_10,Planted elements,"EF_45_90 Tree, shrub and herbaceous plant elements",2020-10
+EF_45_30,Fauna elements,EF_45_45 Land fauna elements,2020-10
+EF_45_75,Fish and eel pass elements,EF_45_03 Aquatic fauna elements,2020-10
+EF_70_30_25,Extra-high-voltage electricity distribution,EF_70_20_88 Transmission circuit,2023-10
+En_25_05_04,Artworks,En_25_50_04 Art installations,2017-01
+En_25_05_94,Viewpoints,SL_25_50_94 Viewing spaces,2017-01
+En_30_10_58,Offshore oil and gas extraction pipelines,"En_55_05_38 Gas extraction pipelines
+En_55_10_58 Fuel treatment pipelines",2017-01
+En_30_10_59,Onshore oil and gas extraction structures,"En_55_05_30 Gas extraction structures
+En_55_10_10 Oil extraction structures",2017-01
+En_30_10_60,Onshore oil and gas extraction pipelines,"En_55_05_38 Gas extraction pipelines
+En_55_10_58 Fuel treatment pipelines",2017-01
+En_30_70_33,Gantries,En_30_70_28 Equipment gantries,2018-01
+En_32_35_12,Botanical gardens,Co_25_30_08 Botanical gardens,2020-01
+En_32_85_21,Dams,En_32_15 Dam entities,2022-07
+En_32_85_37,High ground,En_32_40_37 High ground,2021-04
+En_32_85_70,Reservoirs,Co_32_85_70 Reservoirs,2017-04
+En_32_85_88,Tidal barriers,Co_32_85_88 Tidal barriers,2017-04
+En_32_95_90,Trenches,En_32_40_90 Trenches,2017-01
+En_35_85_85,Stable yards,SL_35_85_84 Stable yards,2017-01
+En_50_30_85,Surface water collection pipelines,En_50_35_98 Wastewater collection pipelines,2021-01
+En_50_30_98,Wastewater collection pipelines,En_50_35_98 Wastewater collection pipelines,2021-01
+En_50_30_99,Waste water collection structures,En_50_35 Wastewater collection entities,2021-01
+En_50_35_15,Combined wastewater collection pipelines,En_50_35_98 Wastewater collection pipelines,2023-01
+En_50_35_83,Storm water pumping stations,En_50_35 Wastewater collection entities,2023-01
+En_50_35_85,Surface water collection pipelines,En_50_35_98 Wastewater collection pipelines,2023-01
+En_50_35_87,Surface water pumping stations,En_50_35 Wastewater collection entities,2023-01
+En_50_35_99,Wastewater rising mains,En_50_35 Wastewater collection entities,2023-01
+En_50_75_15,Wastewater entities,En_50_75_95 Wastewater treatment entities,2021-01
+En_50_75_20,Dewatering hubs,"En_50_75 Wastewater storage, treatment and disposal entities",2023-01
+En_50_75_26,Effluent tanks,"En_50_75 Wastewater storage, treatment and disposal entities",2023-01
+En_50_75_40,Wastewater treatment buildings,En_50_75_95 Wastewater treatment entities,2021-01
+En_50_75_42,Inter-stage effluent pumping stations,En_50_75_30 Effluent transfer and disposal pumping stations,2023-01
+En_50_75_45,Wastewater treatment entities,En_50_75_95 Wastewater treatment entities,2021-01
+En_50_75_70,Wastewater disposal buildings,En_50_75_95 Wastewater treatment entities,2021-01
+En_50_75_93,Wastewater pumping stations,En_50_35_93 Wastewater collection pumping stations,2021-04
+En_50_75_97,Wastewater treatment lagoons,"En_50_75 Wastewater storage, treatment and disposal entities",2023-01
+En_50_90,Radioactive waste disposal entities,En_30_20 Nuclear and chemical management entities,2016-10
+En_55_10_18,Fuel extraction pipelines,En_55_10_10 Oil extraction structures,2017-01
+En_55_15_10,Water extraction buildings,En_55_15_50 Raw water treatment entities,2021-01
+En_55_15_15,Water extraction tanks,En_55_15_80 Raw water storage entities,2021-01
+En_55_15_20,Water extraction pipelines,En_55_15_72 Raw water pipelines,2021-01
+En_55_15_55,Water treatment tanks,En_55_15_80 Raw water storage entities,2023-01
+En_55_70_10,Water distribution buildings,En_55_70_89 Treated water storage entities,2021-01
+En_55_70_18,Water distribution pipelines,En_55_70_85 Treated water pipelines,2021-01
+En_55_70_91,Treated water towers,En_55_70_89 Treated water storage entities,2023-01
+En_70_30_05,Autotransformer feeder stations,En_70_20_05 Autotransformer feeder stations,2023-10
+En_70_30_18,Electricity transmission pylons and lines,En_70_20_27 Electricity transmission towers,2023-10
+En_70_30_28,Extra-high-voltage transmission substations,"En_70_20_02 Air-insulated transmission substations
+En_70_20_33 Gas-insulated transmission substations",2023-10
+En_70_30_90,Underground electricity transmission lines,En_70_20_90 Underground electricity transmission lines,2023-10
+En_80_35_10,Bus station buildings,En_80_35_09 Bus and coach stations,2018-08
+En_80_35_44,Junctions,SL_80_35_44 Junctions,2018-01
+En_80_35_73,Rail freight entities,En_80_90_66 Rail freight entities,2019-10
+En_80_50_24,Double sided platforms,SL_80_50_24 Double-sided platforms,2018-08
+En_80_50_66,Road freight depots,En_80_90_73 Road freight depots,2019-10
+En_80_50_70,Rack railways track entities,En_80_50_62 Rack railways track entities,2018-08
+En_80_50_76,Railway sidings,SL_80_50_76 Railway sidings,2021-04
+En_80_50_77,Railway track entities,En_80_50_71 Railway corridors,2018-08
+En_80_50_80,Single sided platforms,SL_80_50_80 Single-sided platforms,2018-08
+En_80_60,Rail maintenance entities,En_80_50 Railway entities,2018-08
+En_80_60_70,Rack rail maintenance buildings,En_80_50_60 Rack rail maintenance buildings,2018-08
+En_80_60_95,Wagon decontamination buildings,En_80_50_95 Wagon decontamination buildings,2018-08
+En_80_60_97,Wagon maintenance buildings,En_80_50_97 Wagon maintenance buildings,2018-08
+En_80_96_21,Drift tunnel portals,SL_80_96_20 Drift tunnel portals,2018-01
+En_90_50_10,Dry waste storage structures,En_50_40_11 Dry waste storage structures,2020-07
+En_90_50_11,Dry waste storage yards,En_50_40_12 Dry waste storage yards,2020-07
+En_90_50_40,Gas storage tanks,En_55_05_40 Gas storage tanks,2020-07
+En_90_50_70,Storage buildings,En_90_50_80 Storage buildings,2021-01
+En_90_50_71,Storage yards,SL_30_90_84 Storage yards,2018-01
+En_90_50_96,Wastewater storage structures,En_50_75_96 Wastewater storage entities,2020-07
+FI_20_35,GIS dataset (GD),FI_30_22 Data set (DS),2019-07
+FI_20_80,Site instruction (SI),FI_20_40 Instruction (IN),2019-07
+FI_40_75,Schedule or table (SH),FI_90_75 Schedule or table (SH),2019-10
+FI_60_17,Combined model (CM),PM_40_35_18 Combined models,2023-04
+FI_90_05,Assessment report (AR),FI_90_72 Report (RP),2019-07
+FI_90_75,Risk register (RR),PM_60_40_72 Risk register,2019-07
+PC_20_77_80,Site test date,PC_10_90_31_88 Field test date,2023-07
+PM_10_20_24,Employer's information requirement,PM_10_20_28 Exchange information requirements,2020-04
+PM_20,Personnel,Ro Roles,2019-01
+PM_20_10,Organization roles,Ro_10_10 Organization roles,2019-01
+PM_20_10_05,Associate,Ro_10_10_05 Associate,2019-01
+PM_20_10_12,Chairman,Ro_10_10_12 Chairman,2019-01
+PM_20_10_14,Chief executive officer,Ro_10_10_14 Chief executive officer,2019-01
+PM_20_10_16,Chief financial officer,Ro_10_10_16 Chief financial officer,2019-01
+PM_20_10_18,Chief operating officer,Ro_10_10_18 Chief operating officer,2019-01
+PM_20_10_25,Director,Ro_10_10_25 Director,2019-01
+PM_20_10_30,Executive director,Ro_10_10_30 Executive director,2019-01
+PM_20_10_50,Manager,Ro_10_10_50 Manager,2019-01
+PM_20_10_53,Managing director,Ro_10_10_53 Managing director,2019-01
+PM_20_10_58,Non-executive director,Ro_10_10_58 Non-executive director,2019-01
+PM_20_10_60,Partner,Ro_10_10_60 Partner,2019-01
+PM_20_10_65,President,Ro_10_10_65 President,2019-01
+PM_20_10_94,Vice chairman,Ro_10_10_94 Vice chairman,2019-01
+PM_20_10_95,Vice president,Ro_10_10_95 Vice president,2019-01
+PM_20_20,Asset management roles,Ro_10_30 Asset management roles,2019-01
+PM_20_20_01,Access consultant,Ro_50_10_01 Access consultant,2019-01
+PM_20_20_04,Asset manager,Ro_10_30_50 Asset manager,2019-01
+PM_20_20_11,Catering manager,Ro_10_40_11 Catering manager,2019-01
+PM_20_20_13,Clerk of works,Ro_30_10_13 Clerk of works,2019-01
+PM_20_20_14,Client,Ro_10_20_14 Client,2019-01
+PM_20_20_15,Client advisor,Ro_10_20_15 Client advisor,2019-01
+PM_20_20_16,Client representative,Ro_10_20_16 Client representative,2019-01
+PM_20_20_18,Construction operative,"Ro_70_50 Building trades
+Ro_70_60 Services trades",2019-01
+PM_20_20_19,Contract administrator,Ro_30_10_19 Contract administrator,2019-01
+PM_20_20_20,Contractor,Ro_30_10_20 Contractor,2019-01
+PM_20_20_22,Cost consultant,Ro_30_10_22 Cost consultant,2019-01
+PM_20_20_26,Employer,Ro_10_20_26 Employer,2019-01
+PM_20_20_27,Employer's agent,Ro_30_10_27 Employer's agent,2019-01
+PM_20_20_28,Energy manager,Ro_10_40_28 Energy manager,2019-01
+PM_20_20_30,Facilities manager,Ro_10_40_30 Facilities manager,2019-01
+PM_20_20_36,Health and safety consultant,Ro_30_10_36 Health and safety consultant,2019-01
+PM_20_20_40,Importer,Ro_30_40_40 Importer,2019-01
+PM_20_20_42,Information manager,Ro_30_10_42 Information manager,2019-01
+PM_20_20_43,Insurance consultant,Ro_30_10_43 Insurance consultant,2019-01
+PM_20_20_47,Legal consultant,Ro_30_10_47 Legal consultant,2019-01
+PM_20_20_50,Maintenance provider,Ro_10_40_50 Maintenance provider,2019-01
+PM_20_20_52,Management consultant,Ro_10_40_52 Management consultant,2019-01
+PM_20_20_54,Manufacturer,Ro_30_40_54 Manufacturer,2019-01
+PM_20_20_56,Nominated supplier,Ro_30_40_56 Nominated supplier,2019-01
+PM_20_20_65,Procurement consultant,Ro_10_40_65 Procurement consultant,2019-01
+PM_20_20_67,Project manager,Ro_30_10_67 Project manager,2019-01
+PM_20_20_74,Safety manager,Ro_10_40_74 Safety manager,2019-01
+PM_20_20_76,Security manager,Ro_10_30_10 Built asset security manager,2019-01
+PM_20_20_85,Sub-contractor,Ro_30_10_85 Subcontractor,2019-01
+PM_20_20_86,Supplier,Ro_30_40_86 Supplier,2019-01
+PM_20_20_88,Traffic manager,Ro_10_40_88 Traffic consultant,2019-01
+PM_20_20_90,Transportation manager,Ro_10_40_90 Transportation manager,2019-01
+PM_20_30,Official roles,Ro_30_30 Official roles,2019-01
+PM_20_30_09,Building control officer,Ro_30_30_09 Building control officer,2019-01
+PM_20_30_16,Conservation officer,Ro_30_30_16 Conservation officer,2019-01
+PM_20_30_26,Environmental officer,Ro_30_30_26 Environmental officer,2019-01
+PM_20_30_36,Heritage officer,Ro_30_30_36 Heritage officer,2019-01
+PM_20_30_60,Party wall surveyor,Ro_30_30_60 Party wall surveyor,2019-01
+PM_20_30_65,Planning officer,Ro_30_30_65 Planning officer,2019-01
+PM_20_30_67,Principal contractor,Ro_30_30_67 Principal contractor,2019-01
+PM_20_30_68,Principal designer,Ro_30_30_68 Principal designer,2019-01
+PM_20_40,Team lead roles,Ro_30_50 Team lead roles,2019-01
+PM_20_40_04,Asset management lead,Ro_30_50_04 Asset management lead,2019-01
+PM_20_40_19,Construction lead,Ro_30_50_19 Construction lead,2019-01
+PM_20_40_25,Design lead,Ro_30_50_25 Design lead,2019-01
+PM_20_40_61,Operation lead,Ro_30_50_61 Operation lead,2019-01
+PM_20_40_69,Programme lead,Ro_30_50_69 Programme lead,2019-01
+PM_20_40_70,Project lead,Ro_30_50_70 Project lead,2019-01
+PM_20_50,Design roles,Ro_50 Design roles,2019-01
+PM_20_50_02,Acoustic engineer,Ro_50_20_02 Acoustic engineer,2019-01
+PM_20_50_03,Architect,Ro_50_10_03 Architect,2019-01
+PM_20_50_04,Architectural designer,Ro_50_10_04 Architectural designer,2019-01
+PM_20_50_05,Architectural technologist,Ro_50_10_05 Architectural technologist,2019-01
+PM_20_50_08,Building services engineer,Ro_50_20_08 Building services engineer,2019-01
+PM_20_50_11,Civil engineer,Ro_50_20_11 Civil engineer,2019-01
+PM_20_50_14,Cladding designer,Ro_50_10_14 Cladding designer,2019-01
+PM_20_50_17,Commissioning engineer,Ro_30_10_17 Commissioning engineer,2019-01
+PM_20_50_24,Demolition engineer,Ro_50_20_24 Demolition engineer,2019-01
+PM_20_50_28,Drainage engineer,Ro_50_20_28 Drainage engineer,2019-01
+PM_20_50_30,Electrical services engineer,Ro_50_20_30 Electrical services engineer,2019-01
+PM_20_50_33,Fire engineer,Ro_50_20_33 Fire engineer,2019-01
+PM_20_50_41,Highways engineer,Ro_50_20_41 Highways engineer,2019-01
+PM_20_50_43,Interior designer,Ro_50_10_43 Interior designer,2019-01
+PM_20_50_47,Landscape architect,Ro_50_30_47 Landscape architect,2019-01
+PM_20_50_48,Landscape designer,Ro_50_30_48 Landscape designer,2019-01
+PM_20_50_50,Lighting designer,Ro_50_10_50 Lighting designer,2019-01
+PM_20_50_53,"Mechanical, electrical, instrumentation, control and automation (MEICA) consultant","Ro_50_20_53 Mechanical, electrical, instrumentation, control and automation (MEICA) engineer",2019-01
+PM_20_50_54,Mechanical services engineer,Ro_50_20_54 Mechanical services engineer,2019-01
+PM_20_50_69,Process engineer,Ro_50_20_65 Process engineer,2019-01
+PM_20_50_73,Public health engineer,Ro_50_20_68 Public health engineer,2019-01
+PM_20_50_76,Rail engineer,Ro_50_20_70 Rail engineer,2019-01
+PM_20_50_77,Road engineer,Ro_50_20_41 Highways engineer,2019-01
+PM_20_50_80,Signage designer,Ro_50_10_80 Signage designer,2019-01
+PM_20_50_83,Structural engineer,Ro_50_20_83 Structural engineer,2019-01
+PM_20_50_90,Telecommunication engineer,Ro_50_20_88 Telecommunication engineer,2019-01
+PM_20_50_96,Water services engineer,Ro_50_20_96 Water services engineer,2019-01
+PM_20_70,Surveyor and planner roles,Ro_70_10 Surveyor and planner roles,2019-01
+PM_20_70_10,Building inspector,Ro_70_10_10 Building inspector,2019-01
+PM_20_70_11,Building surveyor,Ro_70_10_11 Building surveyor,2019-01
+PM_20_70_16,Conservation surveyor,Ro_70_10_16 Conservation surveyor,2019-01
+PM_20_70_26,Environmental surveyor,Ro_70_30_28 Environmental consultant,2019-01
+PM_20_70_36,Heritage surveyor,Ro_70_10_36 Heritage surveyor,2019-01
+PM_20_70_37,Geotechnical surveyor,Ro_70_10_33 Geotechnical surveyor,2019-01
+PM_20_70_46,Land surveyor,Ro_70_10_46 Land surveyor,2019-01
+PM_20_70_64,Planning consultant,Ro_70_10_64 Planning consultant,2019-01
+PM_20_70_75,Quantity surveyor,Ro_70_10_75 Quantity surveyor,2019-01
+PM_20_70_80,Site investigation consultant,Ro_70_10_80 Site investigation consultant,2019-01
+PM_20_70_85,Survey specialist,Ro_70_10 Surveyor and planner roles,2019-01
+PM_20_70_93,Utilities surveyor,Ro_70_10_93 Utilities surveyor,2019-01
+PM_20_80,Environmental and geological roles,Ro_70_30 Environmental and geological roles,2019-01
+PM_20_80_04,Archaeologist,Ro_70_30_04 Archaeologist,2019-01
+PM_20_80_25,Ecologist,Ro_50_30_25 Ecologist,2019-01
+PM_20_80_27,Environmental assessor,Ro_70_30_27 Environmental assessor,2019-01
+PM_20_80_28,Environmental consultant,Ro_70_30_28 Environmental consultant,2019-01
+PM_20_80_35,Geographic information system consultant,Ro_70_30_35 Geographic information system consultant,2019-01
+PM_20_80_37,Geotechnical surveyor,Ro_70_10_33 Geotechnical surveyor,2019-01
+PM_20_80_85,Sustainability consultant,Ro_70_30_85 Sustainability consultant,2019-01
+PM_30_30_45,Landscape model,PM_40_35_45 Landscape models,2020-04
+PM_30_30_78,Site waste management plan,PM_30_30_58 Operational waste management plan,2020-04
+PM_35_10_65,Project context requirements,PM_35_05 Project context requirements,2021-01
+PM_35_40_03,Airtightness performance requirements,PM_35_70_03 Airtightness performance requirements,2021-01
+PM_35_40_15,Condensation control performance requirements,PM_35_10_15 Condensation control performance requirements,2021-01
+PM_35_40_31,Fauna biosecurity performance requirements,PM_35_50_08 Biosecurity performance requirements,2021-01
+PM_35_40_33,Flora biosecurity performance requirements,PM_35_50_08 Biosecurity performance requirements,2021-01
+PM_35_40_37,Human biosecurity performance requirements,PM_35_50_08 Biosecurity performance requirements,2021-01
+PM_35_40_47,Lightning protection performance requirements,PM_35_50_47 Lightning protection performance requirements,2021-01
+PM_35_40_96,Watertightness performance requirements,PM_35_10_96 Watertightness performance requirements,2021-01
+PM_40_20,Performance requirements,PM_35 Project performance requirements,2019-04
+PM_40_20_01,Accessibility performance requirements,PM_35_50_01 Accessibility performance requirements,2019-04
+PM_40_20_03,Accidental load performance requirements,PM_35_20_03 Accidental loading performance requirements,2019-04
+PM_40_20_05,Acoustic performance requirements,PM_35_60 Acoustic performance requirements,2019-04
+PM_40_20_07,Air conditioning performance requirements,PM_35_70_05 Air conditioning performance requirement,2019-04
+PM_40_20_09,Airtightness performance requirements,PM_35_70_03 Airtightness performance requirements,2019-04
+PM_40_20_15,Condensation control performance requirements,PM_35_10_15 Condensation control performance requirements,2019-04
+PM_40_20_20,Daylight and shading performance requirements,PM_35_70_20 Daylight and shading performance requirements,2019-04
+PM_40_20_25,Durability performance requirements,PM_35_10_25 Durability performance requirements,2019-04
+PM_40_20_28,Fire resistance performance requirements,PM_35_30_28 Fire resistance performance requirements,2019-04
+PM_40_20_30,Fire safety performance requirements,PM_35_30_30 Fire safety performance requirements,2019-04
+PM_40_20_32,Functional properties performance requirements,PM_35_10_32 Functional properties performance requirements,2019-04
+PM_40_20_36,Heating performance requirements,PM_35_70_36 Heating performance requirements,2019-04
+PM_40_20_46,Lighting performance requirements,PM_35_70_46 Lighting performance requirements,2019-04
+PM_40_20_50,Mechanical and electrical loading performance requirements,PM_35_20_62 Permanent loads performance requirements,2019-04
+PM_40_20_58,Operational properties performance requirements,PM_35_10 Quality and operational properties performance requirements,2019-04
+PM_40_20_62,Permanent imposed loading performance requirements,PM_35_20_42 Imposed loads performance requirements,2019-04
+PM_40_20_69,Quality performance requirements,PM_35_10_22 Design quality performance requirements,2019-04
+PM_40_20_72,Resistance to ground contaminants performance requirements,PM_35_40_72 Resistance to ground contaminants requirements,2019-04
+PM_40_20_76,Snow loading performance requirements,PM_35_20_76 Snow and ice load performance requirements,2019-04
+PM_40_20_80,Structural design performance requirements,PM_35_20_80 Structural design performance requirements,2019-04
+PM_40_20_84,Sustainability performance requirements,PM_35_40_84 Sustainability performance requirements,2019-04
+PM_40_20_90,Thermal actions performance requirements,PM_35_20_90 Thermal actions performance requirements,2019-04
+PM_40_20_94,Ventilation performance requirements,PM_35_70_94 Ventilation performance requirements,2019-04
+PM_40_20_96,Wind load performance requirements,PM_35_20_96 Wind loading performance requirements,2019-04
+PM_40_30_10,Calculation,FI_40_10 Calculations (CA),2019-04
+PM_40_30_18,Construction specification,PM_40_45 Specifications,2023-07
+PM_40_30_20,Design calculations,PM_40_25 Design calculations,2023-07
+PM_40_30_26,Energy strategy,PM_40_20_26 Energy strategy,2020-04
+PM_40_30_58,Outline specification,PM_40_45 Specifications,2023-07
+PM_40_30_61,Performance specification,PM_40_45 Specifications,2023-07
+PM_40_30_75,Schedule,FI_90_75 Schedule or table (SH),2019-04
+PM_40_30_78,Specification,FI_40_80 Specification (SP),2019-04
+PM_40_60_09,BIM maturity assessment report,PM_40_60_11 Capability and capacity assessment report,2020-04
+PM_40_60_42,Information mobilization plan,PM_40_60_53 Mobilization plan,2021-01
+PM_40_60_53,Model production and delivery table,PM_40_60 Project information management information,2019-07
+PM_40_60_65,Post-contract BIM execution plan,PM_40_60_08 BIM execution plan,2019-07
+PM_50_50_10,Early contractor involvement information,PM_50_50_20 Early contractor involvement information,2019-04
+PM_50_50_12,Framework agreement information,PM_50_50_25 Framework agreement information,2019-04
+PM_50_50_15,Post-tender negotiation,PM_50_50_85 Post-tender negotiation,2019-04
+PM_50_50_20,Private-sector participation (PSP) tender,PM_50_50_40 Private-sector participation (PSP) tender,2019-04
+PM_50_50_25,Procurement strategy,PM_50_50_01 Procurement strategy,2019-04
+PM_50_50_35,Tender acceptance report,PM_50_50_80 Tender acceptance report,2019-04
+PM_50_50_40,Tender assessment report,PM_50_50_80 Tender acceptance report,2019-04
+PM_50_50_50,Tender document,PM_50_50_35 Tender documents,2019-04
+PM_50_50_55,Tender enquiry,PM_50_50_10 Tender enquiry,2019-04
+PM_50_50_60,Tender error resolution strategy,PM_50_50_75 Tender error resolution strategy,2019-04
+PM_50_50_65,Tender evaluation report,PM_50_50_70 Tender evaluation report,2019-04
+PM_50_50_70,Tender instruction,PM_50_50_50 Tender instruction,2019-04
+PM_50_50_75,Tender invitation,PM_50_50_15 Tender invitation,2019-04
+PM_50_50_80,Tender notification,PM_50_50_90 Tender notification,2019-04
+PM_50_50_85,Tender return,PM_50_50_60 Tender return,2019-04
+PM_50_50_90,Tender site visit strategy,PM_50_50_55 Tender site visit strategy,2019-04
+PM_60_30_55,Method statement,FI_80_50 Method statement (MS),2019-04
+PM_60_30_64,Programme,PM_60_30_20 Contract programme,2019-01
+PM_60_50_05,Bill of quantities,FI_50_10 Bill of quantities (BQ),2019-04
+PM_60_50_28,Cost plan,FI_50_15 Cost plan (CP),2019-04
+PM_60_50_40,Invoice,FI_50_40 Invoice (IV),2019-04
+PM_60_50_64,Prime cost item,PM_60_20_64 Prime cost item,2018-08
+PM_60_50_67,Provisional item,PM_60_20_67 Provisional item,2018-08
+PM_60_60_77,Site security information,PM_60_10_77 Site security information,2018-08
+PM_60_60_80,Site establishment information,PM_60_10_58 Site establishment information,2018-08
+PM_70_15_01,Access control commissioning certificate,PM_70_80_01 Access control commissioning certificate,2021-04
+PM_70_15_04,Audiovisual systems commissioning and acceptance certificate,PM_70_80_05 Audiovisual systems commissioning and acceptance certificate,2021-04
+PM_70_15_10,Building management systems (BMS) commissioning certificate,PM_70_30_10 Building management systems (BMS) commissioning certificate,2021-04
+PM_70_15_15,Closed-circuit television (CCTV) commissioning certificate,PM_70_30_15 Closed-circuit television (CCTV) commissioning certificate,2021-04
+PM_70_15_22,Disabled alarms and disabled refuge alarm testing certificate,PM_70_30_22 Disabled alarms and disabled refuge alarm testing certificate,2021-04
+PM_70_15_47,Lightning protection certificate,PM_70_30_47 Lightning protection certificate,2021-04
+PM_70_15_78,Security and intruder alarm commissioning certificate,PM_70_30_78 Security and intruder alarm commissioning certificate,2021-04
+PM_70_15_83,Sprinkler installation test certificate,PM_70_30_83 Sprinkler installation test certificate,2021-04
+PM_70_15_92,Uninterruptible power supply (UPS) test certificate,PM_70_30_92 Uninterruptible power supply (UPS) test certificate,2021-04
+PM_70_30_96,Wall ties and structural restraint inspection report,PM_70_70_96 Wall ties and structural restraint inspection report,2023-01
+PM_70_75_32,Gas installation safety certificate,PM_70_15_34 Gas installation safety certificate,2020-04
+PM_70_85_13,Building manual,PM_70_85_10 Building manual,2021-04
+PM_70_95_12,Compliance and certification documents,PM_70_15 Compliance and certification documents,2020-04
+PM_70_95_31,Fire safety acceptance certificate,PM_70_15_29 Fire safety acceptance certificate,2020-04
+Pr_15_31_26_37,Highways Agency unbound mixtures Category B,Pr_15_31_26_18 Close-graded granular unbound mixtures,2018-04
+Pr_15_31_26_38,Highways Agency unbound mixtures Type 1,Pr_15_31_26_96 Well graded granular unbound mixtures,2018-04
+Pr_15_31_26_40,Highways Agency unbound mixtures Type 3,Pr_15_31_26_58 Open-graded granular unbound mixtures,2018-04
+Pr_15_31_26_41,Highways Agency unbound mixtures Type 4,Pr_15_31_26_02 Asphalt arisings granular unbound mixtures,2018-04
+Pr_15_57_30_10,Butyl rubber geomembranes,Pr_25_57_51_10 Butyl rubber (polyisobutylene isoprene (IIR)) geomembranes,2016-10
+Pr_15_57_30_13,Chlorinated polyethylene (PE-C) geomembranes,Pr_25_57_51_13 Chlorinated polyethylene (PE-C) geomembranes,2016-10
+Pr_15_57_30_14,Chlorosulfonated polyethylene (PE-CS) geomembranes,Pr_25_57_51_14 Chlorosulfonated polyethylene (PE-CS) geomembranes,2016-10
+Pr_15_57_30_27,Ethylene propylene diene monomer (EPDM) geomembranes,Pr_25_57_51_27 Ethylene propylene diene monomer (EPDM) geomembranes,2016-10
+Pr_15_57_30_33,Geocomposite membranes,Pr_15_57_27_33 Geocomposite sheets,2016-10
+Pr_15_57_30_37,High density polyethylene (PE-HD) geomembranes,Pr_25_57_65_37 High-density polyethylene (PE-HD) sheets,2016-10
+Pr_15_57_30_47,Low density polyethylene (PE-LD) geomembranes,Pr_25_57_65_47 Low-density polyethylene (PE-LD) sheets,2016-10
+Pr_15_57_30_65,Plastics membranes,Pr_25_57_65 Plastics membranes,2016-10
+Pr_15_57_30_71,Polypropylene membranes,Pr_25_57_65_65 Polypropylene sheets,2016-10
+Pr_15_57_30_72,Polyvinyl chloride (PVC) geomembranes,Pr_25_57_65_92 Unplasticized polyvinyl chloride (PVC-U) sheets,2016-10
+Pr_15_57_30_73,Polyvinylidene fluoride (PVDF) hydrophobic geomembranes,Pr_25_57_85_70 Polyvinylidene fluoride (PVDF) hydrophobic geotextiles,2016-10
+Pr_15_57_33_30,Foamed aminoplastic resin moisture retention mats,Pr_25_57_53_30 Foamed aminoplastic resin moisture retention mats,2016-10
+Pr_15_57_33_33,Geocomposite drainage sheets,Pr_15_57_27_33 Geocomposite sheets,2016-10
+Pr_15_57_33_34,Geocomposite gas venting layer,Pr_15_57_27_33 Geocomposite sheets,2016-10
+Pr_15_57_33_36,Geocomposite studded sheet,Pr_15_57_27_36 Geocomposite studded sheets,2016-10
+Pr_15_57_33_39,Geosynthetic clay liners (GCLs),Pr_15_57_27_39 Geosynthetic clay liners (GCLs),2016-10
+Pr_15_57_33_60,Plastics geocomposite sheets,Pr_15_57_27_60 Plastics geocomposite sheets,2016-10
+Pr_15_57_33_61,Plastics geocell boards,Pr_15_57_25_32 Geocell boards,2016-10
+Pr_15_57_33_62,Plastics geocell sheets,Pr_15_57_25_33 Geocell sheets,2016-10
+Pr_15_57_33_63,Plastics geocellular drainage mats,Pr_15_57_25 Geocells,2016-10
+Pr_15_57_33_70,Polypropylene geocells,"Pr_15_57_25_74 Polypropylene geocell boards
+Pr_15_57_25_75 Polypropylene geocell sheets",2016-10
+Pr_15_57_33_74,Polyester geocells,Pr_15_57_25_70 Polyester strips,2016-10
+Pr_15_57_33_77,Polyethylene geocells,"Pr_15_57_25_39 High-density polyethylene (PE-HD) geocell boards
+Pr_15_57_25_40 High-density polyethylene (PE-HD) geocell sheets",2016-10
+Pr_15_57_35_07,Biodegradable flax geotextiles,Pr_25_57_61_29 Flax geotextiles,2016-10
+Pr_15_57_35_08,Bituminous felt geotextiles,Pr_25_57_08_08 Bitumen sheets,2016-10
+Pr_15_57_35_34,Glass fibre tissue geotextiles,Pr_25_57_51_33 Glass fibre fleeces,2016-10
+Pr_15_57_35_44,Jute geotextiles,Pr_25_57_61_44 Jute geotextiles,2016-10
+Pr_15_57_35_50,Mineral wool water retention geotextiles,Pr_25_57_53_50 Mineral wool water retention geotextiles,2016-10
+Pr_15_57_35_62,Polyacrylonitrile (PAN) water retention geotextiles,Pr_25_57_53_62 Polyacrylonitrile (PAN) water retention geotextiles,2016-10
+Pr_15_57_35_63,Polyamide water retention geotextiles,Pr_25_57_53_63 Polyamide water retention geotextiles,2016-10
+Pr_15_57_35_64,Polypropylene filter geotextiles,Pr_25_57_85_68 Polypropylene filter geotextiles,2016-10
+Pr_15_57_35_65,Polypropylene water retention geotextiles,Pr_25_57_53_65 Polypropylene water retention geotextiles,2016-10
+Pr_15_57_35_66,Polyester filter geotextiles,Pr_25_57_85_64 Polyester filter geotextiles,2016-10
+Pr_15_57_35_67,Polyethylene filter geotextiles,Pr_25_57_85_66 Polyethylene filter geotextiles,2016-10
+Pr_15_57_35_68,Polyvinylidene fluoride (PVDF) hydrophobic geotextiles,Pr_25_57_85_70 Polyvinylidene fluoride (PVDF) hydrophobic geotextiles,2016-10
+Pr_20_29_03_20,Conductor rail anchors,Pr_65_70_16_10 Conductor rail anchors,2018-01
+Pr_20_29_03_78,Solar module roof anchors,Pr_80_77_27_72 Roof anchors for solar modules,2023-01
+Pr_20_29_57_02,Aerotite nuts,Pr_20_29_57_75 Self-locking nuts,2022-01
+Pr_20_29_57_84,Stover nuts,Pr_20_29_57_75 Self-locking nuts,2022-01
+Pr_20_29_60_70,Rail packing shims,Pr_20_85_74_70 Rail packing shims,2018-01
+Pr_20_29_70_29,Fang spikes,Pr_20_85_70_24 Driven spikes,2018-10
+Pr_20_29_70_30,Ferrules and bushes,Pr_20_85_70_30 Ferrules and bushes,2019-01
+Pr_20_29_70_71,Rail spikes,Pr_20_85_70 Rail supports and fixings,2018-01
+Pr_20_29_70_76,Screw spikes,Pr_20_85_70_76 Screw spikes,2018-01
+Pr_20_29_70_80,Slabtracks,Ss_80_70_70_56 Non-embedded slab track rail systems,2018-01
+Pr_20_29_70_82,Spring spikes,Pr_20_85_70_82 Spring spikes,2018-01
+Pr_20_29_96,Welded joints,Pr_20_29 Fastener products,2022-01
+Pr_20_29_96_03,Aluminothermic rail welds,TE_70_20_10_03 Aluminothermic rail welding equipment,2022-01
+Pr_20_31_02_33,Gilding size,Pr_35_31_85_36 Gilding size,2018-01
+Pr_20_31_02_83,Solvent welding cements,Pr_65_52_62_82 Solvent welding cements,2018-01
+Pr_20_31_12_59,Oyster shells,Pr_20_31_04_59 Oyster shells,2017-01
+Pr_20_31_35_11,Carborundum,Pr_20_31_35_78 Silicon carbide powder,2022-01
+Pr_20_76_08_20,Cone fenders,Pr_40_70_55_20 Cone fenders,2019-04
+Pr_20_76_70_18,Crane rails,Pr_20_76_70_34 Grooved rails,2018-01
+Pr_20_76_70_86,Switch and crossing rails,Pr_20_76_71 Railway junction works,2018-01
+Pr_20_76_70_94,Vignole rails,Pr_20_76_70_30 Flat bottom rails,2018-01
+Pr_20_76_71_30,Fixed rail crossings,Pr_20_76_71 Railway junction works,2018-01
+Pr_20_76_71_70,Rail diamonds,Pr_20_76_71_23 Diamond crossings,2018-01
+Pr_20_76_71_72,Rail scissors,Pr_20_76_71_76 Scissor crossovers,2018-01
+Pr_20_76_71_73,Rail slips,"Pr_20_76_71_24 Double slips
+Pr_20_76_71_78 Single slips",2018-01
+Pr_20_76_71_74,Rail traps,Pr_20_76_71_90 Trap switches,2018-01
+Pr_20_76_71_75,Rail turnouts,Pr_20_76_71_91 Turnouts,2018-01
+Pr_20_76_88_35,Hardwood floating floor battens,Pr_20_76_88_47 Insulating timber floor battens,2022-01
+Pr_20_85_03_85,Stainless steel cladding angles,Pr_20_85_20_84 Stainless steel cladding angles,2022-01
+Pr_20_85_07_04,Aluminium carrier rails,Pr_20_85_20_04 Aluminium carrier rails,2022-01
+Pr_20_85_07_10,Carbon steel carrier rails,Pr_20_85_20_10 Carbon steel carrier rails,2022-01
+Pr_20_85_07_83,Stainless steel carrier rails,Pr_20_85_20_83 Stainless steel carrier rails,2022-01
+Pr_20_85_69,Rail buffer stops,Pr_20_85_89 Train arrestors,2018-01
+Pr_20_85_69_30,Fixed buffer stops,Pr_20_85_89_30 Fixed train arrestors,2018-01
+Pr_20_85_69_31,Friction buffer stops,Pr_20_85_89_31 Friction train arrestors,2018-01
+Pr_20_85_69_39,Hydraulic buffer stops,Pr_20_85_89_39 Hydraulic train arrestors,2018-01
+Pr_20_85_70_02,Adjustable rail clips,Pr_20_29_70_02 Adjustable rail clips,2018-01
+Pr_20_85_70_06,Ballast mats,Pr_20_85_88_06 Ballast mats,2018-01
+Pr_20_85_70_15,Composite insulators,Pr_65_70_16_08 Composite insulators,2018-01
+Pr_20_85_70_17,Concrete track beds,Pr_20_85_88_17 Concrete track beds,2018-01
+Pr_20_85_70_27,Ethyl vinyl acetate rail pads,Pr_20_85_74_27 Ethyl vinyl acetate rail pads,2018-01
+Pr_20_85_70_34,Glass reinforced nylon insulators,Pr_65_70_16_34 Glass fibre-reinforced nylon insulators,2018-01
+Pr_20_85_70_41,Insulated third rail supports,Pr_65_70_16_20 Conductor rail supports,2018-01
+Pr_20_85_70_57,Nylon insulators,Pr_65_70_16_57 Nylon insulators,2018-01
+Pr_20_85_70_73,Rubber bonded cork rail pads,Pr_20_85_74_78 Rubber bonded cork rail pads,2018-01
+Pr_20_85_70_75,Rubber rail pads,Pr_20_85_74_79 Rubber rail pads,2018-01
+Pr_20_85_70_77,Switch and crossing baseplates,Pr_20_85_70_44 Junction work baseplates,2018-01
+Pr_20_85_70_89,Third rail cover boards,Pr_65_70_16_12 Conductor rail cover boards,2018-01
+Pr_20_85_70_96,Weldable rail clips,Pr_20_29_70_96 Weldable rail clip shoulders,2018-01
+Pr_20_85_72_06,Baseplate pads,Pr_20_85_74_73 Resilient baseplate pads,2018-01
+Pr_20_85_72_11,Carbon steel sleepers,Pr_20_85_72_85 Steel sleepers,2018-01
+Pr_20_85_72_36,Hardwood sleepers,Pr_20_85_72_89 Timber sleepers,2018-01
+Pr_20_85_72_70,Rail pads,Pr_20_85_74_71 Rail pads,2018-01
+Pr_20_85_72_82,Sleeper pads,Pr_20_85_74_76 Resilient sleeper pads,2018-01
+Pr_20_85_84_85,Stainless steel cladding channels,Pr_20_85_20_85 Stainless steel cladding channels,2022-01
+Pr_20_85_84_86,Stainless steel cladding ties,Pr_20_85_20_86 Stainless steel cladding ties,2022-01
+Pr_20_85_86_39,Hydraulic jacks,TE_30_70_40_39 Hydraulic jacks,2018-01
+Pr_20_93_52_74,Replacement natural dimensioned stones,Pr_20_93_52_56 Natural dimensioned stones,2022-01
+Pr_20_93_84_84,Structural insulated roof panels,Pr_20_93_85 Structural units,2020-07
+Pr_20_93_85_84,Structural insulated wall panels,Pr_20_93_85_90 Timber structural insulated panels (SIPs),2020-07
+Pr_20_96_71_65,Polypropylene (PP) fibre reinforcement,Pr_20_96_71_28 Fibre-reinforced plastics bar reinforcement,2017-01
+Pr_25_31_28_63,Phenolic foam insulation,Pr_80_77_76_62 Phenolic foam insulation,2016-10
+Pr_25_57_06_51,Mineral wool fibre insulation,Pr_25_31_48_48 Loose-fill mineral wool fibre insulation,2019-10
+Pr_25_57_08_09,Bitumen sheet root barriers,Pr_25_57_08_08 Bitumen sheets,2016-10
+Pr_25_57_08_50,Modified acrylic fabric,Pr_25_57_51_54 Modified acrylic fabric,2016-10
+Pr_25_57_08_70,Reinforced bitumen membrane underlayer,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_08_72,Reinforced bitumen membrane underlay,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_08_73,Reinforced bitumen membrane slip planes,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_08_74,Reinforced bitumen membrane vapour control layer,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_08_76,Reinforced membrane capsheets,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_08_80,Self adhesive bitumen sheets,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_08_82,Sheathing felt,Pr_25_57_08_75 Reinforced bitumen roofing sheets,2016-10
+Pr_25_57_51_03,Aramid tensile fabrics,Pr_25_57_90_03 Aramid tensile fabrics,2016-10
+Pr_25_57_51_09,Building papers,Pr_25_57_10_09 Building papers,2016-10
+Pr_25_57_51_11,Carborundum slip-resistant paper,Pr_25_57_51_77 Silicon carbide slip-resistant paper,2022-01
+Pr_25_57_51_12,Cellulose fibre breather membranes,Pr_25_57_10_12 Cellulose based building papers,2016-10
+Pr_25_57_51_15,Cotton canvas tensile fabrics,Pr_25_57_90_15 Cotton canvas tensile fabrics,2016-10
+Pr_25_57_51_29,Fabrics for tensile applications,Pr_25_57_90_29 Fabrics for tensile applications,2016-10
+Pr_25_57_51_34,Glass fibre tensile fabrics,Pr_25_57_90_34 Glass fibre tensile fabrics,2016-10
+Pr_25_57_51_37,High-density polyethylene (PE-HD) vapour barriers,Pr_25_57_65_37 High-density polyethylene (PE-HD) sheets,2016-10
+Pr_25_57_51_48,Low-density polyethylene (PE-LD) vapour barriers,Pr_25_57_65_47 Low-density polyethylene (PE-LD) sheets,2016-10
+Pr_25_57_51_58,Pitch polymer membranes,Pr_25_57_08_58 Pitch polymer membranes,2016-10
+Pr_25_57_51_62,Plastics sheets,Pr_25_57_65_60 Plastics sheets,2016-10
+Pr_25_57_51_63,Polyvinyl chloride (unplasticized) (PVC-U) sheet,Pr_25_57_65_92 Unplasticized polyvinyl chloride (PVC-U) sheets,2016-10
+Pr_25_57_51_64,Polyester (PET) tensile fabrics,Pr_25_57_90_63 Polyester tensile fabrics,2016-10
+Pr_25_57_51_65,Polyethylene (PE) sheets,Pr_25_57_65_63 Polyethylene sheets,2016-10
+Pr_25_57_51_67,Polypropylene (PP) breather membranes,Pr_25_57_10_66 Polypropylene vapour-permeable sheets,2016-10
+Pr_25_57_51_69,Polytetrafluoroethylene (PTFE) tensile fabrics,Pr_25_57_90_67 Polytetrafluoroethylene (PTFE) tensile fabrics,2016-10
+Pr_25_57_51_71,Reinforced bitumen membrane perforated underlays,Pr_25_57_08_71 Reinforced bitumen membrane perforated underlays,2016-10
+Pr_25_57_51_81,Solar glass weave tensile fabric,Pr_25_57_90_81 Solar glass weave tensile fabrics,2016-10
+Pr_25_57_51_84,Stretch fabric membranes,Pr_25_57_90_84 Stretch fabric membranes,2016-10
+Pr_25_57_51_85,Suspended fabric panels,Pr_25_57_90_85 Suspended fabric panels,2016-10
+Pr_25_57_51_94,Vapour permeable sheets,Pr_25_57_10_94 Vapour-permeable sheets,2016-10
+Pr_25_57_56_96,Wire netting,Pr_25_57_56_37 Hexagon mesh,2023-04
+Pr_25_57_61_02,Acrylonitrile butadiene styrene (ABS) studded membranes,Pr_25_57_51_02 Acrylonitrile butadiene styrene (ABS) studded membranes,2016-10
+Pr_25_57_61_11,Capillary fleece,Pr_25_57_85_10 Capillary fleece,2016-10
+Pr_25_57_61_36,High-density polyethylene (PE-HD) studded sheets,Pr_25_57_51_36 High-density polyethylene (PE-HD) studded sheets,2016-10
+Pr_25_57_61_60,Polyamide plastics sheets,Pr_25_57_53_63 Polyamide water retention geotextiles,2016-10
+Pr_25_57_61_61,Polyester fabric (coated),Pr_25_57_51_16 Coated polyester fabrics,2016-10
+Pr_25_57_61_62,Polyester fibre fleece,Pr_25_57_85_62 Polyester fibre fleece,2016-10
+Pr_25_57_61_63,Polyester tensile fabrics,Pr_25_57_90_63 Polyester tensile fabrics,2016-10
+Pr_25_57_61_64,Polyethylene breather membranes,"Pr_25_57_10_37 High-density polyethylene (PE-HD) vapour-permeable sheets
+Pr_25_57_10_47 Low-density polyethylene (PE-LD) vapour-permeable sheets",2016-10
+Pr_25_57_61_65,Polyethylene composite gas retardant sheets,Pr_25_57_65_63 Polyethylene sheets,2016-10
+Pr_25_57_61_66,Polyethylene sheets,Pr_25_57_65_63 Polyethylene sheets,2016-10
+Pr_25_57_61_67,Polyethylene sheet root barriers,Pr_25_57_65_63 Polyethylene sheets,2016-10
+Pr_25_57_61_68,Polyolefin breather membranes,Pr_25_57_10_64 Polyolefin vapour-permeable sheets,2016-10
+Pr_25_57_61_69,Polypropylene (PP) studded sheets,Pr_25_57_51_68 Polypropylene (PP) studded sheets,2016-10
+Pr_25_57_61_71,Root barrier membrane,Pr_25_57_65 Plastics membranes,2016-10
+Pr_25_57_61_73,Rubber studded membranes (ABS),Pr_25_57_51_74 Rubber studded sheets,2016-10
+Pr_25_57_61_74,Rubber studded sheets,Pr_25_57_51_74 Rubber studded sheets,2016-10
+Pr_25_57_63,Polymeric roofing membranes,Pr_25_57_51_66 Polymeric membranes,2016-10
+Pr_25_57_63_28,Expanded polytetrafluoroethylene (ePTFE) tensile fabric,Pr_25_57_90_67 Polytetrafluoroethylene (PTFE) tensile fabrics,2016-10
+Pr_25_57_63_62,Polymeric membrane,Pr_25_57_51_66 Polymeric membranes,2016-10
+Pr_25_57_63_63,Polypropylene breather membranes,Pr_25_57_10_66 Polypropylene vapour-permeable sheets,2016-10
+Pr_25_57_63_64,Polypropylene studded sheets,Pr_25_57_51_68 Polypropylene (PP) studded sheets,2016-10
+Pr_25_57_63_66,Polytetrafluoroethylene (PTFE) tensile fabrics,Pr_25_57_90_67 Polytetrafluoroethylene (PTFE) tensile fabrics,2016-10
+Pr_25_57_65_69,Polyvinyl chloride (PVC) sheets,Pr_35_57_71_67 Polyvinyl chloride (PVC) sheets,2018-01
+Pr_25_71_14_06,Aluminium composite panels,Pr_25_71_14_04 Aluminium insulating sandwich panels,2020-04
+Pr_25_71_14_08,Aluminium infill panels,Pr_25_71_42_08 Aluminium infill panels,2020-04
+Pr_25_71_14_11,Carbon steel composite panels,Pr_25_71_14_22 Carbon steel insulating sandwich panels,2020-04
+Pr_25_71_14_13,Carbon steel infill panels,Pr_25_71_42_10 Carbon steel infill panels,2020-04
+Pr_25_71_14_18,Composite and recycled plastics sheets,Pr_25_71_63_18 Composite and recycled plastics sheets,2020-04
+Pr_25_71_14_30,Fibre cement panels,Pr_25_71_52 Mineral-based boards and sheets,2020-04
+Pr_25_71_14_34,Glass-reinforced plastics (GRP) panels,Pr_25_71_63_32 Glass fibre-reinforced plastics (GRP) panels,2020-04
+Pr_25_71_14_83,Stainless steel composite panels,Pr_25_71_14_87 Stainless steel insulating sandwich panels,2020-04
+Pr_25_71_14_85,Stainless steel infill panels,Pr_25_71_42_85 Stainless steel infill panels,2020-04
+Pr_25_71_29_48,Loadbearing thermal break units,Pr_20_93_52_48 Loadbearing thermal break units,2023-07
+Pr_25_71_33_77,Sealed insulated glass units,Pr_25_71_33_42 Insulated glass units (IGUs),2021-07
+Pr_25_71_42_60,Panel diffuser infill panels,Pr_35_93_13_61 Panel diffuser infill units,2021-07
+Pr_25_71_50_06,Baseboards,Pr_25_71_50_52 Metal baseboards,2021-01
+Pr_25_71_51_82,"Stainless steel sheets, strips and plates for construction","Pr_20_76_51_83 Stainless steel sheet, strip and plate for construction",2019-01
+Pr_25_71_51_83,"Stainless steel sheets, strips and plates for general purpose","Pr_20_76_51_84 Stainless steel sheet, strip and plate for general purposes",2019-01
+Pr_25_71_52_11,Carbon-neutral gypsum plasterboards,Pr_25_71_35_11 Carbon-neutral gypsum plasterboards,2021-04
+Pr_25_71_52_12,Carbon steel-faced plasterboard panels,Pr_25_71_35_12 Carbon steel-faced plasterboard panels,2021-04
+Pr_25_71_52_20,Fibre-reinforced cement deck boards,Pr_25_71_11_20 Fibre-reinforced cement deck boards,2021-04
+Pr_25_71_52_21,Enhanced strength gypsum plasterboards,Pr_25_71_35_21 Enhanced strength gypsum plasterboards,2021-04
+Pr_25_71_52_23,Fibre-reinforced calcium silicate boards,Pr_25_71_80_23 Fibre-reinforced calcium silicate boards,2021-04
+Pr_25_71_52_24,Fibre-reinforced calcium silicate fire protection boards,Pr_25_71_80_24 Fibre-reinforced calcium silicate fire protection boards,2021-04
+Pr_25_71_52_25,Fibre-reinforced cement boards,Pr_25_71_11_25 Fibre-reinforced cement boards,2021-04
+Pr_25_71_52_26,Fibre-reinforced cement profiled sheets,Pr_25_71_11_27 Fibre-reinforced cement profiled sheets,2021-04
+Pr_25_71_52_27,Fibre-reinforced cement sheets,Pr_25_71_11_29 Fibre-reinforced cement sheets,2021-04
+Pr_25_71_52_28,Fibre-reinforced cement weatherboards,Pr_25_71_11_31 Fibre-reinforced cement weatherboards,2021-04
+Pr_25_71_52_29,Fibre-reinforced gypsum boards,Pr_25_71_35_29 Fibre-reinforced gypsum boards,2021-04
+Pr_25_71_52_30,Fibre-reinforced gypsum floor boards,Pr_25_71_35_30 Fibre-reinforced gypsum floor boards,2021-04
+Pr_25_71_52_31,Fibre-reinforced magnesium silicate boards,Pr_25_71_80_31 Fibre-reinforced magnesium silicate boards,2021-04
+Pr_25_71_52_32,Flexible plasterboards,Pr_25_71_35_32 Flexible plasterboards,2021-04
+Pr_25_71_52_33,Fire-resistant gypsum plasterboards,Pr_25_71_35_33 Fire-resistant gypsum plasterboards,2021-04
+Pr_25_71_52_34,Gypsum baseboards,Pr_25_71_35_06 Gypsum baseboards,2021-04
+Pr_25_71_52_35,Gypsum core boards,Pr_25_71_35_15 Gypsum core boards,2021-04
+Pr_25_71_52_36,Gypsum planks,Pr_25_71_35_61 Gypsum planks,2021-04
+Pr_25_71_52_37,"Gypsum plasterboards, type A",Pr_25_71_35_84 Standard gypsum plasterboards,2021-04
+Pr_25_71_52_38,Gypsum plasterboards,Pr_25_71_35_65 Gypsum plasterboards,2021-04
+Pr_25_71_52_39,Gypsum plasterboard with combined properties,Pr_25_71_35_67 Gypsum plasterboard with combined properties,2021-04
+Pr_25_71_52_40,Gypsum sheathing plasterboards,Pr_25_71_35_77 Gypsum sheathing plasterboards,2021-04
+Pr_25_71_52_41,Impact-resistant gypsum plasterboards,Pr_25_71_35_42 Impact-resistant gypsum plasterboards,2021-04
+Pr_25_71_52_42,High-density gypsum plasterboards,Pr_25_71_35_37 High-density gypsum plasterboards,2021-04
+Pr_25_71_52_47,Linoleum composite laminate strips and boards,Pr_35_57_71_47 Linoleum composite laminate strips and boards,2021-04
+Pr_25_71_52_52,Moisture-resistant gypsum plasterboards,Pr_25_71_35_52 Moisture-resistant gypsum plasterboards,2021-04
+Pr_25_71_52_63,Plasterboard panels,Pr_25_71_35_63 Plasterboard panels,2021-04
+Pr_25_71_52_80,Sound insulation gypsum plasterboards,Pr_25_71_35_80 Sound insulation gypsum plasterboards,2021-04
+Pr_25_71_52_84,Standard gypsum plasterboards,Pr_25_71_35_84 Standard gypsum plasterboards,2021-04
+Pr_25_71_52_88,Thermal laminate gypsum plasterboards,Pr_25_71_35_88 Thermal laminate gypsum plasterboards,2021-04
+Pr_25_71_52_94,Vapour check gypsum plasterboards,Pr_25_71_35_94 Vapour check gypsum plasterboards,2021-04
+Pr_25_71_52_95,Vermiculite-silicate fire protection boards,Pr_25_71_80_95 Vermiculite-silicate fire protection boards,2021-04
+Pr_25_71_52_99,X-ray-resistant gypsum plasterboards,Pr_25_71_35_99 X-ray-resistant gypsum plasterboards,2021-04
+Pr_25_71_53_06,Bathroom mirrors,Pr_40_30_53_06 Bathroom mirrors,2022-01
+Pr_25_71_53_14,Cheval mirrors,Pr_40_30_53_14 Cheval mirrors,2022-01
+Pr_25_71_53_23,Dressing glasses,Pr_40_30_53_23 Dressing glasses,2022-01
+Pr_25_71_53_30,Framed glass mirrors,Pr_40_30_53_30 Framed glass mirrors,2022-01
+Pr_25_71_53_31,Framed metal mirrors,Pr_40_30_53_31 Framed metal mirrors,2022-01
+Pr_25_71_53_32,Framed plastics mirrors,Pr_40_30_53_32 Framed plastics mirrors,2022-01
+Pr_25_71_53_46,Large mirrors,Pr_40_30_53_30 Framed glass mirrors,2022-01
+Pr_25_71_53_59,Overmantel mirrors,Pr_40_30_53_59 Overmantel mirrors,2022-01
+Pr_25_71_53_65,Platform mirrors,Pr_40_30_53_65 Platform mirrors,2022-01
+Pr_25_71_53_70,Rail mirrors,Pr_40_30_53_70 Rail mirrors,2022-01
+Pr_25_71_53_73,Road mirrors,Pr_40_30_53_73 Road mirrors,2022-01
+Pr_25_71_53_82,Small mirrors,Pr_40_30_53 Mirrors,2022-01
+Pr_25_71_53_96,Wall mirrors,Pr_40_30_53_96 Wall mirrors,2022-01
+Pr_25_71_57_66,Polymer based boards,Pr_25_71_63 Plastics-based boards and sheets,2020-01
+Pr_25_71_57_67,Polymer based panels,Pr_25_71_63 Plastics-based boards and sheets,2020-01
+Pr_25_71_63_62,Plastics composite and recycled sheets,Pr_25_71_63_18 Composite and recycled plastics sheets,2022-01
+Pr_25_71_63_94,Unplasticized polyvinyl chloride (PVC-U) sheets,Pr_25_57_65_92 Unplasticized polyvinyl chloride (PVC-U) sheets,2021-07
+Pr_25_71_90,Tunnel- and shaft-lining products,"Pr_20_93_76 Shaft-lining products
+Pr_20_93_90 Tunnel-lining products",2017-04
+Pr_25_71_90_11,Carbon steel tunnel- and shaft-lining segments,"Pr_20_93_76_11 Carbon steel shaft-lining segments
+Pr_20_93_90_11 Carbon steel tunnel-lining segments",2017-04
+Pr_25_71_90_12,Cast iron tunnel- and shaft-lining segments,"Pr_20_93_76_12 Cast iron shaft-lining segments
+Pr_20_93_90_12 Cast iron tunnel-lining segments",2017-04
+Pr_25_71_90_15,Concrete tunnel- and shaft-lining segments,"Pr_20_93_76_15 Concrete shaft-lining segments
+Pr_20_93_90_15 Concrete tunnel-lining segments",2017-04
+Pr_25_71_90_80,Spheroidal graphite iron (SGI) tunnel- and shaft-lining segments,"Pr_20_93_76_80 Spheroidal graphite iron (SGI) shaft-lining segments
+Pr_20_93_90_80 Spheroidal graphite iron (SGI) tunnel-lining segments",2017-04
+Pr_25_71_97_21,Decorative laminated papers,Pr_35_57_22_21 Decorative laminated papers,2021-07
+Pr_25_93_45_70,Road kerbs,Pr_25_93_45 Kerb units,2020-04
+Pr_25_93_50_02,Aluminium capping units,Pr_25_93_54_02 Aluminium capping units,2018-01
+Pr_25_93_50_03,Aluminium coping units,Pr_25_93_54_03 Aluminium coping units,2018-01
+Pr_25_93_60_05,Asphalt kerbs,Pr_25_93_45_05 Asphalt kerbs,2018-08
+Pr_25_93_60_18,Concrete kerbs,Pr_25_93_45_18 Concrete kerbs,2018-08
+Pr_25_93_60_21,Concrete safety kerbs,Pr_25_93_45_21 Concrete safety kerbs,2018-08
+Pr_25_93_60_24,Concrete transition and dropper kerbs,Pr_25_93_45_24 Concrete transition and dropper kerbs,2018-08
+Pr_25_93_60_56,Natural stone kerbs,Pr_25_93_45_56 Natural stone kerbs,2018-08
+Pr_25_93_60_62,Plastics kerbs,Pr_25_93_45_62 Plastics kerbs,2018-08
+Pr_25_96_35_31,Footway gratings,Pr_25_96_30_31 Footway gratings,2020-04
+Pr_30_36_08_50,Magnetic locks,Pr_75_30_27_50 Magnetic locks,2018-01
+Pr_30_36_59_52,Midrail push plates,Pr_30_36_33_52 Midrail protection plates,2021-10
+Pr_30_59_12_46,Lock gate sills,SL_80_70_46 Lock gate sills,2021-04
+Pr_30_59_15_92,Tripod turnstiles,Pr_30_59_34_92 Tripod turnstiles,2023-04
+Pr_30_59_24_28,Fire doorsets,Pr_30_59_24 Doorsets,2023-04
+Pr_30_59_24_72,Roller grille sets,Pr_30_59_84_72 Roller grilles,2017-04
+Pr_30_59_24_73,Roller shutter sets,Pr_30_59_84_73 Roller shutters,2017-04
+Pr_30_59_33_47,Lock paddle gates,Pr_30_59_12_47 Lock gate paddles,2021-01
+Pr_30_59_34_10,Canal lock gates,Pr_30_59_12_10 Canal lock gates,2021-01
+Pr_30_59_36_25,Ductwork access doorsets,Pr_65_65_23_25 Ductwork access doorsets,2018-01
+Pr_30_59_36_64,Polyvinyl chloride (PVC) strip curtain sets,Pr_30_59_24_64 Polyvinyl chloride (PVC) strip curtain sets,2018-01
+Pr_30_59_58_03,Aluminium framed heat or smoke control roof ventilators,Pr_30_59_29_75 Roof ventilator unit,2016-10
+Pr_30_59_58_36,Hardwood framed heat or smoke control roof ventilators,Pr_30_59_29_75 Roof ventilator unit,2016-10
+Pr_30_59_58_72,Rigid polyurethane framed heat or smoke control roof ventilators,Pr_30_59_29_75 Roof ventilator unit,2016-10
+Pr_30_59_58_80,Smoke control roof ventilators,Pr_30_59_29_75 Roof ventilator unit,2016-10
+Pr_30_59_58_81,Softwood framed heat or smoke control roof ventilators,Pr_30_59_29_75 Roof ventilator unit,2016-10
+Pr_30_59_58_85,Steel framed heat or smoke control roof ventilators,Pr_30_59_29_75 Roof ventilator unit,2016-10
+Pr_30_59_71,Refuse and linen chute inlets and openings,Pr_65_12 Chutes,2020-07
+Pr_30_59_71_12,Chute automatic fire doors,Pr_65_12_71_10 Chute automatic fire doors,2020-07
+Pr_30_59_71_13,Chute door interlocks,Pr_65_12_71_21 Chute door interlocks,2020-07
+Pr_30_59_71_21,Refuse chute discharge outlets,Pr_65_12_70_24 Refuse chute discharge outlets,2020-07
+Pr_30_59_71_22,Refuse chute doorsets,Pr_65_12_70_40 Refuse chute inlet doors,2020-07
+Pr_30_59_71_23,Refuse chute hoppers,Pr_65_12_70_36 Refuse chute hoppers,2020-07
+Pr_30_59_71_46,Linen chute discharge outlets,Pr_65_12_47_24 Linen chute discharge outlets,2020-07
+Pr_30_59_71_47,Linen chute doorsets,Pr_65_12_47_40 Linen chute inlet doors,2020-07
+Pr_30_59_71_48,Linen chute hoppers,Pr_65_12_47_37 Linen chute hoppers,2020-07
+Pr_30_59_84_64,Polyvinyl chloride (PVC) strip curtains,Pr_40_30_20_67 Polyvinyl chloride (PVC) strip curtains,2018-04
+Pr_35_31_22_59,Opaque wood stains,Pr_35_31_95_98 Wood stains,2021-07
+Pr_35_31_22_74,Semi-transparent wood dyes,Pr_35_31_95_96 Wood dyes,2021-07
+Pr_35_31_22_75,Semi-transparent wood oils,Pr_35_31_95_97 Wood oils,2021-07
+Pr_35_31_22_76,Semi-transparent wood stains,Pr_35_31_95_98 Wood stains,2021-07
+Pr_35_31_65_81,Sugar soap,Pr_15_31_04_85 Sugar soap,2018-01
+Pr_35_31_77_03,Sprayed monolithic coating finishing coats,Pr_35_31_68_79 Sprayed monolithic coating finishing coats,2019-10
+Pr_35_31_85_04,Anti-static carpet treatments,Pr_35_31_85_05 Anti-static carpet treatments,2017-04
+Pr_35_57_71_55,Multilayer flooring,Pr_35_31_06_55 Multilayer flooring,2017-04
+Pr_35_90_28_28,External extension sills,Pr_25_93_52_28 External extension sills,2018-01
+Pr_35_90_87_53,Mineral fibre joint fillers,Pr_25_71_44_53 Mineral fibre joint fillers,2018-01
+Pr_35_93_96_51,Metal tiles,Pr_25_93_72_52 Metal tiles,2018-01
+Pr_40_10_27,Electrical services signs,"Pr_40_10_57 Services notices, identification and labels",2020-04
+Pr_40_10_27_27,Electrical shock treatment signs,Pr_40_10_57_25 Electrical shock treatment signs,2020-04
+Pr_40_10_27_28,Externally illuminated emergency exit signs,Pr_40_10_57_30 Externally illuminated emergency exit signs,2020-04
+Pr_40_10_27_43,Induction loop system signs,Pr_40_10_57_43 Induction loop system signs,2020-04
+Pr_40_10_27_62,Photoluminescent emergency signs,Pr_40_10_57_61 Photoluminescent emergency signs,2020-04
+Pr_40_10_27_63,Photoluminescent low-mounted way-guidance lighting,Pr_40_10_57_62 Photoluminescent low-mounted way-guidance lighting,2020-04
+Pr_40_10_27_86,Surveillance system signs,Pr_40_10_57_86 Surveillance system signs,2020-04
+Pr_40_10_27_88,Telecommunications equipment and outlets labels,Pr_40_10_57_88 Telecommunications equipment and outlets labels,2020-04
+Pr_40_10_27_91,Underground cable marker tapes,Pr_40_10_57_91 Underground cable marker tapes,2020-04
+Pr_40_10_57_21,Door number labels,Pr_40_10_77_25 Door number labels,2023-04
+Pr_40_10_57_26,Engraved mechanical plant and equipment identification labels,Pr_40_10_57_51 Mechanical plant and equipment identification labels,2021-10
+Pr_40_10_57_27,Engraved valve charts and schematics,Pr_40_10_57_93 Valve charts and schematics,2021-10
+Pr_40_10_57_28,Engraved valve identification labels,Pr_40_10_57_94 Valve identification labels,2021-10
+Pr_40_10_57_39,Images and logos,Pr_40_10_77_40 Images and logos,2023-04
+Pr_40_10_57_60,Paper valve charts and schematics,Pr_40_10_57_93 Valve charts and schematics,2021-10
+Pr_40_10_57_71,Room name labels,Pr_40_10_77_71 Room name labels,2023-04
+Pr_40_10_57_72,Room number labels,Pr_40_10_77_73 Room number labels,2023-04
+Pr_40_10_57_76,Screen printed mechanical plant and equipment identification labels,Pr_40_10_57_51 Mechanical plant and equipment identification labels,2021-10
+Pr_40_10_57_77,Screen printed valve identification labels,Pr_40_10_57_94 Valve identification labels,2021-10
+Pr_40_10_57_99,Window number labels,Pr_40_10_77_93 Window number labels,2023-04
+Pr_40_10_90_23,Dolphins,En_32_85_24 Dolphins,2019-01
+Pr_40_10_90_80,Signage,Pr_40_10_90_56 Navigation signs,2018-10
+Pr_40_20_87_24,Drinking fountains,Pr_40_70_15_24 Drinking fountains,2019-10
+Pr_40_20_87_28,Eye wash fountains,Pr_40_20_27_28 Eye-wash fountains,2019-04
+Pr_40_20_93_79,Urinal flushing valves,Pr_75_50_46_31 Flush control devices,2020-10
+Pr_40_20_93_81,Urinal wastes,Pr_70_55_96_93 Urinal wastes,2019-01
+Pr_40_20_93_91,WC flushing valves,Pr_75_50_46_31 Flush control devices,2020-10
+Pr_40_30_26_09,Bathroom clothes drying lines,Pr_40_30_26 Drying lines,2019-04
+Pr_40_30_26_58,Outdoor clothes rotary lines,Pr_40_30_26_72 Rotary clothes-drying lines,2019-04
+Pr_40_30_26_59,Outdoor clothes drying lines,Pr_40_30_26 Drying lines,2019-04
+Pr_40_30_26_93,Utility room clothes drying lines,Pr_40_30_26 Drying lines,2019-04
+Pr_40_30_30_62,Picnic tables,Pr_40_30_30_17 Combined outdoor tables and seating,2021-07
+Pr_40_30_53_46,Large mirrors,Pr_40_30_53_30 Framed glass mirrors,2023-04
+Pr_40_30_78_01,Airing cabinets,Pr_40_30_87_14 Clothes drying cabinets,2021-01
+Pr_40_30_78_02,Archive shelves,Pr_40_30_78_53 Mobile aisle shelving,2021-01
+Pr_40_30_78_03,Bathroom cabinets,Pr_40_30_87_03 Bathroom cabinets,2021-01
+Pr_40_30_78_04,Bathroom cupboards,Pr_40_30_87_03 Bathroom cabinets,2021-01
+Pr_40_30_78_05,Bathroom furniture,Pr_40_20_76_94 Vanity units,2021-01
+Pr_40_30_78_06,Bathroom shelves,Pr_40_30_78_78 Shelves,2021-01
+Pr_40_30_78_07,Bedside units,Pr_40_30_87_07 Bedside units,2021-01
+Pr_40_30_78_09,Bowl and bucket holders,"Pr_40_50_84_09 Bowl stands
+Pr_40_50_84_10 Bucket holders",2021-01
+Pr_40_30_78_11,Chests,Pr_40_30_87_11 Chests,2020-10
+Pr_40_30_78_12,Classroom storage units,Pr_40_30_87_12 Classroom storage units,2021-01
+Pr_40_30_78_14,Clothes drying cabinets,Pr_40_30_87_14 Clothes drying cabinets,2021-01
+Pr_40_30_78_18,College bedroom shelves,Pr_40_30_78_78 Shelves,2021-01
+Pr_40_30_78_19,Commercial kitchen shelving and racking units,Pr_40_30_78_85 Stainless steel shelving and racking units,2021-10
+Pr_40_30_78_20,Copyholders,Pr_40_50_84_20 Copyholders,2021-01
+Pr_40_30_78_21,Couch roll holders,Pr_40_70_22_21 Couch roll holders,2021-01
+Pr_40_30_78_22,Credenzas,Pr_40_30_87_81 Sideboards,2021-01
+Pr_40_30_78_23,Desk tidies,Pr_40_70_58 Office equipment,2021-01
+Pr_40_30_78_24,Display cases,Pr_40_30_87_24 Display cases,2021-01
+Pr_40_30_78_25,Drawer units,Pr_40_30_87_25 Drawer units,2021-01
+Pr_40_30_78_26,Dressers,Pr_40_30_87_26 Dressers,2021-01
+Pr_40_30_78_28,External storage units,Pr_40_30_28 External storage units,2021-01
+Pr_40_30_78_29,Filing cabinets,Pr_40_30_87_29 Filing cabinets,2021-01
+Pr_40_30_78_30,Folding tables storage cabinets,Pr_40_30_87_30 Folding tables storage cabinets,2021-01
+Pr_40_30_78_33,Glazed bookcases,Pr_40_30_87_33 Glazed bookcases,2021-01
+Pr_40_30_78_40,Index storage units,Pr_40_30_87_40 Index storage units,2021-01
+Pr_40_30_78_41,In-the-round display cases,Pr_40_30_87_24 Display cases,2021-01
+Pr_40_30_78_42,Kitchen drawer units,Pr_40_30_87_42 Kitchen drawer units,2021-01
+Pr_40_30_78_43,Kitchen bench cupboards,Pr_40_30_87_31 Floor-standing kitchen cupboards,2021-01
+Pr_40_30_78_44,Kitchen overhead cupboards,Pr_40_30_87_95 Wall-mounted kitchen cupboards,2021-01
+Pr_40_30_78_45,Kitchen storage units,Pr_40_30_87_42 Kitchen drawer units,2021-01
+Pr_40_30_78_46,Laboratory storage units,Pr_40_30_87_46 Laboratory storage units,2021-01
+Pr_40_30_78_48,Lockers,Pr_40_30_87_48 Lockers,2021-01
+Pr_40_30_78_51,Media wall partition units,Pr_40_30_87_51 Media wall partition units,2021-01
+Pr_40_30_78_52,Medicine cabinets,Pr_40_30_87_52 Medicine cabinets,2021-01
+Pr_40_30_78_55,Museum showcases,Pr_40_30_87_55 Museum showcases,2021-01
+Pr_40_30_78_57,Office storage units,Pr_40_30_87_57 Office storage units,2021-01
+Pr_40_30_78_63,Plan chests,Pr_40_30_87_63 Plan chests,2021-01
+Pr_40_30_78_70,Refrigerated mortuary storage units,Pr_40_70_53_70 Refrigerated mortuary storage units,2021-01
+Pr_40_30_78_72,Retail storage units,Pr_40_30_87_72 Retail storage units,2021-01
+Pr_40_30_78_73,Rotary storage units,Pr_40_30_87_73 Rotary storage units,2021-01
+Pr_40_30_78_76,Security cages,Pr_40_30_75_77 Security cages,2021-01
+Pr_40_30_78_79,Racking units,Pr_40_30_78_70 Racking units,2021-01
+Pr_40_30_78_81,Sideboards,Pr_40_30_87_81 Sideboards,2021-01
+Pr_40_30_78_84,Storage carousels,Pr_40_30_87_73 Rotary storage units,2021-01
+Pr_40_30_78_85,Storage chests,Pr_40_30_87_85 Storage chests,2021-01
+Pr_40_30_78_86,Storage wall partition units,Pr_40_30_87_86 Storage wall partition units,2021-01
+Pr_40_30_78_87,Suspension storage units,Pr_40_30_87_87 Suspension storage units,2021-01
+Pr_40_30_78_88,Table storage credenzas,Pr_40_30_87_30 Folding tables storage cabinets,2021-01
+Pr_40_30_78_90,Tool chests,Pr_40_30_87_90 Tool chests,2021-01
+Pr_40_30_78_93,Under-bed storage units,Pr_40_30_87_93 Under-bed storage units,2021-01
+Pr_40_30_78_96,Wardrobes,Pr_40_30_87_96 Wardrobes,2021-01
+Pr_40_30_78_97,Weights storage racks,Pr_40_30_78_35 Gym weights storage racks,2021-01
+Pr_40_30_84_20,Copyholders,Pr_40_50_84_20 Copyholders,2021-04
+Pr_40_30_86_61,Portable starting platforms,Pr_40_50_86_64 Portable starting platforms,2023-04
+Pr_40_50_05_50,Memorials,En_25_05_50 Memorials,2018-01
+Pr_40_50_07_22,Disposal containers,Pr_40_50_07_73 Refuse containers,2021-10
+Pr_40_50_07_30,Fire bucket floor stands,Pr_40_50_84_30 Fire bucket floor stands,2023-01
+Pr_40_50_21_44,Kitchenettes,Pr_20_65_50_46 Kitchenette units,2021-01
+Pr_40_50_21_45,Kitchen worktops,Pr_40_30_30_46 Kitchen worktops,2021-01
+Pr_40_50_21_72,Reception desks,Pr_40_30_30_71 Reception desks,2018-01
+Pr_40_50_21_97,Worktops,Pr_40_30_30_96 Worktops,2018-01
+Pr_40_50_28_12,Carbon steel fire buckets,Pr_40_50_07_11 Carbon steel fire buckets,2023-01
+Pr_40_50_28_28,Extinguisher floor stands,Pr_40_50_84_29 Extinguisher floor stands,2023-01
+Pr_40_50_51_31,Foot stools,Pr_40_50_51_50 Medical footstools,2021-01
+Pr_40_50_84_36,Hat stands,Pr_40_30_78_36 Hat stands,2021-01
+Pr_40_70_05,Audiovisual equipment,Pr_60_75_03 Audio and video players and recorders,2021-01
+Pr_40_70_05_70,Radios,Pr_60_75_03_70 Radio tuners,2021-01
+Pr_40_70_05_88,Televisions,Pr_60_75_03_78 Televisions,2021-01
+Pr_40_70_17_11,Catering microwave ovens,Pr_40_70_17_52 Commercial microwave ovens,2021-10
+Pr_40_70_17_23,Electric fryers,Pr_40_70_17_22 Commercial electric deep fat fryers,2021-10
+Pr_40_70_17_38,Gas fryers,Pr_40_70_17_37 Commercial gas deep fat fryers,2021-10
+Pr_40_70_17_51,Catering microwave ovens,Pr_40_70_17_52 Commercial microwave ovens,2021-07
+Pr_40_70_21_60,Pass-through dishwashers,Pr_40_70_21_12 Commercial pass-through dishwashers,2021-10
+Pr_40_70_21_92,Under-counter dishwashers,Pr_40_70_21_14 Commercial under-counter dishwashers,2021-10
+Pr_40_70_22_11,Cash dispensers,Pr_40_70_22_05 Automated teller machines (ATMs),2023-04
+Pr_40_70_22_66,Plate dispensers,Pr_40_70_22_18 Commercial plate dispensers,2021-10
+Pr_40_70_23_06,Bains-marie,"Pr_40_70_23_15 Commercial electric bains-marie
+Pr_40_70_23_35 Gas bains-marie",2021-01
+Pr_40_70_23_26,Electric bains-marie,Pr_40_70_23_15 Commercial electric bains-marie,2021-10
+Pr_40_70_23_70,Refrigerated display cabinet airflow equipment,Pr_40_70_31_69 Refrigerated display cabinet airflow equipment,2021-07
+Pr_40_70_23_71,Refrigerated display cabinets,Pr_40_70_31_70 Commercial refrigerated cabinets,2021-07
+Pr_40_70_23_72,Refrigerated display counters,Pr_40_70_31_71 Commercial refrigerated counters,2021-07
+Pr_40_70_23_96,Water coolers,Pr_40_70_15_96 Water coolers,2018-01
+Pr_40_70_31_31,Freezers,Pr_40_70_26_31 Freezers,2021-07
+Pr_40_70_31_32,Fridge-freezers,Pr_40_70_26_32 Fridge-freezers,2021-07
+Pr_40_70_31_72,Refrigerators,Pr_40_70_26_72 Refrigerators,2021-07
+Pr_40_70_46_30,Flatwork ironers,Pr_40_70_46_24 Dryer ironers,2023-01
+Pr_40_70_46_96,Washer extractors,Pr_40_70_46_39 Hydro extractors,2023-01
+Pr_40_70_47_75,Sanitary barrier washers,Pr_40_70_47_06 Barrier washers,2023-01
+Pr_40_70_56,Navigation equipment,Pr_40_10_90 Water and navigation aids,2021-01
+Pr_40_70_56_21,Daymarks,Pr_40_10_90_21 Daymarks,2021-01
+Pr_40_70_56_56,Navigation booms,Pr_40_10_90_55 Navigation booms,2021-01
+Pr_40_70_63_35,Graphics cameras,Pr_70_75_15_22 Digital cameras,2021-01
+Pr_40_70_65_16,Conveyor toasters,Pr_40_70_17_16 Commercial conveyor toasters,2021-01
+Pr_40_70_65_18,Electric boiling pans,Pr_40_70_17_18 Commercial electric boiling pans,2021-01
+Pr_40_70_65_19,Electric boiling tables,Pr_40_70_17_19 Commercial electric boiling tables,2021-01
+Pr_40_70_65_20,Electric bratt pans,Pr_40_70_17_20 Commercial electric bratt pans,2021-01
+Pr_40_70_65_21,Electric cooking ranges,Pr_40_70_17_21 Commercial electric cooking ranges,2021-01
+Pr_40_70_65_22,Electric deep fat fryers,Pr_40_70_17_22 Commercial electric deep fat fryers,2021-01
+Pr_40_70_65_23,Electric fryers,Pr_40_70_17_23 Electric fryers,2021-01
+Pr_40_70_65_24,Electric griddles,Pr_40_70_17_24 Commercial electric griddles,2021-01
+Pr_40_70_65_25,Electric grills,Pr_40_70_17_25 Commercial electric grills,2021-01
+Pr_40_70_65_27,Electric ovens,Pr_40_70_17_27 Electric ovens,2021-01
+Pr_40_70_65_28,Electric steaming ovens,Pr_40_70_17_28 Commercial electric steaming ovens,2021-01
+Pr_40_70_65_33,Gas boiling pans,Pr_40_70_17_33 Commercial gas boiling pans,2021-01
+Pr_40_70_65_34,Gas boiling tables,Pr_40_70_17_34 Commercial gas boiling tables,2021-01
+Pr_40_70_65_35,Gas bratt pans,Pr_40_70_17_35 Commercial gas bratt pans,2021-01
+Pr_40_70_65_36,Gas cooking ranges,Pr_40_70_17_36 Commercial gas cooking ranges,2021-01
+Pr_40_70_65_37,Gas deep fat fryers,Pr_40_70_17_37 Commercial gas deep fat fryers,2021-01
+Pr_40_70_65_38,Gas fryers,Pr_40_70_17_38 Gas fryers,2021-01
+Pr_40_70_65_39,Gas griddles,Pr_40_70_17_39 Commercial gas griddles,2021-01
+Pr_40_70_65_40,Gas grills,Pr_40_70_17_40 Commercial gas grills,2020-01
+Pr_40_70_65_41,Gas ovens,Pr_40_70_17_41 Gas ovens,2021-01
+Pr_40_70_65_42,Gas steaming ovens,Pr_40_70_17_42 Commercial gas steaming ovens,2021-01
+Pr_40_70_65_43,General-purpose electric ovens,Pr_40_70_17_43 Commercial general-purpose electric ovens,2021-01
+Pr_40_70_65_44,General-purpose gas ovens,Pr_40_70_17_44 Commercial general-purpose gas ovens,2021-01
+Pr_40_70_65_51,Microwave ovens,Pr_40_70_17_52 Commercial microwave ovens,2021-01
+Pr_40_70_65_79,Slot toasters,Pr_40_70_17_79 Commercial slot toasters,2021-01
+Pr_40_70_75_50,Manual push,Pr_40_70_75 Safety equipment,2022-01
+Pr_45_30_90_04,Bare-root climbers,Pr_45_30_80_04 Bare-root climbers,2018-04
+Pr_45_30_90_06,Bare-root cutting-raised roses,Pr_45_30_80_06 Bare-root cutting-raised roses,2018-04
+Pr_45_30_90_08,Bare-root shrubs,Pr_45_30_80_08 Bare-root shrubs,2018-04
+Pr_45_30_90_10,Bare-root budded roses,Pr_45_30_80_10 Bare-root budded roses,2018-04
+Pr_45_30_90_12,Cell-grown shrubs,Pr_45_30_80_12 Cell-grown shrubs,2018-04
+Pr_45_30_90_14,Container-grown bamboos,Pr_45_30_80_14 Container-grown bamboos,2018-04
+Pr_45_30_90_15,Container-grown budded roses,Pr_45_30_80_15 Container-grown budded roses,2018-04
+Pr_45_30_90_16,Container-grown climbers,Pr_45_30_80_16 Container-grown climbers,2018-04
+Pr_45_30_90_18,Container-grown cutting-raised roses,Pr_45_30_80_18 Container-grown cutting-raised roses,2018-04
+Pr_45_30_90_20,Container-grown shrubs,Pr_45_30_80_20 Container-grown shrubs,2018-04
+Pr_45_30_90_71,Rootballed bamboos,Pr_45_30_80_71 Root-balled bamboos,2018-04
+Pr_45_30_90_73,Rootballed shrubs,Pr_45_30_80_73 Root-balled shrubs,2018-04
+Pr_45_31_52_97,Vermicides,Pr_45_31_03_96 Vermicides ,2023-04
+Pr_45_63_63_64,Polymer plant containers,Pr_45_63_63_63 Plastics plant containers,2021-04
+Pr_60_50_47_64,Plastics petrol and diesel tanks,Pr_60_50_47_34 Glass fibre-reinforced plastics liquid fuel tanks,2016-10
+Pr_60_70_06_06,Backup battery supply,Pr_60_70_06_28 Emergency call battery backup supply,2021-07
+Pr_60_70_06_27,Electric vehicle chargers,Pr_65_72_97_29 Electric vehicle charging points,2022-01
+Pr_60_70_06_65,Power conditioning units,Pr_65_72_43_64 Power conditioning units,2018-01
+Pr_60_70_06_76,Sealed lead-acid batteries,Pr_60_70_06_94 Valve-regulated lead-acid cells,2023-01
+Pr_60_70_22_15,Consumer units,Pr_60_70_22_22 Distribution boards,2021-10
+Pr_60_70_22_85,Sub-main distribution boards,Pr_60_70_22_22 Distribution boards,2021-10
+Pr_60_70_28,Extra-high-voltage switchgear,Pr_60_70_36 High-voltage switchgear and transformers,2023-10
+Pr_60_70_36_12,High-voltage circuit breakers,Pr_60_70_38_12 High-voltage circuit breakers,2023-10
+Pr_60_70_36_75,High-voltage safety matting,Pr_80_77_28_25 Electrical safety matting,2021-10
+Pr_60_70_48_11,Changeover switches,Pr_60_70_48_52 Manual changeover switches,2021-07
+Pr_60_70_48_45,Low-voltage safety matting,Pr_80_77_28_25 Electrical safety matting,2021-10
+Pr_60_70_65_38,Hydraulic power units,Pr_85_50_39_38 Hydraulic power units,2021-01
+Pr_60_70_65_41,Internal combustion engines,Pr_60_70_65_36 Generator internal combustion engines,2021-01
+Pr_60_75_78_90,Telemetry transmitters,Pr_75_75_90_90 Telemetry transmitters,2018-01
+Pr_60_75_86_10,Covert cameras,Pr_60_75_86_11 Internet protocol (IP) covert cameras,2016-10
+Pr_60_75_86_11,CCTV matrix switch controllers,Pr_75_80_50_95 Video matrix switch controllers,2016-10
+Pr_60_75_86_12,CCTV matrix switch controllers,Pr_75_80_50_95 Video matrix switch controllers,2018-01
+Pr_60_75_86_12,CCTV telemetry receivers,Pr_75_75_90_88 Telemetry receivers,2016-10
+Pr_60_75_86_13,CCTV telemetry receivers,Pr_75_75_90_88 Telemetry receivers,2018-01
+Pr_60_75_86_13,CCTV telemetry transmitters,Pr_75_75_90_90 Telemetry transmitters,2016-10
+Pr_60_75_86_14,CCTV telemetry transmitters,Pr_75_75_90_90 Telemetry transmitters,2018-01
+Pr_65_12_70_22,Disposal chutes,Pr_65_12_70_74 Refuse chutes,2021-10
+Pr_65_12_70_47,Linen chutes,Pr_65_12_47_47 Linen chutes,2020-07
+Pr_65_12_71_72,Refuse and recycling separators,Pr_65_12_70_72 Refuse and recycling separators,2020-07
+Pr_65_52_01_25,Concrete soakaway shaft sections,Pr_65_52_01_59 Perforated concrete ring sections,2021-07
+Pr_65_52_03_61,Polyethylene (PE) drainage pipes and fittings,Pr_65_52_03_37 High-density polyethylene (HDPE) above-ground drainage pipes and fittings,2021-10
+Pr_65_52_07_39,High-density polyethylene (HDPE) structured wall below-ground drainage pipes and fittings for welded jointing,Pr_65_52_07_38 High-density polyethylene (HDPE) structured wall below-ground drainage pipes and fittings,2020-07
+Pr_65_52_07_67,Polypropylene (PP) structured wall below-ground drainage pipes and fittings for welded jointing,Pr_65_52_07_65 Polypropylene (PP) structured wall below-ground drainage pipes and fittings,2020-07
+Pr_65_52_24_02,Adaptors for above-ground pipe connections to clay drainage pipelines,Pr_65_52_07_02 Adaptors for connections to clay drainage pipes,2020-07
+Pr_65_52_24_03,Adaptors for above-ground pipe connections to plastics drainage pipelines,Pr_65_52_07_03 Adaptors for connections to plastics drainage pipes,2020-07
+Pr_65_52_38_33,Gas hose reels,Pr_65_52_38_12 Carbon dioxide fire-extinguishing hose reels,2021-07
+Pr_65_52_61_28,Electrical resistance surface trace heating,Pr_70_60_36_15 Constant wattage trace heating cables,2018-10
+Pr_65_52_61_29,Electrical resistance surface trace heating for hazardous environments,Pr_70_60_36_77 Series resistance trace heating cables and tapes,2018-10
+Pr_65_52_63_02,Acrylonitrile butadiene styrene (ABS) pipe and fittings,Pr_65_52_03_02 Acrylonitrile butadiene styrene (ABS) above-ground wastewater pipes and fittings,2020-07
+Pr_65_52_63_04,Aluminium rainwater pipes and fittings,Pr_65_52_03_04 Aluminium rainwater pipes and fittings,2020-07
+Pr_65_52_63_08,Borosilicate glass pipes and fittings,Pr_65_52_03_08 Borosilicate glass above-ground wastewater pipes and fittings,2020-07
+Pr_65_52_63_10,Carbon steel pipes and fittings,Pr_65_52_63_82 Steel pipes,2020-07
+Pr_65_52_63_11,Cast iron rainwater pipes and fittings,Pr_65_52_03_11 Cast iron rainwater pipes and fittings,2020-07
+Pr_65_52_63_12,Cast iron drainage pipes and fittings,Pr_65_52_03_12 Cast iron above-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_13,Chlorinated polyvinyl chloride (PVC-C) wastewater pipes and fittings,Pr_65_52_03_13 Chlorinated polyvinyl chloride (PVC-C) above-ground wastewater pipes and fittings,2020-07
+Pr_65_52_63_15,Concrete perforated pipes and fittings,Pr_65_52_07_15 Concrete perforated below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_16,Concrete pipes and fittings,Pr_65_52_07_16 Concrete plain wall below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_19,Copper rainwater pipes and fittings,Pr_65_52_03_19 Copper rainwater pipes and fittings,2020-07
+Pr_65_52_63_21,Copper wastewater pipes and fittings,Pr_65_52_03_21 Copper above-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_30,Hot-dip pre-coated carbon steel rainwater pipes and fittings,Pr_65_52_03_30 Hot-dip pre-coated carbon steel rainwater pipes and fittings,2020-07
+Pr_65_52_63_31,Galvanized steel rainwater pipes and fittings,Pr_65_52_03_31 Galvanized steel rainwater pipes and fittings,2020-07
+Pr_65_52_63_34,Glass-reinforced plastics (GRP) rainwater pipes and fittings,Pr_65_52_03_34 Glass fibre-reinforced plastics (GRP) rainwater pipes and fittings,2020-07
+Pr_65_52_63_52,Modified unplasticized polyvinyl chloride (MUPVC) pipes and fittings,Pr_65_52_03_52 Modified unplasticized polyvinyl chloride (MUPVC) above-ground wastewater pipes and fittings,2020-07
+Pr_65_52_63_61,Polyethylene (PE) drainage pipes and fittings,Pr_65_52_03_37 High-density polyethylene (HDPE) above-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_66,Polypropylene (PP) solid wall pipes and fittings,Pr_65_52_03_66 Polypropylene (PP) above-ground wastewater pipes and fittings,2020-07
+Pr_65_52_63_67,Polypropylene (PP) structured wall pipes and fittings,Pr_65_52_07_64 Polypropylene (PP) solid wall below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_80,Stainless steel rainwater pipes and fittings,Pr_65_52_03_80 Stainless steel rainwater pipes and fittings,2020-07
+Pr_65_52_63_81,Stainless steel wastewater pipes and fittings,Pr_65_52_03_81 Stainless steel above-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_87,Unplasticized polyvinyl chloride (PVC-U) drainage pipes and fittings,Pr_65_52_03_87 Unplasticized polyvinyl chloride (PVC-U) above-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_88,Unplasticized polyvinyl chloride (PVC-U) rainwater pipes and fittings,Pr_65_52_03_88 Unplasticized polyvinyl chloride (PVC-U) rainwater pipes and fittings,2020-07
+Pr_65_52_63_90,Unplasticized polyvinyl chloride (PVC-U) solid wall pipes and fittings,Pr_65_52_03_88 Unplasticized polyvinyl chloride (PVC-U) rainwater pipes and fittings,2020-07
+Pr_65_52_63_91,Unplasticized polyvinyl chloride (PVC-U) structured wall perforated pipes and fittings,Pr_65_52_07_91 Unplasticized polyvinyl chloride (PVC-U) structured wall perforated below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_92,Unplasticized polyvinyl chloride (PVC-U) structured wall pipes and fittings,Pr_65_52_07_90 Unplasticized polyvinyl chloride (PVC-U) structured wall below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_93,Unplasticized polyvinyl chloride alloy (PVC-A) pipes and fittings,Pr_65_52_07_92 Unplasticized polyvinyl chloride alloy (PVC-A) pressure pipes and fittings,2020-07
+Pr_65_52_63_94,Vitrified clay perforated pipes and fittings,Pr_65_52_07_94 Vitrified clay perforated below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_95,Vitrified clay plain wall open butt joint pipes and fittings,Pr_65_52_07_96 Vitrified clay plain wall below-ground drainage open butt joint pipes and fittings,2020-07
+Pr_65_52_63_96,Vitrified clay plain wall pipes and fittings,Pr_65_52_07_97 Vitrified clay solid wall below-ground drainage pipes and fittings,2020-07
+Pr_65_52_63_99,Zinc rainwater pipes and fittings,Pr_65_52_03_99 Zinc rainwater pipes and fittings,2020-07
+Pr_65_54_30_09,Carbon dioxide connectors,Pr_65_54_30_33 Gas fire-suppression connectors,2021-07
+Pr_65_54_30_30,Firefighting alarm devices,Pr_75_50_20_30 Firefighting alarm devices,2021-10
+Pr_65_54_30_65,Pressure gauges and pressure switches,"Pr_65_54_30_35 Gas fire suppression pressure gauges
+Pr_65_54_30_36 Gas fire suppression pressure switches",2019-10
+Pr_65_54_30_95,Water fire extinguisher leather straps,Pr_40_50_28_95 Water fire extinguisher leather straps,2021-10
+Pr_65_54_95_49,Medical gas pressure reducing stations,Pr_65_54_33_52 Medical gas pressure-reducing stations,2018-01
+Pr_65_54_95_84,Steel gate valves,Pr_65_54_94_84 Steel gate valves,2023-04
+Pr_65_57_96_51,Media water filters,Pr_65_57_95_51 Media water filters,2018-01
+Pr_65_65_23_01,Access panels,Pr_65_65_23_20 Duct access panels,2018-01
+Pr_65_67_22,Deaerators,Pr_65_52_22 Deaerators,2021-04
+Pr_65_67_22_47,Liquid fuel deaerators,Pr_65_52_22_47 Liquid fuel deaerators,2021-04
+Pr_65_67_22_66,Pressure differential deaerators,Pr_65_52_22_66 Pressure differential deaerators,2021-04
+Pr_65_67_22_88,Temperature differential deaerators,Pr_65_52_22_88 Temperature differential deaerators,2021-04
+Pr_65_67_28,Expansion compensators,Pr_65_52_28 Expansion compensators,2021-04
+Pr_65_67_28_03,Angular expansion compensators,Pr_65_52_28_03 Angular expansion compensators,2021-04
+Pr_65_67_28_05,Axial expansion compensators,Pr_65_52_28_05 Axial expansion compensators,2021-04
+Pr_65_67_28_46,Lateral expansion compensators,Pr_65_52_28_46 Lateral expansion compensators,2021-04
+Pr_65_67_39_15,Compressed air and water humidifiers,Pr_65_67_39_96 Water atomizing humidifiers,2022-01
+Pr_65_67_39_72,Resistance heater humidifiers,Pr_65_67_39_84 Steam humidifiers,2022-01
+Pr_65_67_39_92,Ultrasonic humidifiers,Pr_65_67_39_96 Water atomizing humidifiers,2022-01
+Pr_65_70_12_93,Underground plastics cable ducts,Pr_65_70_11_62 Plastics ducts for buried electric cables,2019-07
+Pr_65_70_15_02,Armoured cable terminations,Pr_65_70_11_34 Cable glands,2018-08
+Pr_65_70_36_33,High voltage cable glands,Pr_65_70_11_34 Cable glands,2018-08
+Pr_65_70_48_51,Mineral insulation cables,"Pr_65_70_48_41 Heavy-duty mineral-insulated cables
+Pr_65_70_48_48 Light-duty mineral-insulated cables",2021-07
+Pr_65_72_27_42,Isolation transformers,Pr_65_72_27_75 Safety isolating transformers,2021-01
+Pr_65_72_43_96,Voltage transformers,Pr_65_72_43_41 Inductive voltage transformers,2021-10
+Pr_65_72_60_23,Double insulator catenary cantilever assemblies,Ss_70_30_60_11 Catenary cantilever overhead line systems,2023-07
+Pr_65_72_60_24,Double insulator trolley wire cantilever assemblies,Ss_70_30_60_89 Trolley wire overhead line systems,2023-07
+Pr_65_72_60_57,Overhead line contact wires,Pr_65_72_59_57 Overhead line contact wires,2023-07
+Pr_65_72_60_77,Single insulator catenary cantilever assemblies,Ss_70_30_60_11 Catenary cantilever overhead line systems,2023-07
+Pr_65_72_60_78,Single insulator trolley wire cantilever assemblies,Ss_70_30_60_89 Trolley wire overhead line systems,2023-07
+Pr_65_80_42_39,Inclined chairlifts,Pr_65_80_42_15 Chairlifts,2021-10
+Pr_65_80_42_42,Inclined standing platforms,Pr_65_80_42_85 Standing platform stairlifts,2021-10
+Pr_65_80_42_43,Inclined wheelchair platforms,Pr_65_80_42_97 Wheelchair platform stairlifts,2021-10
+Pr_65_80_42_84,Stairlift trolleys,TE_70_50_60_83 Stairclimber trucks,2021-10
+Pr_65_80_47_47,Moveable hoists,Pr_65_80_47_53 Moveable hoists,2021-04
+Pr_65_80_47_84,Step lifts,Pr_65_80_42_83 Step lifts,2021-10
+Pr_70_55_58_90,Top-of-rail friction modifier,Pr_70_55_58_68 Rail friction modifier,2018-01
+Pr_70_55_76_34,Geocellular modular plastics storage units,Pr_60_50_96_31 Geocellular modular plastics storage units,2023-04
+Pr_70_55_98_28,External drinking fountains,Pr_40_70_15_24 Drinking fountains,2018-01
+Pr_70_65_82,Smoke and heat exhaust ventilators,Pr_70_65 Air and fume outlet products,2017-04
+Pr_70_65_82_56,Natural smoke and heat exhaust ventilators,Pr_70_65_04_56 Natural smoke and heat exhaust ventilators,2017-04
+Pr_70_65_82_64,Powered smoke and heat exhaust ventilators,Pr_65_67_29_64 Powered smoke and heat exhaust ventilators,2017-04
+Pr_70_70_47_46,Lighting distribution boxes,Pr_60_70_22_46 Lighting distribution boxes,2018-01
+Pr_70_70_47_52,Master distribution boxes,Pr_60_70_22_50 Master distribution boxes,2018-01
+Pr_70_70_47_75,Safety isolating transformers,Pr_65_72_27_75 Safety isolating transformers,2021-01
+Pr_70_70_47_79,Slave distribution boxes,Pr_60_70_22_79 Slave distribution boxes,2018-01
+Pr_70_70_48_46,Light emitting diode (LED) luminaires,Pr_70_70_46_44 Light-emitting diode (LED) lamps,2019-10
+Pr_70_75_36_36,Headphones,Pr_70_75_06_36 Headphones,2020-01
+Pr_70_75_36_37,Headsets,Pr_70_75_06_37 Headsets,2020-01
+Pr_70_75_36_50,Loudspeakers,Pr_70_75_06_50 Loudspeakers,2020-01
+Pr_70_75_36_51,Loudspeaker end of line units,Pr_70_75_06_51 Loudspeaker end-of-line units,2020-01
+Pr_70_75_36_64,Portable communicators,Pr_75_75_04_73 Portable communicators,2020-01
+Pr_70_75_50,Marine signals and indicators,Pr_40_10_90 Water and navigation aids,2019-10
+Pr_70_75_50_56,Navigation signal buoys,Pr_40_10_90_10 Buoys,2019-10
+Pr_70_75_52_88,Tilt sensor nodes,Pr_75_50_76_87 Tilt sensor nodes,2020-04
+Pr_70_75_72_51,Motorway signal mark 1,Pr_70_75_72_50 Motorway lane signals,2021-07
+Pr_70_75_72_53,Motorway signal mark 3,Pr_70_75_72_50 Motorway lane signals,2021-07
+Pr_70_75_72_54,Motorway signal mark 4,Pr_70_75_72_50 Motorway lane signals,2021-07
+Pr_75_50_02_21,Damper actuators,Pr_75_50_02_53 Motor-driven damper actuators,2023-04
+Pr_75_50_02_94,Valve actuators,Pr_75_50_02_54 Motor-driven valve actuators,2023-04
+Pr_75_50_18_02,Alarms,Pr_75_50_20_02 Alarms,2020-04
+Pr_75_50_18_13,Chain actuators,Pr_75_50_02_13 Chain actuators,2020-04
+Pr_75_50_18_15,Compressed air master controllers,Pr_75_50_20_15 Compressed air master controllers,2020-04
+Pr_75_50_18_21,Damper actuators,Pr_75_50_02_53 Motor-driven damper actuators,2020-04
+Pr_75_50_18_29,Field controllers,Pr_75_50_20_29 Field controllers,2020-04
+Pr_75_50_18_34,Gas dose regulators,Pr_75_50_20_34 Gas dose regulators,2020-04
+Pr_75_50_18_46,Linear actuators,Pr_75_50_02_46 Linear actuators,2020-04
+Pr_75_50_18_70,Programmers,Pr_75_50_20_70 Programmers,2020-04
+Pr_75_50_18_94,Valve actuators,Pr_75_50_02_54 Motor-driven valve actuators,2020-04
+Pr_75_50_18_96,Water display controls,Pr_75_50_20_96 Water display controls,2020-04
+Pr_75_50_18_98,Water quality controllers,Pr_75_50_20_98 Water quality controllers,2020-04
+Pr_75_50_18_99,Wind-operated water display control devices,Pr_75_50_20_99 Wind-operated water display control devices,2020-04
+Pr_75_50_33_28,Extinguishing control panels,Pr_75_50_33_33 Gas fire-extinguishing control panels,2021-07
+Pr_75_50_47_96,Water level gauge boards,Pr_80_51_70_96 Water level gauge boards,2021-04
+Pr_75_50_76_69,Proximity sensors and control units,Pr_75_50_76_58 Occupancy detectors,2020-10
+Pr_75_75_04_00,Assistance call acoustic hoods,Pr_70_75_88_01 Acoustic hoods,2021-07
+Pr_75_75_04_01,Assistance call indicator units,Pr_75_75_04_25 Emergency assistance call indicator units,2021-07
+Pr_75_75_04_02,Assistance call power supply units,Pr_75_75_04_26 Emergency call power supply units,2021-07
+Pr_75_75_04_03,Assistance call press button units,Pr_75_75_04_27 Emergency assistance call press-button units,2021-07
+Pr_75_75_04_04,Assistance call pull cord units,Pr_75_75_04_28 Emergency assistance call pull cord units,2021-07
+Pr_75_75_04_05,Assistance call reset units,Pr_75_75_04_29 Emergency assistance call reset units,2021-07
+Pr_75_75_15,Computers and peripherals,Pr_70_75_15 Computers and peripherals,2021-01
+Pr_75_75_15_11,Card printers,Pr_70_75_15_11 Card printers,2021-01
+Pr_75_75_15_14,Combined photocopier-printer-scanners,Pr_70_75_15_14 Combined photocopier-printer-scanners,2021-01
+Pr_75_75_15_15,Computer keyboards,Pr_70_75_15_15 Computer keyboards,2021-01
+Pr_75_75_15_16,Computer monitors,Pr_70_75_15_16 Computer monitors,2021-01
+Pr_75_75_15_17,Computer mice,Pr_70_75_15_17 Computer mice,2021-01
+Pr_75_75_15_21,Desktop computers,Pr_70_75_15_21 Desktop computers,2021-01
+Pr_75_75_15_22,Digital cameras,Pr_70_75_15_22 Digital cameras,2021-01
+Pr_75_75_15_24,Display screen monitors,Pr_70_75_15_24 Display screen monitors,2021-01
+Pr_75_75_15_36,Hard disk drives,Pr_70_75_15_36 Hard disk drives,2021-01
+Pr_75_75_15_45,Keyboard extenders,Pr_70_75_15_45 Keyboard extenders,2021-01
+Pr_75_75_15_46,Laptop computers,Pr_70_75_15_46 Laptop computers,2021-01
+Pr_75_75_15_63,Photocopiers,Pr_70_75_15_63 Photocopiers,2021-01
+Pr_75_75_15_66,Printers,Pr_70_75_15_66 Printers,2021-01
+Pr_75_75_15_76,Scanners,Pr_70_75_15_76 Scanners,2021-01
+Pr_75_75_15_80,Servers,Pr_70_75_15_80 Servers,2021-01
+Pr_75_75_15_84,Slot card cages,Pr_70_75_15_84 Slot card cages,2021-01
+Pr_75_75_15_87,Tablet computers,Pr_70_75_15_87 Tablet computers,2021-01
+Pr_75_75_15_90,Touchscreen monitors,Pr_70_75_15_90 Touchscreen monitors,2021-01
+Pr_75_75_27,Electronic access control products,Pr_75_30_30 Electronic access control and recording products,2021-01
+Pr_75_75_27_01,Access control digital keypads – stand-alone,Pr_75_30_30_01 Access control digital keypads – stand-alone,2021-01
+Pr_75_75_27_03,Access control units,Pr_75_30_30_03 Access control units,2021-01
+Pr_75_75_27_05,Active proximity devices,Pr_75_30_30_05 Active proximity devices,2021-01
+Pr_75_75_27_07,Biometric fingerprint readers,Pr_75_30_30_07 Biometric fingerprint readers,2021-01
+Pr_75_75_27_08,Biometric hand geometry readers,Pr_75_30_30_08 Biometric hand geometry readers,2021-01
+Pr_75_75_27_23,Door status monitoring devices,Pr_75_30_30_23 Door status monitoring devices,2021-01
+Pr_75_75_27_27,Emergency door release break glass units,Pr_75_30_30_27 Emergency door release break glass units,2021-01
+Pr_75_75_27_28,Emergency door release mechanisms,Pr_75_30_30_28 Emergency door release mechanisms,2021-01
+Pr_75_75_27_42,Intercom entrance panels,Pr_75_30_30_42 Intercom entrance panels,2021-01
+Pr_75_75_27_43,Intercom remote handsets,Pr_75_30_30_43 Intercom remote handsets,2021-01
+Pr_75_75_27_44,Intercom servers,Pr_75_30_30_44 Intercom servers,2021-01
+Pr_75_75_27_50,Magnetic swipe card readers,Pr_75_30_30_50 Magnetic swipe card readers,2021-01
+Pr_75_75_27_51,Magnetic swipe cards,Pr_75_30_30_51 Magnetic swipe cards,2021-01
+Pr_75_75_27_55,Multiple-technology cards,Pr_75_30_30_55 Multiple-technology cards,2021-01
+Pr_75_75_27_57,Multiple-technology readers,Pr_75_30_30_57 Multiple-technology readers,2021-01
+Pr_75_75_27_60,Passive proximity devices,Pr_75_30_30_60 Passive proximity devices,2021-01
+Pr_75_75_27_67,Proximity card readers,Pr_75_30_30_67 Proximity card readers,2021-01
+Pr_75_75_27_68,Proximity cards,Pr_75_30_30_68 Proximity cards,2021-01
+Pr_75_75_27_71,Request-to-exit buttons,Pr_75_30_30_71 Request-to-exit buttons,2021-01
+Pr_75_75_27_72,Request-to-exit detectors,Pr_75_30_30_72 Request-to-exit detectors,2021-01
+Pr_75_75_27_80,Smart card readers and writers,Pr_75_30_30_80 Smart card readers and writers,2021-01
+Pr_75_75_27_82,Smart devices,Pr_75_30_30_82 Smart devices,2021-01
+Pr_75_75_30,Fire alarm detection devices and control equipment,Pr_75_80_30 Fire detection and alarm devices and control equipment,2021-01
+Pr_75_75_30_01,Aspirating sampling pipes,Pr_75_80_30_01 Aspirating sampling pipes,2021-01
+Pr_75_75_30_02,Aspirating sampling points,Pr_75_80_30_02 Aspirating sampling points,2021-01
+Pr_75_75_30_03,Aspirating smoke detectors,Pr_75_80_30_03 Aspirating smoke detectors,2021-01
+Pr_75_75_30_04,Aspirating smoke detector units,Pr_75_80_30_04 Aspirating smoke detector units,2021-01
+Pr_75_75_30_13,Carbon monoxide and heat multi-sensor detectors,Pr_75_80_30_13 Carbon monoxide and heat multi-sensor detectors,2021-01
+Pr_75_75_30_15,Combined smoke and heat detectors,Pr_75_80_30_15 Combined smoke and heat detectors,2021-01
+Pr_75_75_30_20,Domestic smoke and carbon monoxide detectors,Pr_75_80_30_20 Domestic smoke and carbon monoxide alarms,2021-01
+Pr_75_75_30_22,Duct smoke detectors,Pr_75_80_30_22 Duct smoke detectors,2021-01
+Pr_75_75_30_28,Fire alarm input and output modules,Pr_75_80_30_28 Fire alarm input and output modules,2021-01
+Pr_75_75_30_29,Fire alarm panels,Pr_75_80_30_29 Fire alarm panels,2021-01
+Pr_75_75_30_30,Fire alarm sounders,Pr_75_80_30_30 Fire alarm sounders,2021-01
+Pr_75_75_30_31,Fire detection and alarm power supply equipment,Pr_75_80_30_31 Fire detection and alarm power supply equipment,2021-01
+Pr_75_75_30_37,Heat alarms,Pr_75_80_30_37 Heat alarms,2021-01
+Pr_75_75_30_41,Interface panels,Pr_75_80_30_41 Interface panels,2021-01
+Pr_75_75_30_47,Linear heat detectors,Pr_75_80_30_47 Linear heat detectors,2021-01
+Pr_75_75_30_50,Manual call points,Pr_75_80_30_50 Manual call points,2021-01
+Pr_75_75_30_52,Mimic alarm panels,Pr_75_80_30_52 Mimic fire alarm panels,2021-01
+Pr_75_75_30_55,Multi-sensor detectors,Pr_75_80_30_55 Multi-sensor detectors,2021-01
+Pr_75_75_30_59,Optical beam smoke detectors,Pr_75_80_30_59 Optical beam smoke detectors,2021-01
+Pr_75_75_30_63,Point flame detectors,Pr_75_80_30_63 Point flame detectors,2021-01
+Pr_75_75_30_64,Point heat detectors,Pr_75_80_30_64 Point heat detectors,2021-01
+Pr_75_75_30_65,Point smoke detectors,Pr_75_80_30_65 Point smoke detectors,2021-01
+Pr_75_75_30_70,Radio-linked interface modules,Pr_75_80_30_70 Radio-linked interface modules,2021-01
+Pr_75_75_30_71,Remote indicators,Pr_75_80_30_71 Remote indicators,2021-01
+Pr_75_75_30_77,Short-circuit isolators,Pr_75_80_30_77 Short circuit isolators,2021-01
+Pr_75_75_30_80,Smoke alarms,Pr_75_80_30_80 Smoke alarms,2021-01
+Pr_75_75_30_81,Smoke and carbon monoxide multi-sensor detectors,Pr_75_80_30_81 Smoke and carbon monoxide multi-sensor detectors,2021-01
+Pr_75_75_30_82,Smoke and heat multi-sensor detectors,Pr_75_80_30_82 Smoke and heat multi-sensor detectors,2021-01
+Pr_75_75_30_94,Vibrating pillow pads,Pr_75_80_30_94 Vibrating pillow pads,2021-01
+Pr_75_75_30_95,Vibrating radio pager transmitters,Pr_75_80_30_95 Vibrating radio pager transmitters,2021-01
+Pr_75_75_30_96,Vibrating radio pagers,Pr_75_80_30_96 Vibrating radio pagers,2021-01
+Pr_75_75_30_97,Visual alarm signal devices,Pr_75_80_30_97 Visual alarm signal devices,2021-01
+Pr_75_75_30_98,Voice alarm control panels,Pr_75_80_30_98 Voice alarm control panels,2021-01
+Pr_75_75_32,Foreign object debris (FOD) detection equipment,Pr_75_80_32 Foreign object debris (FOD) detection equipment,2021-01
+Pr_75_75_32_27,Electro-optical FOD detection equipment,Pr_75_80_32_27 Electro-optical FOD detection equipment,2021-01
+Pr_75_75_32_39,Hybrid FOD detection equipment,Pr_75_80_32_39 Hybrid FOD detection equipment,2021-01
+Pr_75_75_32_70,Radar FOD detection equipment,Pr_75_80_32_70 Radar FOD detection equipment,2021-01
+Pr_75_75_42,Intruder detection and alarm devices and control equipment,Pr_75_80_42 Intrusion and hold-up alarm devices and control equipment,2021-01
+Pr_75_75_42_02,Acoustic detectors,Pr_75_80_42_02 Glass break detectors,2021-01
+Pr_75_75_42_08,Beam interruption detectors,Pr_75_80_42_08 Beam interruption detectors,2021-01
+Pr_75_75_42_11,Capacitive proximity detectors,Pr_75_80_42_11 Capacitive proximity detectors,2021-01
+Pr_75_75_42_16,Combined passive infrared and microwave detectors,Pr_75_80_42_16 Combined passive infrared and microwave movement detectors,2021-01
+Pr_75_75_42_17,Combined passive infrared and ultrasonic detectors,Pr_75_80_42_17 Combined passive infrared and ultrasonic movement detectors,2021-01
+Pr_75_75_42_22,Deliberately operated intruder alarm devices,Pr_75_80_42_22 Deliberately operated intrusion and hold-up alarm devices,2021-01
+Pr_75_75_42_24,Door beam intruder detectors,Pr_75_80_42_24 Door beam intruder detectors,2021-01
+Pr_75_75_42_28,External intruder alarm sounders,Pr_75_80_42_28 Intrusion and hold-up alarm external warning devices,2021-01
+Pr_75_75_42_40,Internal electronic intruder alarm sounders,Pr_75_80_42_40 Intrusion and hold-up alarm internal warning devices,2021-01
+Pr_75_75_42_41,Intruder alarm panels,Pr_75_80_42_41 Intrusion and hold-up alarm panels,2021-01
+Pr_75_75_42_42,Intruder alarm remote keypads,Pr_75_80_42_42 Intrusion and hold-up alarm remote keypads,2021-01
+Pr_75_75_42_52,Microwave detectors,Pr_75_80_42_52 Microwave movement detectors,2021-01
+Pr_75_75_42_60,Passive infrared detectors,Pr_75_80_42_60 Passive infrared movement detectors,2021-01
+Pr_75_75_42_67,Protective switches,Pr_75_80_42_67 Protective switches,2021-01
+Pr_75_75_42_77,Security fog devices,Pr_75_80_42_77 Security fog devices,2021-01
+Pr_75_75_42_92,Ultrasonic movement detectors,Pr_75_80_42_92 Ultrasonic movement detectors,2021-01
+Pr_75_75_42_94,Vibrating intruder alarm pagers,Pr_75_80_42_94 Vibrating intruder alarm pagers,2021-01
+Pr_75_75_42_95,Vibration detectors,Pr_75_80_42_95 Vibration detectors,2021-01
+Pr_75_75_42_96,Volumetric capacitive detectors,Pr_75_80_42_96 Volumetric capacitive detectors,2021-01
+Pr_75_75_50,Monitoring system control products,Pr_75_80_50 Monitoring system control products,2021-01
+Pr_75_75_50_02,Alarm interface units,Pr_75_80_50_02 Alarm interface units,2021-01
+Pr_75_75_50_11,Camera control units,Pr_75_80_50_11 Camera control units,2021-01
+Pr_75_75_50_14,Camera power supply units,Pr_75_80_50_14 Camera power supply units,2021-01
+Pr_75_75_50_22,Demagnetizers,Pr_75_80_50_22 Demagnetizers,2021-01
+Pr_75_75_50_55,Multiplexers,Pr_75_80_50_55 Multiplexers,2021-01
+Pr_75_75_50_60,Patch panels,Pr_75_80_50_60 Patch panels,2021-01
+Pr_75_75_50_70,Radio frequency (RF) modulators,Pr_75_80_50_70 Radio frequency (RF) modulators,2021-01
+Pr_75_75_50_72,Radio frequency identification (RFID) tags,Pr_75_80_50_72 Radio frequency identification (RFID) tags,2021-01
+Pr_75_75_50_94,Video input cards,Pr_75_80_50_94 Video input cards,2021-01
+Pr_75_75_50_95,Video matrix switch controllers,Pr_75_80_50_95 Video matrix switch controllers,2021-01
+Pr_75_75_50_96,Video output cards,Pr_75_80_50_96 Video output cards,2021-01
+Pr_75_75_60,Passport control products,Pr_75_80_60 Passport control products,2021-01
+Pr_75_75_60_07,Biometric facial recognition products,Pr_75_80_60_07 Biometric facial recognition products,2021-01
+Pr_75_75_60_08,Biometric iris recognition products,Pr_75_80_60_08 Biometric iris recognition products,2021-01
+Pr_75_75_60_60,Passport readers,Pr_75_80_60_60 Passport readers,2021-01
+Pr_75_75_75,Security screening products,Pr_75_80_75 Security screening products,2021-01
+Pr_75_75_75_01,Advanced cabin baggage x-ray scanners,Pr_75_80_75_01 Advanced cabin baggage x-ray scanners,2021-01
+Pr_75_75_75_06,Back scatter x-ray security scanners,Pr_75_80_75_06 Back scatter x-ray security scanners,2021-01
+Pr_75_75_75_28,Explosive trace detection equipment,Pr_75_80_75_28 Explosive trace detection equipment,2021-01
+Pr_75_75_75_47,Liquid explosive detection equipment,Pr_75_80_75_47 Liquid explosive detection equipment,2021-01
+Pr_75_75_75_52,Millimetre wave security scanners,Pr_75_80_75_52 Millimetre wave security scanners,2021-01
+Pr_75_75_75_96,Walk-through metal detectors,Pr_75_80_75_96 Walk-through metal detectors,2021-01
+Pr_80_51_46_95,Vortex flow meters,Pr_80_51_46_96 Vortex flowmeters,2018-01
+Pr_80_51_51_05,Anemometers,Pr_75_50_52_03 Anemometers,2018-01
+Pr_80_51_51_21,Differential pressure flowmeters,Pr_80_51_46_21 Differential pressure flowmeters,2021-01
+Pr_80_51_51_26,Electromagnetic flow meters,Pr_80_51_46_27 Electromagnetic flowmeters,2018-01
+Pr_80_51_51_50,Mass flowmeters,Pr_80_51_46_50 Mass flowmeters,2021-04
+Pr_80_51_51_92,Ultrasonic flowmeters,Pr_80_51_46_92 Ultrasonic flowmeters,2021-04
+Pr_80_51_51_94,Variable area flowmeters,Pr_80_51_46_94 Variable area flowmeters,2021-04
+Pr_80_51_51_95,Voltage transformers,Pr_65_72_43_41 Inductive voltage transformers,2018-01
+Pr_80_51_51_96,Vortex flowmeters,Pr_80_51_46_96 Vortex flowmeters,2021-04
+Pr_80_77_27_78,Services supports,Pr_80_77_27_15 Channel supports,2018-08
+Pr_85_51_87,Textile milling products,Pr_40_70_66 Process equipment,2021-01
+SL_20_65_08,Briefing rooms,SL_20_15_15 Confidential meetings rooms,2017-01
+SL_25_10_59,Open-sided classbases,SL_25_10_77 Semi-open classbases,2021-04
+SL_25_40_80,Small group rooms,SL_25_75_80 Small group rooms,2021-04
+SL_30_85_97,Wet docks,En_30_85_97 Wet docks,2021-07
+SL_32_50_46,Landing stages,En_32_50_46 Landing stages,2018-01
+SL_32_60,Marine and waterside spaces,En_32_50 Marine and waterside entities,2021-07
+SL_32_60_06,Beaches,En_32_65_06 Beaches,2021-07
+SL_32_60_55,Mudflats,En_32_65_55 Mudflats,2021-07
+SL_32_60_65,Pontoons,En_32_50_65 Pontoons,2021-07
+SL_32_60_75,Saltmarshes,Co_32_65_75 Salt marshes,2017-01
+SL_32_60_76,Sand dunes,En_32_65_75 Sand dunes,2021-07
+SL_32_65_37,Heathlands,En_32_65_37 Heathlands,2021-07
+SL_32_65_50,Marshes and wet grasslands,En_32_65_50 Marshes and wet grasslands,2021-07
+SL_32_65_51,Meadows,En_32_65_51 Meadows,2021-07
+SL_32_65_53,Moorlands,En_32_65_53 Moorlands,2021-07
+SL_32_65_59,Open grasslands,En_32_65_59 Open grasslands,2021-07
+SL_32_65_73,Rocks and screes,En_32_65_73 Rocks and screes,2021-07
+SL_32_65_76,Scrub,En_32_65_76 Scrub,2021-07
+SL_32_65_78,Seasonal wetlands,Co_32_65_79 Seasonal wetlands,2018-01
+SL_32_65_82,Species-rich grassland,En_32_65_82 Species-rich grassland,2021-07
+SL_32_65_95,Washland,En_32_65_95 Washland,2021-07
+SL_32_85_69,Quay stems,SL_32_50_69 Quay stems,2021-04
+SL_35_80_02,Adult changing rooms,SL_35_80_39 Hygiene rooms,2021-07
+SL_35_85_84,Stables,SL_35_85_83 Stables,2017-01
+SL_40_05_61,Playgrounds,SL_40_55_61 Playgrounds,2021-04
+SL_40_60_55,Music recording studios,SL_40_60_78 Sound recording studios,2017-01
+SL_40_65_55,Music recording control booths,SL_40_65_70 Recording control spaces,2017-01
+SL_42_15_42,Indoor sports courts and pitches,SL_42_40_42 Indoor sports courts,2021-07
+SL_42_85_83,Swimming pools,SL_42_85_59 Outdoor swimming pools,2021-07
+SL_50_20_10,Wet waste collection spaces,SL_50_20 Non-aqueous waste collection spaces,2018-04
+SL_50_35,Drainage collection locations,SL_50_25 Drainage collection locations,2020-07
+SL_50_35_36,Grip inlets,SL_50_25_36 Grip inlets,2020-07
+SL_50_35_41,Inlet discharge,SL_50_25_41 Inlet discharge,2020-07
+SL_50_35_59,Outlet discharge,SL_50_25_59 Outlet discharge,2020-07
+SL_50_60_26,Effluent tanks,SL_50_75_26 Effluent outfalls,2021-07
+SL_50_60_28,Evaporation ponds,SL_50_75_28 Evaporation ponds,2021-07
+SL_50_60_97,Wet waste storage spaces,SL_50_60 Non-aqueous waste treatment and disposal spaces,2021-07
+SL_50_75_01,Aeration tanks,Pr_60_50_96 Water storage products,2023-01
+SL_50_75_22,Disinfection channels,Pr_65_52_24 Drainage gullies and channels,2023-01
+SL_50_75_40,Wastewater treatment spaces,SL_50_75 Wastewater treatment and disposal spaces,2021-07
+SL_50_75_70,Wastewater disposal spaces,SL_50_75 Wastewater treatment and disposal spaces,2021-07
+SL_50_75_76,Sludge grit chambers,Pr_65_52_01 Access and inspection chambers and gullies,2023-01
+SL_50_75_79,Sludge primary clarifier tanks,Pr_60_50_96 Water storage products,2023-01
+SL_50_75_82,Sludge screenings,Pr_60_45_93 Wastewater screenings treatment products,2023-01
+SL_50_75_83,Sludge secondary clarifier tanks,Pr_60_50_96 Water storage products,2023-01
+SL_50_90,Radioactive waste disposal spaces,SL_30_20 Nuclear and chemical management spaces,2016-10
+SL_70_30_35,Chimneys,EF_37_17_15 Chimneys,2021-10
+SL_70_30_35,High-voltage electricity substation chambers,SL_70_20_35 High-voltage electricity substation chambers,2023-10
+SL_75_10_75,Server rooms,SL_75_10_21 Communications equipment rooms,2017-01
+SL_80_10_33,Gangways,SL_80_10_80 Ship gangways,2019-07
+SL_80_50_64,Platforms,En_80_50_58 Platforms,2018-08
+SL_80_50_75,Railway tracks,EF_80_70 Rail tracks,2017-01
+SL_80_60,Rail maintenance spaces,SL_80_50 Railway spaces,2018-08
+SL_80_60_11,Carriage cleaning spaces,SL_80_50_11 Carriage cleaning spaces,2018-08
+SL_80_60_26,Engine fuelling areas,SL_80_50_26 Engine fuelling areas,2018-08
+SL_80_60_27,Engine inspection pits,SL_80_50_27 Engine inspection pits,2018-08
+SL_80_60_28,Engine servicing areas,SL_80_50_28 Engine servicing areas,2018-08
+SL_80_60_29,Engine wash areas,SL_80_50_29 Engine wash areas,2018-08
+SL_80_60_70,Rail repair spaces,SL_80_50_70 Rail repair spaces,2018-08
+SL_80_60_95,Wagon decontamination spaces,SL_80_50_95 Wagon decontamination spaces,2018-08
+SL_80_60_97,Wagon maintenance spaces,SL_80_50_97 Wagon maintenance spaces,2018-08
+SL_80_98_01,Access spaces,SL_90_60_01 Access spaces,2018-01
+SL_90_10_30,Fire stairways,SL_20_90_28 Firefighting stairs,2019-04
+SL_90_50_24,Dry waste storage spaces,SL_50_40_24 Dry waste storage spaces,2020-07
+SL_90_50_26,Effluent tanks,"En_50_75 Wastewater storage, treatment and disposal entities",2020-07
+SL_90_50_32,Fuel storage areas,SL_55_50_32 Fuel storage areas,2020-07
+SL_90_50_34,Gas storage spaces,SL_55_20_34 Gas storage spaces,2020-07
+SL_90_50_58,Oil storage spaces,SL_55_50_58 Oil storage spaces,2020-07
+SL_90_50_70,Storage silos,SL_90_50_85 Storage silos,2021-04
+SL_90_50_72,Storage tanks,SL_90_50_86 Storage tanks,2021-04
+SL_90_50_94,Waste gas storage spaces,SL_50_10_94 Waste gas storage spaces,2020-07
+SL_90_50_95,Waste liquids storage spaces,SL_50_60_95 Waste liquids storage spaces,2020-07
+SL_90_50_96,Solid waste storage spaces,SL_50_35_60 Solid waste storage spaces,2020-07
+SL_90_50_97,Wet waste storage spaces,SL_50_60_95 Waste liquids storage spaces,2020-07
+SL_90_90_14,Communication equipment rooms,SL_75_10_21 Communications equipment rooms,2019-01
+Ss_15_10_80_33,Erosion control systems,Ss_15_10_30_33 Erosion control systems,2020-04
+Ss_15_30_36,Structural grouting systems,Ss_20_05_80 Structural grouting systems,2019-10
+Ss_15_30_50_11,Injected or blown cavity wall insulation systems,Ss_25_45_12_40 Injected and blown cavity wall insulation systems,2020-04
+Ss_15_30_90_82,Timber end lap repair systems,Ss_15_30_90_86 Timber section repair systems,2021-07
+Ss_15_30_90_88,Timber section repair internal reinforcement systems,Ss_15_30_90_86 Timber section repair systems,2021-07
+Ss_15_30_90_92,Timber section strengthening internal reinforcement systems,Ss_15_30_90_86 Timber section repair systems,2021-07
+Ss_20_10_75_15,Concrete framing systems,"Ss_20_10_75_65 Precast reinforced concrete framing systems
+Ss_20_10_75_70 Reinforced concrete framing systems",2020-01
+Ss_20_20_75_15,Concrete beam systems,"Ss_20_20_75_65 Precast reinforced concrete beam systems
+Ss_20_20_75_70 Reinforced concrete beam systems",2021-07
+Ss_20_20_75_80,Steel beam systems,"Ss_20_20_75_35 Heavy steel beam systems
+Ss_20_20_75_45 Light steel beam systems",2021-07
+Ss_20_30_75_15,Concrete column systems,"Ss_20_30_75_65 Precast reinforced concrete column systems
+Ss_20_30_75_70 Reinforced concrete column systems",2021-07
+Ss_20_30_75_80,Steel column systems,"Ss_20_30_75_35 Heavy steel column systems
+Ss_20_30_75_45 Light steel column systems",2021-07
+Ss_20_40_07,Bridge cable systems,Ss_20_50_35 Bridge cable systems,2021-10
+Ss_20_40_07_11,Cable-stayed bridge cable systems,Ss_20_50_35_11 Cable-stayed bridge cable systems,2021-10
+Ss_20_40_07_85,Suspension bridge cable systems,Ss_20_50_35_85 Suspension bridge cable systems,2021-10
+Ss_20_60_30_45,King post (bored) embedded retaining wall systems,Ss_20_60_30_08 Bored king post retaining wall systems,2017-01
+Ss_20_60_30_46,King post (driven) embedded retaining wall systems,Ss_20_60_30_24 Driven king post retaining wall systems,2017-01
+Ss_20_95,Temporary structural systems,Ss_15_95_20 Temporary whole entity structural works systems,2023-07
+Ss_25_10_35_75,Sloping patent glazing systems,Ss_30_40_32_75 Sloping patent glazing systems,2021-04
+Ss_25_11_16_62,Post-tensioned concrete wall systems,Ss_25_10_32_62 Post-tensioned concrete wall systems,2023-04
+Ss_25_11_16_65,Precast concrete wall systems,Ss_25_10_32_65 Precast concrete wall systems,2023-04
+Ss_25_11_16_70,Reinforced concrete wall structure systems,Ss_25_10_32_70 Reinforced concrete wall structure systems,2023-04
+Ss_25_13_30,Gabion wall systems,Ss_20_60_35_10 Caged fill retaining wall systems,2020-04
+Ss_25_13_50_11,Cavity wall insulation systems,Ss_25_45_12 Cavity wall insulation systems,2019-10
+Ss_25_13_50_50,Masonry wall external leaf systems,Ss_25_13_50_51 Masonry wall leaf systems,2019-10
+Ss_25_13_50_52,Masonry wall single leaf systems,Ss_25_13_50_51 Masonry wall leaf systems,2019-10
+Ss_25_13_70_70,Reinforced masonry wall external leaf systems,Ss_25_13_70_71 Reinforced masonry wall leaf systems,2019-10
+Ss_25_13_70_72,Reinforced masonry wall single leaf systems,Ss_25_13_70_71 Reinforced masonry wall leaf systems,2019-10
+Ss_25_14_63_06,Bespoke fencing systems,Ss_25_14 Fence systems,2023-01
+Ss_25_14_63_08,Board or palisade fencing systems,Ss_25_14_08_08 Board or palisade fencing systems,2023-10
+Ss_25_14_63_52,Metal vertical pale fencing systems,Ss_25_14_08_52 Metal vertical pale fencing systems,2023-10
+Ss_25_14_63_56,Natural hurdle fencing systems,Ss_25_14_61_56 Natural hurdle fencing systems,2023-10
+Ss_25_14_63_62,Post and panel fencing systems,Ss_25_14_61_62 Post and panel fencing systems,2023-10
+Ss_25_14_63_64,Precast concrete palisade fencing systems,Ss_25_14_08_64 Precast concrete palisade fencing systems,2023-10
+Ss_25_14_63_65,Precast concrete post and panel fencing systems,Ss_25_14_61_65 Precast concrete post and panel fencing systems,2023-10
+Ss_25_14_63_67,Prefabricated wood or plastics panel fencing systems,Ss_25_14_61_67 Prefabricated wood or plastics panel fencing systems,2023-10
+Ss_25_14_63_84,Steel hurdle fencing systems,Ss_25_14_61_84 Steel hurdle fencing systems,2023-10
+Ss_25_14_63_85,Steel palisade panel fencing systems,Ss_25_14_08_85 Steel palisade panel fencing systems,2023-10
+Ss_25_14_63_86,Steel vertical bar fencing systems,Ss_25_14_61_86 Steel vertical bar fencing systems,2023-10
+Ss_25_14_63_95,Wood close boarded fencing systems,Ss_25_14_08_95 Wood close-boarded fencing systems,2023-10
+Ss_25_14_63_96,Wood palisade fencing systems,Ss_25_14_08_96 Wood palisade fencing systems,2023-10
+Ss_25_14_63_98,Wrought iron panel fencing systems,Ss_25_14_61_98 Wrought iron panel fencing systems,2023-10
+Ss_25_14_67_12,Chain link fencing systems,Ss_25_14_52_12 Chain link fencing systems,2023-10
+Ss_25_14_67_14,Cleft chestnut pale fencing systems,Ss_25_14_08_14 Cleft chestnut pale fencing systems,2023-10
+Ss_25_14_67_15,Continuous mesh fencing systems,Ss_25_14_52_15 Continuous mesh fencing systems,2023-10
+Ss_25_14_67_34,General pattern wire mesh fencing systems,Ss_25_14_52_34 General pattern wire mesh fencing systems,2023-10
+Ss_25_14_67_51,Metal mesh panel fencing systems,Ss_25_14_61_51 Metal mesh panel fencing systems,2023-10
+Ss_25_14_67_80,Spring steel and high tensile wire mesh fencing systems,Ss_25_14_52_80 Spring steel and high-tensile wire mesh fencing systems,2023-10
+Ss_25_15_60_05,Balustrade and guarding systems,Ss_25_60_05_05 Balustrade and guarding systems,2020-04
+Ss_25_15_60_35,Handrail systems,Ss_25_60_05_35 Handrail systems,2020-04
+Ss_25_16_30,Fish barrier systems,Ss_45_75_25_05 Fish barrier systems,2020-04
+Ss_25_16_70,Rail barrier systems,Ss_25_16_73 Road and rail barrier systems,2019-04
+Ss_25_16_70_03,Acoustic barrier systems,Ss_25_16_73_03 Acoustic barrier systems,2019-04
+Ss_25_16_75,Rock armour systems,Ss_25_16_50_72 Rock armour systems,2019-04
+Ss_25_16_80,Sea wall systems,Ss_25_16_50_80 Sea wall systems,2019-04
+Ss_25_25_75_30,Framed wood panel lining systems,Ss_25_25_75_94 Wood panel lining systems,2020-10
+Ss_25_30_20_80,Sliding stacking panel partition systems,Ss_25_12_70_80 Sliding stacking panel partition systems,2020-01
+Ss_25_30_29_38,Horizontal fire curtain systems,Ss_25_30_29_30 Fire curtain systems,2019-10
+Ss_25_30_29_39,Horizontal smoke curtain systems,Ss_25_30_29_80 Smoke curtain systems,2019-10
+Ss_25_30_29_94,Vertical fire curtain systems,Ss_25_30_29_30 Fire curtain systems,2019-10
+Ss_25_30_29_95,Vertical smoke curtain systems,Ss_25_30_29_80 Smoke curtain systems,2019-10
+Ss_25_30_95_26,External window systems,Ss_25_30_95_95 Window systems,2022-01
+Ss_25_30_95_41,Internal window systems,Ss_25_30_95_95 Window systems,2022-01
+Ss_25_34,Operable pedestrian barrier systems,Ss_25_36 Operable barrier systems,2019-07
+Ss_25_34_25,External automated pedestrian barrier systems,Ss_25_32_60_15 Controlled pedestrian access systems,2019-07
+Ss_25_34_30,External manual pedestrian barrier systems,Ss_25_32_60_15 Controlled pedestrian access systems,2019-07
+Ss_25_34_40,Internal automated pedestrian barrier systems,Ss_25_32_60_15 Controlled pedestrian access systems,2019-07
+Ss_25_34_59,Operable industrial safety barrier systems,Ss_25_36 Operable barrier systems,2019-07
+Ss_25_34_60,Passport control automated e-gate systems,Ss_25_32_60_26 e-passport gate systems,2019-07
+Ss_25_34_60_26,e-passport gate systems,Ss_25_32_60_26 e-passport gate systems,2019-07
+Ss_25_34_60_60,Passport gate systems,Ss_25_32_60_60 Passport gate systems,2019-07
+Ss_25_34_70,Railway platform automated barrier systems,Ss_25_32_70 Railway platform barrier systems,2019-07
+Ss_25_36_40,Internal automated traffic barrier systems,Ss_25_36_95 Vehicle access point control systems,2019-07
+Ss_25_36_42,Internal manual traffic barrier systems,Ss_25_36_95 Vehicle access point control systems,2019-07
+Ss_25_38_20_33,Gate hardware systems,Ss_25_38_10_33 Gate hardware systems,2021-04
+Ss_25_45_02_60,Parge coat systems,Ss_25_45_70_65 Parge coat systems,2020-04
+Ss_25_45_72_40,Injected and blown cavity wall insulation systems,Ss_25_45_12_40 Injected and blown cavity wall insulation systems,2020-07
+Ss_25_45_88_88,Terrazzo wall tiling systems,Ss_25_45_92_88 Terrazzo wall tiling systems,2023-04
+Ss_25_50_05,Awning systems,Ss_25_50_75_05 Awning systems,2022-04
+Ss_25_50_35,Grille systems,Ss_25_50_45_35 Grille systems,2022-04
+Ss_25_50_45_10,Canopy systems,Ss_25_50_75_10 Canopy systems,2022-04
+Ss_25_50_45_30,Facade-aligned brise soleil systems,Ss_25_50_75_30 Facade-aligned brise soleil systems,2022-04
+Ss_25_50_45_65,Projecting brise soleil systems,Ss_25_50_75_65 Projecting brise soleil systems,2022-04
+Ss_25_50_80,Shutter systems,Ss_25_50_45_80 Shutter systems,2022-04
+Ss_25_60_50,Metal sheet wall flashing and weathering systems,"Ss_32_30_30 Flashing systems
+Ss_32_30_90 Weathering systems",2021-07
+Ss_25_60_50_03,Aluminium sheet wall flashing systems,Ss_32_30_30_03 Aluminium flashing systems,2021-07
+Ss_25_60_50_04,Aluminium sheet wall weathering systems,Ss_32_30_90_04 Aluminium weathering systems,2021-07
+Ss_25_60_50_11,Carbon steel wall flashing systems,Ss_32_30_30_11 Carbon steel flashing systems,2021-07
+Ss_25_60_50_12,Carbon steel wall weathering systems,Ss_32_30_90_12 Carbon steel weathering systems,2021-07
+Ss_25_60_50_14,Copper sheet wall flashing systems,Ss_32_30_30_14 Copper flashing systems,2021-07
+Ss_25_60_50_15,Copper sheet wall weathering systems,Ss_32_30_90_15 Copper weathering systems,2021-07
+Ss_25_60_50_47,Lead damp-proof course systems,Ss_32_20_20_47 Lead damp-proof course systems,2021-07
+Ss_25_60_50_48,Lead sheet wall flashing systems,Ss_32_30_30_47 Lead flashing systems,2021-07
+Ss_25_60_50_49,Lead sheet wall weathering systems,Ss_32_30_90_48 Lead weathering systems,2021-07
+Ss_25_60_50_84,Stainless steel sheet wall flashing systems,Ss_32_30_30_84 Stainless steel flashing systems,2021-07
+Ss_25_60_50_85,Stainless steel sheet wall weathering systems,Ss_32_30_90_85 Stainless steel weathering systems,2021-07
+Ss_25_60_50_94,Zinc sheet wall flashing systems,Ss_32_30_30_98 Zinc flashing systems,2021-07
+Ss_25_60_50_95,Zinc sheet wall weathering systems,Ss_32_30_90_99 Zinc weathering systems,2021-07
+Ss_25_95,Temporary wall and barrier systems,Ss_15_95_25 Temporary wall and barrier systems,2023-07
+Ss_25_95_30,Temporary flood barrier systems,Ss_15_95_25_30 Temporary flood barrier systems,2023-07
+Ss_25_95_60,Temporary pedestrian barrier systems,Ss_15_95_25_60 Temporary pedestrian barrier systems,2023-07
+Ss_25_95_70,Temporary rail barrier systems,Ss_15_95_25_70 Temporary rail barrier systems,2023-07
+Ss_25_95_75,Temporary road barrier systems,Ss_15_95_25_75 Temporary road barrier systems,2023-07
+Ss_25_95_85,Temporary traffic barrier systems,Ss_15_95_25_85 Temporary traffic barrier systems,2023-07
+Ss_25_95_90,Temporary water barrier systems,Ss_15_95_25_90 Temporary water barrier systems,2023-07
+Ss_30_12_30,Flat roof and floor cassette structural insulated panel (SIP) systems,Ss_20_10_60_84 Structural insulated panel systems,2020-01
+Ss_30_12_34,Framed mezzanine systems,Ss_30_12_33 Framed floor systems,2021-01
+Ss_30_14_80_80,Slurry surfacing overlay systems,Ss_30_14_05_80 Slurry surfacing overlay systems,2020-10
+Ss_30_16,Static bridge deck structure systems,Ss_20_50 Bridge structure systems,2021-10
+Ss_30_16_10,Bridge deck systems,Ss_20_50_25 Bridge deck systems,2021-10
+Ss_30_16_10_08,Box girder bridge deck systems,Ss_20_50_25_08 Box girder bridge deck systems,2021-10
+Ss_30_16_10_12,Composite steel and concrete bridge deck systems,Ss_20_50_25_12 Composite steel and concrete bridge deck systems,2021-10
+Ss_30_16_10_13,Conarch bridge systems,Ss_20_50_25_70 Reinforced concrete arch bridge systems,2021-10
+Ss_30_16_10_15,Concrete half through deck systems,Ss_20_50_25_15 Concrete half through deck systems,2021-10
+Ss_30_16_10_16,Concrete slab deck systems,Ss_20_50_25_16 Concrete slab deck systems,2021-10
+Ss_30_16_10_30,Filler beam deck systems,Ss_20_50_25_30 Filler beam deck systems,2021-10
+Ss_30_16_10_31,Flat and stepped deck systems,Ss_20_50_25_31 Flat and stepped deck systems,2021-10
+Ss_30_16_10_53,Modular precast concrete deck systems,Ss_20_50_25_53 Modular precast concrete deck systems,2021-10
+Ss_30_16_10_59,Orthotropic deck systems,Ss_20_50_25_59 Orthotropic deck systems,2021-10
+Ss_30_16_10_65,Prestressed concrete beam deck systems,Ss_20_50_25_65 Pre-tensioned concrete beam deck systems,2021-10
+Ss_30_16_10_80,Solid steel slab systems,Ss_20_50_25_80 Solid steel slab systems,2021-10
+Ss_30_16_30,Bridge expansion joint systems,Ss_20_50_40 Bridge expansion and movement joint systems,2021-10
+Ss_30_16_30_04,Asphaltic plug joint systems,Ss_20_50_40_04 Asphaltic plug joint systems,2021-10
+Ss_30_16_30_09,Buried expansion joint systems,Ss_20_50_40_09 Buried expansion joint systems,2021-10
+Ss_30_16_30_56,Nosing expansion joint systems with poured sealants,Ss_20_50_40_56 Nosing expansion joint systems with poured sealants,2021-10
+Ss_30_16_30_57,Nosing expansion joint systems with preformed compression seals,Ss_20_50_40_57 Nosing expansion joint systems with preformed compression seals,2021-10
+Ss_30_20_15,Construction site,En_90_30_15 Construction sites,2020-04
+Ss_30_25_10_47,Linear ceiling lining systems,Ss_30_25_22_47 Linear ceiling lining systems,2022-01
+Ss_30_25_22_52,Monolithic suspended ceiling systems,Ss_30_25_10_52 Monolithic suspended ceiling systems,2022-01
+Ss_30_25_22_90,Modular suspended ceiling systems,Ss_30_25_22_51 Modular suspended ceiling systems,2022-01
+Ss_30_32,Floor opening systems,Ss_30_30 Roof and floor opening systems,2020-04
+Ss_30_32_15,Concrete floor glazing systems,Ss_30_30_15 Concrete roof and floor glazing systems,2020-04
+Ss_30_32_15_42,In situ concrete floor glazing systems,Ss_30_30_15_42 In situ concrete roof and floor glazing systems,2020-04
+Ss_30_32_15_64,Precast concrete lift-out access floor glazing systems,Ss_30_30_15_64 Precast concrete lift-out access roof and floor glazing systems,2020-04
+Ss_30_32_15_65,Precast concrete floor glazing systems,Ss_30_30_15_65 Precast concrete roof and floor glazing systems,2020-04
+Ss_30_32_30,Floor hatch systems,Ss_30_30_30 Floor hatch systems,2020-04
+Ss_30_40_34_75,Sloping patent glazing systems,Ss_30_40_32_75 Sloping patent glazing systems,2020-07
+Ss_30_42_50,Masonry flooring systems,Ss_30_14_90 Unit paving systems,2020-07
+Ss_30_60_50,Metal sheet roof flashing systems,"Ss_32_30_30 Flashing systems
+Ss_32_30_90 Weathering systems",2021-07
+Ss_30_60_50_03,Aluminium roof flashing systems,Ss_32_30_30_03 Aluminium flashing systems,2021-07
+Ss_30_60_50_04,Aluminium roof weathering systems,Ss_32_30_90_04 Aluminium weathering systems,2021-07
+Ss_30_60_50_11,Carbon steel roof flashing systems,Ss_32_30_30_11 Carbon steel flashing systems,2021-07
+Ss_30_60_50_12,Carbon steel roof weathering systems,Ss_32_30_90_12 Carbon steel weathering systems,2021-07
+Ss_30_60_50_19,Copper sheet roof flashing systems,Ss_32_30_30_14 Copper flashing systems,2021-07
+Ss_30_60_50_20,Copper sheet roof weathering systems,Ss_32_30_90_15 Copper weathering systems,2021-07
+Ss_30_60_50_47,Lead roof flashing systems,Ss_32_30_30_47 Lead flashing systems,2021-07
+Ss_30_60_50_48,Lead roof weathering systems,Ss_32_30_90_48 Lead weathering systems,2021-07
+Ss_30_60_50_84,Stainless steel roof flashing systems,Ss_32_30_30_84 Stainless steel flashing systems,2021-07
+Ss_30_60_50_85,Stainless steel roof weathering systems,Ss_32_30_90_85 Stainless steel weathering systems,2021-07
+Ss_30_60_50_98,Zinc roof flashing systems,Ss_32_30_30_98 Zinc flashing systems,2021-07
+Ss_30_60_50_99,Zinc roof weathering systems,Ss_32_30_90_99 Zinc weathering systems,2021-07
+Ss_30_75_45,Kerb and traffic separation systems,Ss_30_60_45 Kerb and traffic separation systems,2022-01
+Ss_30_75_45_03,Asphalt kerb systems,Ss_30_60_45_03 Asphalt kerb systems,2022-01
+Ss_30_75_45_15,Concrete kerb systems,Ss_30_60_45_15 Concrete kerb systems,2022-01
+Ss_30_75_45_20,Demarcation paving systems,Ss_30_60_45_20 Demarcation paving systems,2022-01
+Ss_30_75_45_45,Light-duty kerb systems,Ss_30_60_45_45 Light-duty kerb systems,2022-01
+Ss_30_75_45_55,Multi unit traffic calming systems,Ss_30_60_45_55 Multi-unit traffic-calming systems,2022-01
+Ss_30_75_45_65,Precast kerb systems,Ss_30_60_45_65 Precast kerb systems,2022-01
+Ss_30_75_45_80,Single unit traffic calming systems,Ss_30_60_45_80 Single-unit traffic-calming systems,2022-01
+Ss_30_75_45_85,Traffic kerb systems,Ss_30_60_45_85 Traffic kerb systems,2022-01
+Ss_30_75_45_86,Traffic separation systems,Ss_30_60_45_86 Traffic separation systems,2022-01
+Ss_30_75_85,Steam FF&E systems,Ss_40_15_85 Steam bath FF&E systems,2021-07
+Ss_30_95,"Temporary roof, floor and paving systems","Ss_15_95_30 Temporary roof, floor and paving systems",2023-07
+Ss_32_80_03_08,Bridge deck liquid sprayed systems,Ss_20_50_90_10 Bridge deck sprayed liquid waterproofing systems,2023-07
+Ss_32_80_03_40,Interstitial grouting systems,Ss_20_05_80_40 Interstitial grouting systems,2020-04
+Ss_32_80_79_08,Bridge deck sheet systems,Ss_20_50_90_08 Bridge deck sheet waterproofing systems,2023-07
+Ss_32_80_79_35,Ground-supported water retention sheet-lining systems,Ss_32_80_90_35 Ground-supported water retention sheet lining systems,2020-04
+Ss_32_80_79_85,Structure-supported water retention sheet-lining systems,Ss_32_80_90_85 Structure-supported water retention sheet lining systems,2020-04
+Ss_35_95,Temporary stair and ramp systems,Ss_15_95_35 Temporary stair and ramp systems,2023-07
+Ss_37_95,"Temporary tunnel, shaft, vessel and tower systems","Ss_15_95_37 Temporary tunnel, shaft, vessel and tower systems",2023-07
+Ss_40_15_35_50,Minor joinery systems,Ss_40_15_44_50 Minor joinery systems,2022-01
+Ss_40_15_75_76,Sauna package systems,Ss_40_15_77_76 Sauna package systems,2020-04
+Ss_40_15_75_85,Steam bath package systems,Ss_40_15_85_85 Steam bath package systems,2020-10
+Ss_40_15_75_92,Urinal systems,Ss_40_15_75_91 Urinal systems,2020-04
+Ss_40_15_75_94,Washbasin systems,Ss_40_15_75_92 Washbasin systems,2020-04
+Ss_40_15_75_96,Wash fountain systems,Ss_40_15_75_93 Wash fountain systems,2020-04
+Ss_40_15_75_98,Wash trough systems,Ss_40_15_75_94 Wash trough systems,2020-04
+Ss_40_15_90,Toilet systems,Ss_40_15_75 Sanitary appliance systems,2020-04
+Ss_40_15_90_05,Accessible WC package systems,Ss_40_15_75_02 Accessible WC package systems,2020-04
+Ss_40_15_90_85,Squatting WC systems,Ss_40_15_75_83 Squatting WC systems,2020-04
+Ss_40_15_90_95,Waterless toilet systems,Ss_40_15_75_95 Waterless toilet systems,2020-04
+Ss_40_15_90_96,WC and washbasin combination systems,Ss_40_15_75_96 WC and washbasin combination systems,2020-04
+Ss_40_15_90_97,WC systems,Ss_40_15_75_97 WC systems,2020-04
+Ss_40_15_90_98,WC wash and dry combination systems,Ss_40_15_75_98 WC wash and dry combination systems,2020-04
+Ss_40_20_01_27,Embassy FF&E,Ss_40_20_01_60 Office FF&E systems,2022-01
+Ss_40_20_30_20,Cycle parking equipment systems,Ss_40_85_72_20 Cycle parking equipment systems,2020-07
+Ss_40_45_37_07,Bedroom FF&E systems,Ss_40_45_37_36 Hotel bedroom FF&E systems,2018-01
+Ss_40_45_37_22,Dining room FF&E systems,Ss_40_45_37_38 Hotel dining room FF&E systems,2018-01
+Ss_40_45_70_28,External FF&E systems,Ss_40_45_70_33 Garden FF&E systems,2018-01
+Ss_40_70_95_03,Animal shelters,Pr_40_30_04 Animal housing,2016-10
+Ss_40_70_95_06,Bat boxes,Pr_40_30_04_06 Bat boxes,2016-10
+Ss_40_70_95_08,Bird boxes,Pr_40_30_04_08 Bird boxes,2016-10
+Ss_40_70_95_22,Decoys,Pr_40_30_22_22 Decoy predators,2016-10
+Ss_40_70_95_70,Raptor poles,Pr_40_30_04_70 Raptor poles,2016-10
+Ss_40_90_75,Services painting systems,Ss_40_90_60 Painting and clear finishing systems,2020-10
+Ss_40_95,Temporary signage and FF&E systems,"Ss_15_95_40 Temporary signage and fittings, furnishings and equipment (FF&E) systems",2023-07
+Ss_45_55_05_27,Animal road crossing systems,Ss_45_55_27 Animal crossing systems,2020-07
+Ss_45_60,Avian fauna systems,Ss_45_55_10 Avian fauna systems,2020-04
+Ss_45_65,Insectile fauna systems,Ss_45_55_40 Invertebrate fauna systems,2020-04
+Ss_45_70,Mammalian fauna systems,Ss_45_55_50 Mammalian fauna systems,2020-04
+Ss_45_70_05,Animal conservation systems,Ss_45_55_05 Animal conservation systems,2020-04
+Ss_45_70_05_25,Animal conservation assessment survey systems,Ac_15_20_03 Animal conservation assessment surveying,2016-10
+Ss_45_70_05_27,Animal road crossing systems,Ss_45_55_27 Animal crossing systems,2020-04
+Ss_45_70_05_29,Animal species introduction systems,Ss_45_55_05_29 Animal species introduction systems,2020-04
+Ss_45_70_05_30,Animal species protection systems,Ss_45_55_05_30 Animal species protection systems,2020-04
+Ss_45_75_27,Eel pass systems,Ss_45_75_34 Gravity eel pass systems,2021-07
+Ss_45_75_30_03,Alaskan A baffle fish pass systems,Ss_45_75_05_03 Alaskan A baffle fish pass systems,2021-07
+Ss_45_75_30_06,Baffle and brush pass systems,Ss_45_75_08_13 Combined baffle-brush fish pass systems,2021-07
+Ss_45_75_30_09,Brush furnished baffle pass systems,Ss_45_75_08_35 Hassinger brush-furnished fish pass systems,2021-07
+Ss_45_75_30_13,Chevron bottom baffle fish pass systems,Ss_45_75_05_13 Chevron bottom baffle fish pass systems,2021-07
+Ss_45_75_30_21,Deep notch and orifice pool fish pass systems,Ss_45_75_60_21 Deep notch and orifice pool fish pass systems,2021-07
+Ss_45_75_30_23,Deep notch no-orifice pool fish pass systems,Ss_45_75_60_23 Deep notch no-orifice pool fish pass systems,2020-07
+Ss_45_75_30_27,Eel pass systems,Ss_45_75 Piscine fauna systems,2021-04
+Ss_45_75_30_30,Fish pass systems,Ss_45_75 Piscine fauna systems,2021-04
+Ss_45_75_30_44,Lamprey pass systems,Ss_45_75_44 Lamprey pass systems,2021-04
+Ss_45_75_30_46,Larinier super-active baffle fish pass systems,Ss_45_75_05_46 Larinier super-active baffle fish pass systems,2021-07
+Ss_45_75_30_63,Plane baffle denil fish pass systems,Ss_45_75_05_63 Plane baffle Denil fish pass systems,2021-07
+Ss_45_75_30_65,Pool and orifice fish pass systems,Ss_45_75_60_65 Pool and orifice fish pass systems,2021-07
+Ss_45_75_30_67,Pool and traverse fish pass systems,Ss_45_75_60_67 Pool and traverse fish pass systems,2021-07
+Ss_45_75_30_77,Shallow ‘V’ notch pool fish pass systems,Ss_45_75_60_77 Shallow ‘V’ notch pool fish pass systems,2021-07
+Ss_45_75_30_94,Vertical slot pool fish pass systems,Ss_45_75_60_94 Vertical slot pool fish pass systems,2021-07
+Ss_45_80,Reptilian fauna systems,Ss_45_55_70 Reptilian fauna systems,2020-04
+Ss_50_30_06,Below-ground inspection systems,Ss_50_35_06 Below-ground inspection systems,2020-04
+Ss_50_30_06_06,Brick manhole systems,Ss_50_35_06_06 Brick manhole systems,2020-04
+Ss_50_30_06_08,Brick shallow inspection chamber systems,Ss_50_35_06_08 Brick shallow inspection chamber systems,2020-04
+Ss_50_30_06_10,Brick shallow silt trap and flow control chamber systems,Ss_50_35_06_10 Brick shallow silt trap and flow control chamber systems,2020-04
+Ss_50_30_06_12,Concrete deep manhole systems,Ss_50_35_06_12 Concrete deep manhole systems,2020-04
+Ss_50_30_06_14,Concrete manhole systems,Ss_50_35_06_14 Concrete manhole systems,2020-04
+Ss_50_30_06_18,Concrete silt trap and flow control chamber systems,Ss_50_35_06_18 Concrete silt trap and flow control chamber systems,2020-04
+Ss_50_30_06_62,Plastics deep non-entry inspection chamber systems,Ss_50_35_06_62 Plastics deep non-entry inspection chamber systems,2020-04
+Ss_50_30_06_64,Plastics distribution and sampling chamber systems,Ss_50_35_06_64 Plastics distribution and sampling chamber systems,2020-04
+Ss_50_30_06_66,Plastics shallow inspection chamber systems,Ss_50_35_06_66 Plastics shallow inspection chamber systems,2020-04
+Ss_50_30_08,Below-ground gravity drainage systems,Ss_50_35_08 Below-ground gravity drainage systems,2020-04
+Ss_50_30_08_15,Combined below-ground drainage pipeline systems,Ss_50_35_08_15 Combined below-ground drainage pipeline systems,2020-04
+Ss_50_30_08_16,Combined sewer overflow systems,Ss_50_35_08_16 Combined sewer overflow systems,2020-04
+Ss_50_30_08_30,Foul wastewater below-ground drainage pipeline systems,Ss_50_35_08_30 Foul wastewater below-ground drainage pipeline systems,2020-04
+Ss_50_30_08_85,Surface water below-ground drainage pipeline systems,Ss_50_35_08_85 Surface water below-ground drainage pipeline systems,2020-04
+Ss_50_30_10,Below-ground pumped drainage systems,Ss_50_35_10 Below-ground pumped drainage systems,2020-04
+Ss_50_30_10_06,Below-ground private packaged pumping station and pressure pipeline drainage systems,Ss_50_35_10_06 Below-ground package pumping station and pressure pipeline drainage systems,2020-04
+Ss_50_30_45,Land drainage systems,Ss_50_70_45 Land drainage systems,2020-04
+Ss_50_30_45_08,Blanket drain land drainage systems,Ss_50_70_45_08 Blanket drain land drainage systems,2020-04
+Ss_50_30_45_20,Culvert land drainage systems,Ss_50_70_45_20 Culvert land drainage systems,2020-04
+Ss_50_30_45_30,Filter drain land drainage systems,Ss_50_70_45_30 Filter drain land drainage systems,2020-04
+Ss_50_30_45_32,Fin drain piped land drainage systems,Ss_50_70_45_32 Fin drain land drainage systems,2020-04
+Ss_50_30_45_53,Mole or subsoiling drain land drainage systems,Ss_50_70_45_53 Mole and subsoiling drain land drainage systems,2020-04
+Ss_50_30_45_55,Narrow slot fin drain land drainage systems,Ss_50_70_45_32 Fin drain land drainage systems,2020-04
+Ss_50_30_45_75,Slitting or grooving land drainage systems,Ss_50_70_45_75 Slitting and grooving drain land drainage systems,2020-04
+Ss_50_30_45_85,Subsoil drainage pipe drain systems,Ss_50_70_45_85 Subsoil drainage pipe drain systems,2020-04
+Ss_50_30_45_90,Trenchless drain land drainage systems,Ss_50_70_45_90 Trenchless drain land drainage systems,2020-04
+Ss_50_30_65,Pressure relief drainage systems,Ss_50_70_65 Pressure relief drainage systems,2019-04
+Ss_50_30_65_08,Blanket drain pressure relief systems,Ss_50_70_65_08 Blanket drain pressure relief systems,2019-04
+Ss_50_30_65_30,Filter drain pressure relief systems,Ss_50_70_65_30 Filter drain pressure relief systems,2019-04
+Ss_50_30_65_35,Geocomposite sheet fin drain pressure relief systems,Ss_50_70_65_35 Geocomposite sheet fin drain pressure relief systems,2019-04
+Ss_50_30_80,Storm water gravity drainage systems,Ss_50_70_80 Storm water gravity drainage systems,2019-04
+Ss_50_30_80_10,Bifurcation storm water overflow systems,Ss_50_70_80_10 Bifurcation storm water overflow systems,2019-04
+Ss_50_30_80_72,Rigid attenuation or storage tank for storm water flood attenuation systems,Ss_50_70_80_72 Rigid attenuation or storage tank for storm water flood attenuation systems,2019-04
+Ss_50_30_82,Surface and waste water gravity drainage systems,Ss_50_35_82 Surface and wastewater gravity drainage systems,2019-04
+Ss_50_30_82_41,Inlet drainage systems,Ss_50_70_82_41 Inlet drainage systems,2019-04
+Ss_50_30_82_59,Outlet drainage systems,Ss_50_70_82_59 Outlet drainage systems,2019-04
+Ss_50_30_82_73,Road drainage systems,Ss_50_70_82_73 Road drainage systems,2019-04
+Ss_50_30_85,Surface and waste water pumped drainage systems,Ss_50_35_10 Below-ground pumped drainage systems,2019-04
+Ss_50_35_45,Land drainage systems,Ss_50_70_45 Land drainage systems,2023-01
+Ss_50_35_45_08,Blanket drain land drainage systems,Ss_50_70_45_08 Blanket drain land drainage systems,2023-01
+Ss_50_35_45_20,Culvert land drainage systems,Ss_50_70_45_20 Culvert land drainage systems,2023-01
+Ss_50_35_45_30,Filter drain land drainage systems,Ss_50_70_45_30 Filter drain land drainage systems,2023-01
+Ss_50_35_45_32,Fin drain land drainage systems,Ss_50_70_45_32 Fin drain land drainage systems,2023-01
+Ss_50_35_45_53,Mole and subsoiling drain land drainage systems,Ss_50_70_45_53 Mole and subsoiling drain land drainage systems,2023-01
+Ss_50_35_45_55,Narrow slot fin drain land drainage systems,Ss_50_70_45_32 Fin drain land drainage systems,2020-10
+Ss_50_35_45_75,Slitting and grooving drain land drainage systems,Ss_50_70_45_75 Slitting and grooving drain land drainage systems,2023-01
+Ss_50_35_45_85,Subsoil drainage pipe drain systems,Ss_50_70_45_85 Subsoil drainage pipe drain systems,2023-01
+Ss_50_35_45_90,Trenchless drain land drainage systems,Ss_50_70_45_90 Trenchless drain land drainage systems,2023-01
+Ss_50_35_65,Pressure relief drainage systems,Ss_50_70_65 Pressure relief drainage systems,2023-01
+Ss_50_35_65_08,Blanket drain pressure relief systems,Ss_50_70_65_08 Blanket drain pressure relief systems,2023-01
+Ss_50_35_65_30,Filter drain pressure relief systems,Ss_50_70_65_30 Filter drain pressure relief systems,2023-01
+Ss_50_35_65_35,Geocomposite sheet fin drain pressure relief systems,Ss_50_70_65_35 Geocomposite sheet fin drain pressure relief systems,2023-01
+Ss_50_35_80,Storm water gravity drainage systems,Ss_50_70_80 Storm water gravity drainage systems,2023-01
+Ss_50_35_80_10,Bifurcation storm water overflow systems,Ss_50_70_80_10 Bifurcation storm water overflow systems,2023-01
+Ss_50_35_80_72,Rigid attenuation or storage tank for storm water flood attenuation systems,Ss_50_70_80_72 Rigid attenuation or storage tank for storm water flood attenuation systems,2023-01
+Ss_50_35_82,Surface and wastewater gravity drainage systems,Ss_50_70_82 Surface and wastewater gravity drainage systems,2023-01
+Ss_50_35_82_41,Inlet drainage systems,Ss_50_70_82_41 Inlet drainage systems,2023-01
+Ss_50_35_82_59,Outlet drainage systems,Ss_50_70_82_59 Outlet drainage systems,2023-01
+Ss_50_35_82_73,Road drainage systems,Ss_50_70_82_73 Road drainage systems,2023-01
+Ss_50_35_85,Surface and waste water pumped drainage systems,"Ss_50_35_10_08 Below-ground pressure pipeline drainage systems
+Ss_50_35_10_10 Below-ground pumping station drainage systems",2021-07
+Ss_50_70_85_72,SuDS retention pond systems,Ss_50_70_85_64 Pond systems,2019-01
+Ss_50_75_21_20,Desludging systems,Ss_50_75_21 Wastewater sludge management systems,2021-01
+Ss_50_75_21_75,Settlement tank gravity desludging systems,Ss_50_75_21 Wastewater sludge management systems,2023-01
+Ss_50_75_21_78,Sludge disposal systems,Ss_50_75_21 Wastewater sludge management systems,2023-01
+Ss_50_75_21_80,Sludge handling systems,Ss_50_75_21 Wastewater sludge management systems,2023-01
+Ss_50_75_21_96,Wastewater desludging systems,Ss_50_75_21 Wastewater sludge management systems,2023-01
+Ss_50_75_58,Odour control systems,Ss_85_30_58 Odour control systems,2023-01
+Ss_50_75_58_07,Biofiltration systems,Ss_85_30_58_07 Biofiltration systems,2023-01
+Ss_50_75_58_08,Bio-scrubber systems,Ss_85_30_58_08 Bio-scrubber systems,2023-01
+Ss_50_75_58_11,Catalytic iron filter systems,Ss_85_30_58_11 Catalytic iron filter systems,2023-01
+Ss_50_75_58_23,Dry installation systems,Ss_85_30_58_23 Dry installation systems,2023-01
+Ss_50_75_58_96,Wet scrubber systems,Ss_85_30_58_96 Wet scrubber systems,2023-01
+Ss_50_75_67,Primary sewage treatment and final settlement systems,Ss_50_75_98 Wastewater storage systems,2023-01
+Ss_50_75_67_38,Horizontal flow tank systems,Ss_50_75_98 Wastewater storage systems,2023-01
+Ss_50_75_67_46,Lamella tank systems,Ss_50_75_98 Wastewater storage systems,2023-01
+Ss_50_75_67_70,Radial flow tank systems,Ss_50_75_98 Wastewater storage systems,2023-01
+Ss_50_75_92_13,Chemical dosing systems,Ss_50_75_92 Wastewater chemical dosing systems,2023-01
+Ss_50_75_93_02,Aggregate filtration systems,Ss_50_75_93 Wastewater filtration systems,2023-01
+Ss_50_75_95_67,Pumped wastewater systems,Ss_50_75_95 Wastewater treatment pumping systems,2023-01
+Ss_50_80_82,Solid waste sorting systems,Ss_50_80_80_82 Solid waste sorting systems,2023-10
+Ss_50_95,Temporary disposal systems,Ss_15_95_50 Temporary disposal systems,2023-07
+Ss_55_15_55_21,Desludging systems,Ss_55_15_55 Water treatment sludge management systems,2023-01
+Ss_55_15_55_23,Direct homogenous sand filtration systems,Ss_55_15_55 Water treatment sludge management systems,2023-01
+Ss_55_15_55_25,Direct twin and triple-layer filtration systems,Ss_55_15_55 Water treatment sludge management systems,2023-01
+Ss_55_15_55_30,Filtration systems,Ss_55_15_55 Water treatment sludge management systems,2023-01
+Ss_55_15_55_32,Flotation systems,Ss_55_15_55 Water treatment sludge management systems,2023-01
+Ss_55_15_55_80,Static settling systems,Ss_55_15_55 Water treatment sludge management systems,2023-01
+Ss_55_15_60_08,Biological filter systems,Ss_55_15_85 Water treatment filtration systems,2023-01
+Ss_55_15_60_60,Ozone oxidation systems,Ss_55_15_80 Water treatment disinfection systems,2023-01
+Ss_55_15_65,Potable water storage tank systems,Pr_60_50_96 Water storage products,2023-01
+Ss_55_15_65_15,Concrete potable water storage systems,Pr_60_50_96_15 Concrete tanks,2023-01
+Ss_55_15_65_65,Plastics potable water storage systems,"Pr_60_50_96_64 Polyethylene (PE) tanks
+Pr_60_50_96_65 Polypropylene (PP) tanks",2023-01
+Ss_55_15_65_72,Reinforced concrete potable water storage systems,Pr_60_50_96_15 Concrete tanks,2023-01
+Ss_55_15_65_84,Steel framed potable water storage systems,Pr_60_50_96 Water storage products,2023-01
+Ss_55_15_70,Water reservoir systems,"Ss_55_15 Water extraction, treatment and storage systems",2021-01
+Ss_55_15_85_23,Dissolved air flotation systems,Ss_55_15_85 Water treatment filtration systems,2023-01
+Ss_55_15_85_75,Sandfilter systems,Ss_55_15_85 Water treatment filtration systems,2023-01
+Ss_55_15_95,Wet well systems,"Ss_55_15_20 Raw water pumping systems
+Ss_55_70_70 Treated water pumping systems",2023-01
+Ss_55_15_95_64,Piled wet well systems,"Ss_55_15_20 Raw water pumping systems
+Ss_55_70_70 Treated water pumping systems",2023-01
+Ss_55_15_95_72,Reinforced concrete wet well systems,"Ss_55_15_20 Raw water pumping systems
+Ss_55_70_70 Treated water pumping systems",2023-01
+Ss_55_20_15,Compressed air supply systems,Ss_55_20_60_15 Compressed air supply systems,2020-07
+Ss_55_20_15_42,Industrial compressed air supply systems,Ss_55_20_60_15 Compressed air supply systems,2020-07
+Ss_55_20_15_46,Laboratory compressed air supply systems,Ss_55_20_45_15 Laboratory compressed air supply systems,2020-07
+Ss_55_20_15_51,Medical compressed air supply systems,Ss_55_20_51_15 Medical compressed air supply systems,2020-07
+Ss_55_20_51_27,Medical entonox supply systems,Ss_55_20_51_57 Medical nitrous oxide/ oxygen mixture supply systems,2021-10
+Ss_55_20_94,Vacuum supply systems,Ss_55_20 Gas and vacuum distribution and supply systems,2020-07
+Ss_55_20_94_51,Medical vacuum supply systems,Ss_55_20_51_94 Medical vacuum systems,2020-07
+Ss_55_30_35_31,Foam fire-extinguishing systems,Ss_55_30_30_31 Foam fire-extinguishing systems,2020-07
+Ss_55_30_96_21,Deluge systems,Ss_55_30_98_21 Deluge systems,2019-04
+Ss_55_30_96_23,Domestic sprinkler systems,Ss_55_30_98_23 Domestic and residential sprinkler systems,2019-04
+Ss_55_30_96_85,Sprinkler systems,Ss_55_30_98_85 Sprinkler systems,2019-04
+Ss_55_30_96_96,Water mist systems,Ss_55_30_98_96 Water mist systems,2019-04
+Ss_55_95,Temporary piped supply systems,Ss_15_95_55 Temporary piped supply systems,2023-07
+Ss_60_40_15_90,Combined underfloor heating and cooling systems,Ss_60_40_92_15 Combined underfloor heating and cooling systems,2020-04
+Ss_60_40_17_71,Refrigerant cooling systems,Ss_60_60_70_71 Refrigerant cooling systems,2020-04
+Ss_60_40_17_92,Underfloor chilled water systems,Ss_60_40_92_92 Underfloor chilled water systems,2020-04
+Ss_60_40_17_94,Variable refrigerant flow systems,Ss_60_60_70_94 Variable refrigerant flow systems,2020-04
+Ss_60_40_37_27,Electric underfloor heating systems,Ss_60_40_92_27 Electric underfloor heating systems,2020-04
+Ss_60_40_37_28,Electrical resistance trace heating systems,Ss_60_40_90_28 Electrical resistance trace heating systems,2020-04
+Ss_60_40_37_94,Underfloor low-temperature hot water heating systems,Ss_60_40_92_94 Underfloor low-temperature hot water heating systems,2020-04
+Ss_60_95,"Temporary heating, cooling and refrigeration systems","Ss_15_95_60 Temporary heating, cooling and refrigeration systems",2023-07
+Ss_65_40_25,Dust extract systems,Ss_65_40_42_25 Dust extract systems,2020-07
+Ss_65_40_55,Nuclear ventilation systems,Ss_65_60_55 Hazardous processes ventilation systems,2020-07
+Ss_65_95,Temporary ventilation and air conditioning systems,Ss_15_95_65 Temporary ventilation and air conditioning systems,2023-07
+Ss_70_10_32,Geothermal power generation systems,Ss_70_10_70_33 Geothermal power generation systems,2016-10
+Ss_70_10_32_33,Geothermal power generation systems,Ss_70_10_70_33 Geothermal power generation systems,2016-10
+Ss_70_10_35,Gravity power generation systems,Ss_70_10_70 Renewable power generation systems,2016-10
+Ss_70_10_35,High-voltage transmission systems,Ss_70_20_35 High-voltage transmission and distribution systems,2023-10
+Ss_70_10_35_36,Hydroelectric power generation systems,Ss_70_10_70_36 Hydroelectric power generation systems,2016-10
+Ss_70_10_35_96,Water mill systems,Ss_70_10_70_95 Water mill systems,2016-10
+Ss_70_10_35_97,Water turbine systems,Ss_70_10_70_97 Water turbine systems,2016-10
+Ss_70_10_80,Solar power generation systems,Ss_70_10_70 Renewable power generation systems,2016-10
+Ss_70_10_80_35,Grid-connected photovoltaic systems,Ss_70_10_70_35 Grid-connected photovoltaic systems,2016-10
+Ss_70_10_80_85,Stand-alone photovoltaic systems,Ss_70_10_70_85 Stand-alone photovoltaic systems,2016-10
+Ss_70_10_96,Wave and tidal power generation systems,Ss_70_10_70_80 Small-scale wave and tidal power generation systems,2016-10
+Ss_70_10_96_80,Small-scale wave and tidal power generation systems,Ss_70_10_70_80 Small-scale wave and tidal power generation systems,2016-10
+Ss_70_10_97,Wind power generation systems,Ss_70_10_70_98 Wind power generating systems,2016-10
+Ss_70_10_97_80,Small-scale wind power generation systems,Ss_70_10_70_82 Small-scale wind-powered electricity generation systems,2016-10
+Ss_70_10_97_97,Wind power generating systems,Ss_70_10_70_98 Wind power generating systems,2016-10
+Ss_70_30_35_40,High voltage transmission systems,Ss_70_20_35 High-voltage transmission and distribution systems,2019-07
+Ss_70_30_90_90,Third rail electrification systems,Ss_70_30_90_15 Conductor rail electrification systems,2023-01
+Ss_70_80_33_92,Underwater lighting systems,Ss_70_80_85_92 Underwater lighting systems,2022-01
+Ss_70_95,Temporary electrical systems,Ss_15_95_70 Temporary electrical systems,2023-07
+Ss_75_30_35_52,Motorway signal and control systems,Ss_75_30_35 Road signal and control systems,2020-04
+Ss_75_30_35_72,Traffic signal systems,Ss_75_30_35_88 Traffic signal systems,2020-04
+Ss_75_30_35_90,Traffic management control systems,Ss_75_70_90_91 Traffic management control systems,2020-10
+Ss_75_50_11_05,Assistance call systems,Ss_75_50_11_25 Emergency assistance call systems,2020-10
+Ss_75_50_11_95,Voice alarm systems,Ss_75_50_28_95 Voice alarm systems,2020-10
+Ss_75_50_15,Cathodic protection systems,Ss_20_70_10 Cathodic protection systems,2023-04
+Ss_75_50_15_02,Adhesive-backed zinc sheet anode systems,Ss_20_70_10_02 Adhesive-backed zinc sheet anode systems,2023-04
+Ss_75_50_15_09,Buried galvanic anode systems,Ss_20_70_10_09 Buried galvanic anode systems,2023-04
+Ss_75_50_15_10,Buried impressed current anode systems,Ss_20_70_10_10 Buried impressed current anode systems,2023-04
+Ss_75_50_15_27,Embedded impressed current anode systems,Ss_20_70_10_27 Embedded impressed current anode systems,2023-04
+Ss_75_50_15_28,Embedded zinc anode systems,Ss_20_70_10_28 Embedded zinc anode systems,2023-04
+Ss_75_50_15_41,Immersed galvanic anode systems,Ss_20_70_10_41 Immersed galvanic anode systems,2023-04
+Ss_75_50_15_42,Immersed impressed current anode systems,Ss_20_70_10_42 Immersed impressed current anode systems,2023-04
+Ss_75_50_15_72,Recess-mounted impressed current anode systems,Ss_20_70_10_72 Recess-mounted impressed current anode systems,2023-04
+Ss_75_50_15_85,Surface-mounted impressed current anode systems,Ss_20_70_10_85 Surface-mounted impressed current anode systems,2023-04
+Ss_75_50_15_99,Zinc mesh in overlay systems,Ss_20_70_10_99 Zinc mesh in overlay systems,2023-04
+Ss_75_50_28_30,Fixed gas detection and alarm systems,Ss_75_50_33_30 Fixed gas detection and alarm systems,2020-01
+Ss_75_50_28_32,Flow sample gas detection and alarm systems,Ss_75_50_33_32 Flow sample gas detection and alarm systems,2020-01
+Ss_75_50_28_71,Refrigerant leak detection and alarm systems,Ss_75_50_33_71 Refrigerant leak detection and alarm systems,2020-01
+Ss_75_50_28_96,Water leak detection and alarm systems,Ss_75_50_50_96 Water leak detection and alarm systems,2020-01
+Ss_75_50_28_97,Water presence detection and alarm systems,Ss_75_50_50_45 Liquid presence detection and alarm systems,2020-01
+Ss_75_50_33_96,Water leak detection and alarm systems,Ss_75_50_50_96 Water leak detection and alarm systems,2020-07
+Ss_75_50_33_97,Water presence detection and alarm systems,Ss_75_50_50_45 Liquid presence detection and alarm systems,2020-07
+Ss_75_50_45,Electrical protection systems,Ss_70_30_25 Electrical protection systems,2023-04
+Ss_75_50_45_45,Lightning protection systems,Ss_70_30_25_45 Lightning protection systems,2023-04
+Ss_75_60_25,Earthquake warning systems,Ss_75_60_55_25 Earthquake warning systems,2021-01
+Ss_75_60_30,Flood warning systems,Ss_75_60_55_30 Flood warning systems,2021-01
+Ss_75_60_52,Meteorological instrumentation systems,Ss_75_60_50 Meteorological systems,2021-01
+Ss_75_60_52_95,Weather observation systems,Ss_75_60_50_95 Weather observation systems,2021-01
+Ss_75_60_70,Radiation detection and alarm systems,Ss_75_60_45_70 Radiation detection and alarm systems,2021-01
+Ss_75_60_75,Seismic instrumentation systems,Ss_75_60_55_75 Seismic instrumentation systems,2021-01
+Ss_75_60_90,Tsunami warning systems,Ss_75_60_55_90 Tsunami warning systems,2021-01
+Ss_75_60_95,Volcanic eruption warning systems,Ss_75_60_55_95 Volcanic eruption warning systems,2021-01
+Ss_75_70_35,Highway control systems,Ss_75_30_35 Road signal and control systems,2020-04
+Ss_75_70_70,Railway control systems,Ss_75_30_70 Railway signal and control systems,2019-07
+Ss_75_70_72,Road control systems,Ss_75_30_35 Road signal and control systems,2020-04
+Ss_75_80,Protection systems,Ss_70_30_25 Electrical protection systems,2018-10
+Ss_75_80_10,Cathodic protection systems,Ss_20_70_10 Cathodic protection systems,2018-10
+Ss_75_80_10_02,Adhesive backed zinc sheet anode systems,Ss_20_70_10_02 Adhesive-backed zinc sheet anode systems,2018-10
+Ss_75_80_10_09,Buried galvanic anode systems,Ss_20_70_10_09 Buried galvanic anode systems,2018-10
+Ss_75_80_10_10,Buried impressed current anode systems,Ss_20_70_10_10 Buried impressed current anode systems,2018-10
+Ss_75_80_10_27,Embedded impressed current anode systems,Ss_20_70_10_27 Embedded impressed current anode systems,2018-10
+Ss_75_80_10_28,Embedded zinc anode systems,Ss_20_70_10_28 Embedded zinc anode systems,2018-10
+Ss_75_80_10_41,Immersed galvanic anode systems,Ss_20_70_10_41 Immersed galvanic anode systems,2018-10
+Ss_75_80_10_42,Immersed impressed current anode systems,Ss_20_70_10_42 Immersed impressed current anode systems,2018-10
+Ss_75_80_10_72,Recess mounted impressed current anode systems,Ss_20_70_10_72 Recess-mounted impressed current anode systems,2018-10
+Ss_75_80_10_85,Surface mounted impressed current anode systems,Ss_20_70_10_85 Surface-mounted impressed current anode systems,2018-10
+Ss_75_80_10_99,Zinc mesh in overlay systems,Ss_20_70_10_99 Zinc mesh in overlay systems,2018-10
+Ss_75_80_45,Electrical protection systems,Ss_70_30_25 Electrical protection systems,2018-10
+Ss_75_80_45_25,Earthing and bonding systems,Ss_70_30_25_25 Earthing and bonding systems,2018-10
+Ss_75_80_45_45,Lightning protection systems,Ss_70_30_25_45 Lightning protection systems,2018-10
+Ss_75_95,"Temporary communications, security, safety, control and protection systems","Ss_15_95_75 Temporary communications, security, safety, control and protection systems",2023-07
+Ss_80_30_10,Bulk handling crane systems,Ss_80_30_15_10 Bulk handling crane systems,2019-04
+Ss_80_30_45,Industrial crane systems,Ss_80_30_15 Crane systems,2019-04
+Ss_80_30_45_50,Overhead crane systems,Ss_80_30_15_59 Overhead crane systems,2019-04
+Ss_80_50_60_42,Inclined stairlift systems,Ss_80_50_02_83 Stairlift systems,2019-07
+Ss_80_50_60_50,Manual dumb waiter systems,Ss_80_50_01_50 Manual dumb waiter systems,2021-10
+Ss_80_50_60_65,Powered homelift systems,Ss_80_50_02_65 Powered homelift systems,2021-10
+Ss_80_50_60_83,Stairlift systems,Ss_80_50_02_83 Stairlift systems,2021-10
+Ss_80_50_60_85,Step lift systems,Ss_80_50_02_85 Step lift systems,2021-10
+Ss_80_50_60_94,Vertical lifting platform systems,Ss_80_50_02_94 Vertical lifting platform systems,2021-10
+Ss_80_70_69,Rail buffer systems,Ss_80_70_89 Train arrestor systems,2018-01
+Ss_80_70_69_30,Fixed buffer systems,Ss_80_70_89_30 Fixed train arrestor systems,2018-01
+Ss_80_70_69_31,Friction buffer systems,Ss_80_70_89_50 Moveable train arrestor systems,2018-01
+Ss_80_95,Temporary transport systems,Ss_15_95_80 Temporary transport systems,2023-07
+Ss_85_95,Temporary process engineering systems,Ss_15_95_85 Temporary process engineering systems,2023-07
+TE_10_40_10,Access doors,TE_10_40_85_01 Access doors,2019-07
+TE_10_40_40,Keys,TE_10_40_85_45 Keys,2019-07
+TE_10_40_50,Road forms,TE_10_40_55_72 Road forms,2019-07
+TE_10_40_60,Sheeting,TE_10_40_55_77 Sheeting,2019-07
+TE_10_40_70,Telescopic floor centres,TE_10_40_75_87 Telescopic floor centres,2019-07
+TE_10_40_80,Formwork wedges,TE_10_40_85_96 Formwork wedges,2019-07
+TE_10_40_90,Wrot,TE_10_40_55_96 Wrot,2019-07
+TE_10_60,Formwork sealing and cleaning products,Pr_35_31_77_15 Concrete sealers,2019-07
+TE_10_80,Formwork supports,TE_10_40_75 Formwork supports,2019-07
+TE_10_80_10,Telescopic props,TE_10_40_75_89 Telescopic props,2019-07
+TE_20_10_10_54,Mobile elevating work platform,TE_30_30_60_25 Mobile elevating work platforms (MEWPs),2023-01
+TE_20_10_20,Mobile working towers,TE_20_10_10_52 Mobile working towers,2019-07
+TE_20_10_30,Mobile elevating work platforms,TE_30_30_60_25 Mobile elevating work platforms (MEWPs),2019-07
+TE_20_10_80,Suspended work platforms,TE_20_10_10_86 Suspended work platforms,2019-07
+TE_20_30_10_46,Ladders,TE_20_40_10 Ladders and steps,2017-04
+TE_20_30_10_47,Landings,SL_90_10_46 Landings,2018-01
+TE_20_30_10_85,Stairways,SL_90_10_87 Stairways,2018-01
+TE_20_30_30_36,Handrails,Pr_25_30_36 Handrails,2018-01
+TE_20_50_10,Adjustable struts,TE_20_50_75_02 Adjustable struts,2019-07
+TE_20_50_20,Baulk timbers,TE_20_50_65_06 Baulk timbers,2019-07
+TE_20_50_30,Dogs,TE_20_50_65_23 Dogs,2019-07
+TE_20_50_40,Folding wedges,TE_20_50_65_30 Folding wedges,2019-07
+TE_20_50_50,Needles,TE_20_50_65_56 Needles,2019-07
+TE_20_50_60,Strutting timbers,TE_20_50_75_75 Strutting timbers,2019-07
+TE_20_50_70,Sole plates,TE_20_50_65_83 Sole plates,2019-07
+TE_20_80_20,Fencing boarding,Ss_25_14 Fence systems,2019-07
+TE_20_80_30,Fencing chestnut,Pr_25_57_56_14 Cleft chestnut palisade rolls,2019-07
+TE_20_80_40,Fencing panels,Ss_25_14 Fence systems,2019-07
+TE_20_80_50,Fencing supports,Ss_25_14 Fence systems,2019-07
+TE_30_20,Construction lifts,TE_30_30_10 Construction lifts,2018-08
+TE_30_20_10,Lift bottom and landing gates,TE_30_30_10_10 Lift bottom and landing gates,2018-08
+TE_30_20_40,Lift cages,TE_30_30_10_40 Lift cages,2018-08
+TE_30_20_50,Lifting mechanisms,TE_30_70_50 Lifting mechanisms,2018-08
+TE_30_20_60,Lift platforms,TE_30_30_10_60 Lift platforms,2018-08
+TE_30_20_80,Lift safety limiters,TE_30_30_10_80 Lift safety limiters,2018-08
+TE_30_30_10,Double drum friction winches,TE_30_30_90_10 Double drum friction winches,2018-08
+TE_30_30_70,Single drum winches,TE_30_30_90_70 Single drum winches,2018-08
+TE_30_40,Hoists,TE_30_30_40 Hoists,2018-08
+TE_30_40_10,Lorry loaders,TE_30_30_40_10 Lorry loaders,2018-08
+TE_30_40_40,Mobile hoists,TE_30_30_40_40 Mobile hoists,2018-08
+TE_30_40_60,Rack and pinion dual use hoists,TE_30_30_40_60 Rack and pinion dual-use hoists,2018-08
+TE_30_40_70,Rack and pinion single use hoists,TE_30_30_40_70 Rack and pinion single-use hoists,2018-08
+TE_30_40_80,Scaffold hoists,TE_30_30_40_80 Scaffold hoists,2018-08
+TE_30_50_10_76,Screw conveyors,TE_30_50_10_05 Auger conveyors,2018-01
+TE_30_60,Lifting platforms,TE_30_30_60 Lifting platforms,2018-08
+TE_30_60_50,Self-propelled platforms,TE_30_30_60_50 Self-propelled platforms,2018-08
+TE_30_60_60,Scissor lifts,TE_30_30_60_60 Scissor lifts,2018-08
+TE_30_60_70,Telescopic platforms,TE_30_30_60_70 Telescopic platforms,2018-08
+TE_30_60_80,Trailer mounted platforms,TE_30_30_60_80 Trailer mounted platforms,2018-08
+TE_30_60_95,Vehicle mounted platforms,TE_30_30_60_90 Vehicle mounted platforms,2018-08
+TE_30_70_20,Chain blocks,TE_30_70_50_12 Chain blocks,2018-08
+TE_30_70_30,Chains,TE_30_70_50_14 Lifting chains,2018-08
+TE_30_70_50,Pull lifts,TE_30_70_50_60 Pull lifts,2018-08
+TE_30_70_60,Ropes,TE_30_70_50_70 Lifting ropes,2018-08
+TE_30_70_70,Slings and brothers,TE_30_70_50_80 Slings and brothers,2018-08
+TE_30_70_80,Wires,TE_30_70_50_95 Lifting wires,2018-08
+TE_30_80,Lifting trucks,TE_30_30_80 Lifting trucks,2018-08
+TE_30_80_30,Lift trucks,TE_30_30_80_30 Lift trucks,2018-08
+TE_30_80_50,Manual lift trucks,TE_30_30_80_50 Manual lift trucks,2018-08
+TE_30_80_70,Portal lift trucks,TE_30_30_80_70 Portal lift trucks,2018-08
+TE_40_30_10_52,Motor graders,TE_40_70_10_52 Motor graders,2019-07
+TE_40_30_30_52,Motorized scrapers,TE_40_70_50_52 Motorized scrapers,2019-07
+TE_40_30_30_53,Motorized elevating scrapers,TE_40_70_50_53 Motorized elevating scrapers,2019-07
+TE_40_30_30_78,Semi-trailer tractor trucks,TE_40_10_50 Lorries,2019-07
+TE_40_30_30_87,Tractor loading shovels,TE_60_60_30_65 Power-driven loading shovels,2019-07
+TE_40_30_30_88,Tractor loading shovels with back hoe equipment,TE_60_60_30_65 Power-driven loading shovels,2019-07
+TE_40_30_30_89,Tractor loading shovels with four-in-one equipment,TE_60_60_30_65 Power-driven loading shovels,2019-07
+TE_40_30_30_90,Tractor loading shovels with ripper attachment,TE_60_60_30_65 Power-driven loading shovels,2019-07
+TE_40_50_10,Vehicles,TE_40 Construction vehicles,2019-07
+TE_40_50_10_15,Coaches/ buses,TE_40 Construction vehicles,2019-07
+TE_40_50_10_60,Passenger/ goods cross country vehicles,TE_40 Construction vehicles,2019-07
+TE_40_50_10_72,Road sweepers with gully emptiers,TE_50_70_60_72 Road sweepers with gully emptiers,2019-07
+TE_40_50_10_77,Self-propelled road cleaners,TE_50_70_60_77 Self-propelled road cleaners,2019-07
+TE_40_50_10_84,Station wagons,TE_40 Construction vehicles,2019-07
+TE_40_50_10_94,Vans,TE_40 Construction vehicles,2019-07
+TE_40_50_60_31,Fuel storage tanks,TE_40_50_60_77 Self-propelled fuel tankers,2019-07
+TE_40_50_60_47,LPG cylinders,Pr_60_50_33_46 Liquefied gas cylinders,2019-07
+TE_40_70_50_77,"Scraper systems, gravel extraction",TE_40_70_50_24 Drag scrapers,2019-07
+TE_40_70_90_07,Backhoe loaders,TE_40_70_40_07 Backhoe loaders,2019-07
+TE_40_70_90_34,Graders,TE_40_70_10 Dozers and graders,2019-07
+TE_50_20_10_21,Drilling machines for foundation piles,TE_50_20_10_63 Pile drilling machines,2019-07
+TE_50_20_10_22,Drilling machines for post and mast holes,TE_50_20_10_65 Post and mast hole drilling machines,2019-07
+TE_50_20_10_23,Drilling machines for soil exploration,TE_50_20_10_80 Soil exploration drilling machines,2019-07
+TE_50_20_10_24,Drilling vehicles,TE_50_10_30 Drilling vehicles,2018-01
+TE_50_20_70,Diaphragm walling plant,"TE_50_20 Drilling, piling and canal trimming equipment",2019-07
+TE_50_20_80,Hydraulic pipe pushers,TE_70_20_85_40 Hydraulic pipe pushers,2019-07
+TE_50_80,Planers,TE_50_70_10 Asphalt pavement equipment,2019-07
+TE_50_80_20,Heater planers,TE_50_70_10 Asphalt pavement equipment,2019-07
+TE_50_80_40,Cold planers,TE_50_70_10_15 Cold planers,2019-07
+TE_60_20_10,Stone breakers,TE_60_20_15_84 Stone breakers,2019-07
+TE_60_20_30,Brick crushers,TE_60_20_15_08 Brick crushers,2019-07
+TE_60_20_40,Gyratory crushers,TE_60_20_15_35 Gyratory crushers,2019-07
+TE_60_20_50,Impact-type crushers,TE_60_20_15_42 Impact-type crushers,2019-07
+TE_60_20_60,Hammer crushers,TE_60_20_15_36 Hammer crushers,2019-07
+TE_60_20_70,Roller crushers,TE_60_20_15_72 Roller crushers,2019-07
+TE_60_30_10,Circular vibratory screens,TE_60_30_80_14 Circular vibratory screens,2019-07
+TE_60_30_20,Eccentric vibratory screens,TE_60_30_80_26 Eccentric vibratory screens,2019-07
+TE_60_30_40,Linear vibratory screens,TE_60_30_80_46 Linear vibratory screens,2019-07
+TE_60_30_70,Screens with electromagnetic drive,TE_60_30_80 Vibrating screens,2019-07
+TE_60_40_60,"Washing machines, scoops for aggregates",TE_60_40_05 Aggregate washing machines,2020-07
+TE_60_60_10_78,Silos for cement and aggregates,TE_60_40_40_78 Aggregate silos,2019-07
+TE_60_60_20_27,Equipment for washing out concrete residues,TE_60_60_20 Concrete and mortar transportation equipment,2019-07
+TE_60_60_60_80,Spreaders,TE_60_60_60_19 Concrete spreaders,2018-01
+TE_60_80_90,Diamond tools,TE_70_50_40_21 Diamond drilling and chasing equipment,2019-07
+TE_70_10_10_50,Office fittings,TE_70_10_10_80 Site office fittings,2019-07
+TE_70_10_10_89,Toilet units,TE_70_10_10_65 Portable toilet units,2019-07
+TE_70_10_20_85,"Steam generators, water heaters",TE_70_10_20_97 Water heaters,2019-07
+TE_70_10_30_85,Tilley lamps,TE_70_10_30_85 Storm lamps,2019-07
+TE_70_10_40_11,Cable and pipeline detectors,"TE_70_50_45_12 Cable locators
+TE_70_50_45_63 Pipeline locators",2018-08
+TE_70_20_10_38,Helmets,TE_70_20_10_98 Welding helmets,2019-07
+TE_70_20_20_75,Safety harnesses,Pr_40_70_75_77 Safety harnesses,2018-01
+TE_70_20_20_96,Warning signs,Pr_40_10_77_97 Warning signs,2018-01
+TE_70_20_30_72,Road cones,Pr_40_10_77_89 Traffic cones,2019-07
+TE_70_20_70_03,Air receivers,TE_70_20_70_15 Compressed air receivers,2018-01
+TE_70_20_90_46,Ladders,TE_20_40_10 Ladders and steps,2017-04
+TE_70_40_50_15,Clinometer,Pr_80_51_85_41 Inclinometers,2019-07
+TE_70_50_20_60,Pairs of footprints,TE_70_50_20_67 Pipe wrenches,2019-07
+TE_70_50_20_62,Pipe benders,TE_70_20_85_62 Pipe benders,2019-07
+TE_70_50_20_63,Pipe cutters,TE_70_20_85_63 Pipe cutters,2019-07
+TE_70_50_20_66,Pipe threading equipment,TE_70_20_85_66 Pipe threading equipment,2019-07
+TE_70_50_40_06,Diamond drilling and chasing equipment,TE_70_50_40_21 Diamond drilling and chasing equipment,2018-08
+TE_70_50_40_07,Drill bits,TE_70_50_40_22 Drill bits,2018-08
+TE_70_50_40_09,Drill rods,TE_70_50_40_23 Drill rods,2018-08
+TE_70_50_40_10,Drill stands,TE_70_50_40_24 Drill stands,2018-08
+TE_70_50_80_08,Bolt cutters,TE_70_50_75_08 Bolt cutters,2023-01
+TE_70_60_80,Strimmers,TE_70_20_25_85 Strimmers,2018-08
